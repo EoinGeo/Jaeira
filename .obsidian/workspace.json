@@ -1,0 +1,192 @@
+{
+  "main": {
+    "id": "5665587576d8e4f0",
+    "type": "split",
+    "children": [
+      {
+        "id": "72f5629b7f1a18ec",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "22b68452389cb7ea",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "48401ecf79e2083a",
+    "type": "split",
+    "children": [
+      {
+        "id": "9533a2e2980010b7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0f891f4967d714dd",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "c49a41d55691c409",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "50cfc84e970b5b61",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 292.5
+  },
+  "right": {
+    "id": "ffcbdc4bc555849e",
+    "type": "split",
+    "children": [
+      {
+        "id": "804bafc79e6c0499",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "aa82215433def4d8",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "3f7ab5b73c519dd1",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "03369a5c9335b082",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "d72dcaf3d116b541",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          },
+          {
+            "id": "9247fba97664c4cf",
+            "type": "leaf",
+            "state": {
+              "type": "FANTASY_CALENDAR",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "fantasy-calendar:Open Large Fantasy Calendar": false,
+      "obsidian-leaflet-plugin:Open Leaflet Map": false,
+      "obsidian-5e-statblocks:Open Creature Pane": false
+    }
+  },
+  "active": "9247fba97664c4cf",
+  "lastOpenFiles": [
+    "Jaeira",
+    "Races/Dragonborn.md",
+    "Races/Human.md",
+    "People",
+    "Nations",
+    "Cities",
+    "Pantheons",
+    "Races",
+    "Events",
+    "5e Reference Data/creatures/Baboon.md",
+    "5e Reference Data/Monsters.md",
+    "5e Reference Data/Underwater Combat.md",
+    "5e Reference Data/Weapons.md",
+    "5e Reference Data/Trade Goods.md",
+    "5e Reference Data/Treasure.md",
+    "5e Reference Data/The Environment.md",
+    "5e Reference Data/Time.md",
+    "5e Reference Data/Situational Rules.md",
+    "5e Reference Data/Spell Attack Rolls.md",
+    "5e Reference Data/Sentient Magic.md",
+    "5e Reference Data/NPCs.md",
+    "5e Reference Data/Proficiency Bonus.md",
+    "5e Reference Data/Mounted Combat.md",
+    "5e Reference Data/Making an Attack.md",
+    "5e Reference Data/Monster Statistics.md",
+    "5e Reference Data/Languages.md",
+    "5e Reference Data/Magic Items.md",
+    "5e Reference Data/Legendary Creatures.md",
+    "5e Reference Data/Rituals.md",
+    "5e Reference Data/Spellcasting.md",
+    "5e Reference Data/Spells.md",
+    "5e Reference Data/Artifacts.md",
+    "5e Reference Data/races",
+    "5e Reference Data/classes",
+    "5e Reference Data/spells",
+    "5e Reference Data/npcs",
+    "Untitled.canvas"
+  ]
+}
