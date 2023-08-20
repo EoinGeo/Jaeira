@@ -1,0 +1,11 @@
+#Gods 
+A Trio of Gods in the [[Jaerian Pantheon]]
+The Jaerian Trio of War is a powerful trio of deities in the pantheon of [[Rellivvra]], the goddess of slaughter, brutality, and bloodshed, [[Imlivil]], the god of strategy and intelligence, and [[Divrin]], the goddess of soldiers. Together, they represent different aspects of warfare and play crucial roles in the domain of conflict.
+
+[[Rellivvra]], also known as the Goddess of Slaughter, embodies the darker and more violent side of war. She revels in chaos, bloodshed, and destruction. [[Rellivvra]] is often depicted as a fearsome warrior, fierce and merciless in battle. Warriors and soldiers often invoke her for strength, courage, and victory, but they also fear her wrath. She is associated with rage, brutality, and the sheer intensity of combat.
+
+[[Imlivil]], on the other hand, is the God of Strategy and Intelligence. He is the embodiment of cunning, intellect, and planning in warfare. [[Imlivil]] is highly skilled in tactical maneuvers, analyzing enemy strengths and weaknesses, and devising effective strategies to outwit opponents. He is often depicted as a calculating and intelligent deity, guiding armies to victory through his wisdom. Soldiers and military leaders seek his guidance for tactical insights and to gain an edge over their adversaries.
+
+[[Divrin]], also known as the Goddess of Soldiers, is the deity that embodies the spirit of warriors. She represents discipline, loyalty, and the unyielding determination of soldiers in battle. [[Divrin]] is often portrayed as a guardian figure, protecting and inspiring those in the military. Soldiers turn to her for courage, resilience, and the strength to endure hardship on the battlefield. She is associated with fortitude, unity, and the unbreakable bonds formed between comrades in arms.
+
+Together, the Jaerian Trio of War forms a symbiotic relationship, with each deity fulfilling a specific role in the realm of conflict. [[Rellivvra]] fuels the bloodlust and ferocity of warriors, [[Imlivil]] provides the intellectual prowess and strategic insight, while [[Divrin]] offers the inspiration and resilience needed to face the hardships of war. Their combined influence governs the nature of warfare, shaping battles and determining outcomes on both a large and small scale.

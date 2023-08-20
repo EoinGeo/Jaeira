@@ -1,3 +1,3 @@
 #Gods
-A [[Non Player Characters]] of the [[Jaerian Pantheon]]
-Goddess of the slaughter, of brutality and of bloodshed, 
+A [[Non Player Characters]] of the [[Jaerian Pantheon]] and a member of the [[Trio of War]]
+Rellivvra, also known as the Goddess of Slaughter, embodies the darker and more violent side of war. She revels in chaos, bloodshed, and destruction. Rellivvra is often depicted as a fearsome warrior, fierce and merciless in battle. Warriors and soldiers often invoke her for strength, courage, and victory, but they also fear her wrath. She is associated with rage, brutality, and the sheer intensity of combat.

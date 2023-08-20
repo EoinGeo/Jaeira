@@ -1,3 +1,3 @@
 #Gods
-A [[Non Player Characters]] of the [[Jaerian Pantheon]]
-God of strategy and intelligence
+A [[Non Player Characters]] of the [[Jaerian Pantheon]] and a member of the [[Trio of War]]
+Imlivil, on the other hand to [[Rellivvra]] is the God of Strategy and Intelligence. He is the embodiment of cunning, intellect, and planning in warfare. Imlivil is highly skilled in tactical maneuvers, analyzing enemy strengths and weaknesses, and devising effective strategies to outwit opponents. He is often depicted as a calculating and intelligent deity, guiding armies to victory through his wisdom. Soldiers and military leaders seek his guidance for tactical insights and to gain an edge over their adversaries.

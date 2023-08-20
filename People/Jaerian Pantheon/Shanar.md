@@ -1,4 +1,13 @@
 #Gods
 A [[Non Player Characters]] of the [[Jaerian Pantheon]]
-Shanar, Ancient Goddess of War
-Mother of the trio of war, gave her power to her descendants after the [[Second War of the Gods]] , anointing [[Rellivvra]] Goddess of the slaughter, of brutality and of bloodshed, [[Imlivil]] God of strategy and intelligence and  [[Divrin ]] , Goddess of soldiers.
+Shanar, the Ancient Goddess of War, stands as a revered figure in the realm of Jaeira. Legends speak of her as a deity who emerged from the chaos of the cosmos, embodying the ferocity and cunning that defined the elven race. Born out of the tumultuous aftermath of the [[Second War of the Gods]], Shanar's powers were unrivaled, allowing her to shape the destiny of nations and leave an indelible mark on elven history.
+
+Known as the Mother of the [[Trio of War]], Shanar bestowed her boundless power upon her three chosen descendants, bestowing them with unprecedented strength and influence. [[Rellivvra]], the Goddess of the Slaughter, became the embodiment of brutality, bloodshed, and the unrestrained chaos of war. With her ruthless nature and insatiable thirst for violence, [[Rellivvra]] led armies into battle, leaving a trail of devastation in her wake.
+
+In contrast, [[Imlivil]], the God of Strategy and Intelligence, symbolized the tactical brilliance that Shanar possessed. Gifted with an astonishing intellect and keen strategic intuition, [[Imlivil]] became the mastermind behind countless elven victories. His cunning tactics allowed his forces to outwit and outmaneuver their adversaries in battles that seemed almost impossible to win.
+
+Lastly, [[Divrin]], the Goddess of Soldiers, embodied the unwavering loyalty and unyielding determination that was required on the frontlines of war. It was [[Divrin]] who provided solace and strength to elven warriors, ensuring that they fought with unrelenting fervor. Her divine presence granted soldiers the resilience to overcome adversity and the courage to face overwhelming odds, inspiring legends of heroism on the battlefield.
+
+Throughout the ages, the [[trio of war]] became worshipped by the elven people as the divine embodiment of Shanar's power. Their temples and altars were erected in her honor, and countless prayers were offered, beseeching her protection during times of conflict. The descendants of Shanar reveled in their divine heritage, wielding their powers with both awe-inspiring might and profound responsibility.
+
+Shanar's legacy remains deeply ingrained in the consciousness of the Jaeiran realms. Her children continue to shape the outcomes of war with their indomitable spirit and unwavering determination. The tales of Shanar, the Ancient Goddess of War, and her [[trio of war]] continue to inspire and instill fear among both allies and enemies, reminding all of the relentless potency that lies at the heart of dark elven history.

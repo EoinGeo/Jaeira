@@ -1,3 +1,3 @@
 #Gods
-A [[Non Player Characters]] of the [[Jaerian Pantheon]]
-Goddess of soldiers, bravery and honor.
+A [[Non Player Characters]] of the [[Jaerian Pantheon]] and a member of the [[Trio of War]]
+Divrin, also known as the Goddess of Soldiers, is the deity that embodies the spirit of warriors. She represents discipline, loyalty, and the unyielding determination of soldiers in battle. Divrin is often portrayed as a guardian figure, protecting and inspiring those in the military. Soldiers turn to her for courage, resilience, and the strength to endure hardship on the battlefield. She is associated with fortitude, unity, and the unbreakable bonds formed between comrades in arms.

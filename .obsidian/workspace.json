@@ -21,7 +21,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "People/Jaerian Pantheon/Divrin.md",
+                "file": "People/Jaerian Pantheon/Shanar.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "People/Jaerian Pantheon/Divrin.md",
+                "file": "People/Jaerian Pantheon/Shanar.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "People/Jaerian Pantheon/Divrin.md",
+                "file": "People/Jaerian Pantheon/Shanar.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "People/Jaerian Pantheon/Divrin.md"
+                "file": "People/Jaerian Pantheon/Shanar.md"
               }
             }
           },
@@ -183,13 +183,15 @@
   },
   "active": "c38f6800daf250a3",
   "lastOpenFiles": [
-    "People/Jaerian Pantheon/Shanar.md",
-    "People/Jaerian Pantheon/Rellivvra.md",
-    "People/Jaerian Pantheon/Jaerian Pantheon.md",
-    "People/Jaerian Pantheon/Imlivil.md",
+    "People/Jaerian Pantheon/Trio of War.md",
     "People/Jaerian Pantheon/Divrin.md",
-    "People/Non Player Characters.md",
+    "People/Jaerian Pantheon/Imlivil.md",
+    "[Divrin.md",
+    "People/Jaerian Pantheon/Shanar.md",
+    "People/Jaerian Pantheon/Jaerian Pantheon.md",
+    "People/Jaerian Pantheon/Rellivvra.md",
     "Events/Second War of the Gods.md",
+    "People/Non Player Characters.md",
     "Untitled.canvas",
     "items/Magic Items.md",
     "Cities/Untitled.md",
@@ -210,8 +212,6 @@
     "5e Reference Data/Situational Rules.md",
     "5e Reference Data/creatures/Ape.md",
     "5e Reference Data/NPCs.md",
-    "items/Amulet of the Planes.md",
-    "items/Amulet of Proof against Detection and Location.md",
     "Untitled 1.canvas",
     "Jaeira",
     "People",
