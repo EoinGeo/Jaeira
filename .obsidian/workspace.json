@@ -4,20 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "52eba56559f8f0aa",
+        "id": "2316f631d80acd01",
         "type": "tabs",
         "children": [
           {
-            "id": "42992f9e0ac2a97d",
+            "id": "96099123c460a4e4",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "People/Jaerian Pantheon/Gods/Luminara.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -100,7 +95,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "People/Jaerian Pantheon/Gods/Luminara.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +111,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "People/Jaerian Pantheon/Gods/Luminara.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,9 +132,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "People/Jaerian Pantheon/Gods/Luminara.md"
-              }
+              "state": {}
             }
           },
           {
@@ -187,8 +178,11 @@
       "fantasy-content-generator:Fantasy Generators": false
     }
   },
-  "active": "42992f9e0ac2a97d",
+  "active": "96099123c460a4e4",
   "lastOpenFiles": [
+    "5e Reference Data/Languages.md",
+    "People/Jaerian Pantheon/Gods/Kelthar.md",
+    "People/Jaerian Pantheon/Gods/Luminara.md",
     "Events/Second War of the Gods.md",
     "People/Jaerian Pantheon/Groups of Gods/Jaerian Pantheon.md",
     "People/Jaerian Pantheon/Groups of Gods/Trio of War.md",
@@ -197,7 +191,6 @@
     "People/Jaerian Pantheon/Gods/Calindra.md",
     "People/Jaerian Pantheon/Gods/Caladria.md",
     "People/Jaerian Pantheon/Gods/Aeloria.md",
-    "People/Jaerian Pantheon/Gods/Luminara.md",
     "People/Jaerian Pantheon/Gods/Shanar.md",
     "People/Jaerian Pantheon/Gods/Neldrath.md",
     "People/Jaerian Pantheon/Gods/Vaelis.md",
@@ -207,14 +200,12 @@
     "People/Jaerian Pantheon/Gods/Kaladran.md",
     "People/Jaerian Pantheon/Gods/Morana.md",
     "People/Jaerian Pantheon/Gods/Selendra.md",
-    "People/Jaerian Pantheon/Gods/Kelthar.md",
     "People/Jaerian Pantheon/Gods/Erevan.md",
     "People/Jaerian Pantheon/Gods/Faelindra.md",
     "People/Jaerian Pantheon/Gods/Vaelina.md",
     "Valandor.md",
     "People/Jaerian Pantheon/Gods/Malina.md",
     "People/Jaerian Pantheon/Gods/Drakaroth.md",
-    "People/Jaerian Pantheon/Gods/Vorenthar.md",
     "Images/Shanar.png",
     "People/Jaerian Pantheon/Gods",
     "People/Jaerian Pantheon/Groups of Gods",
