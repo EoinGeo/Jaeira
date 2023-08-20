@@ -1,5 +1,5 @@
 # Gnome
-
+#Races
 ### Gnome Traits
 
 Your gnome character has certain characteristics in common with all other gnomes.

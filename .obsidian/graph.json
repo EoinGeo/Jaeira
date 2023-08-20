@@ -5,8 +5,51 @@
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": true,
-  "colorGroups": [],
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "path:\"5e Reference Data/monsters\"",
+      "color": {
+        "a": 1,
+        "rgb": 14701138
+      }
+    },
+    {
+      "query": "path:\"5e Reference Data/items\"",
+      "color": {
+        "a": 1,
+        "rgb": 327424
+      }
+    },
+    {
+      "query": "path:\"5e Reference Data/creatures\"",
+      "color": {
+        "a": 1,
+        "rgb": 14701138
+      }
+    },
+    {
+      "query": "tag:#Races",
+      "color": {
+        "a": 1,
+        "rgb": 11733390
+      }
+    },
+    {
+      "query": "path:\"5e Reference Data\"",
+      "color": {
+        "a": 1,
+        "rgb": 11841032
+      }
+    },
+    {
+      "query": "path:\"5e Reference Data/npcs\"",
+      "color": {
+        "a": 1,
+        "rgb": 5419488
+      }
+    }
+  ],
   "collapse-display": true,
   "showArrow": false,
   "textFadeMultiplier": 0,
@@ -17,6 +60,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.06699744995282421,
+  "scale": 0.09392927902846977,
   "close": false
 }
