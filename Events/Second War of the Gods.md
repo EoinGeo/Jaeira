@@ -51,6 +51,8 @@ In a heart-wrenching turn of events, some members of both factions began to ques
 
 Ultimately, the Second War of the Gods concluded with a fragile truce rather than a clear victory for either faction. The catastrophic events had forever altered Jaeria, leaving scars on its landscape and its inhabitants. The gods retreated to their respective domains, nursing their wounds and contemplating the consequences of their actions.
 
+[[Shanar]] split her power to end the conflict, after the death of [[Zetharion]] as the death of the God of Doom caused so much confusion and fear of what to come, something had to be done.
+
 The Second War of the Gods served as a reminder of the immense power the divine beings wielded and the profound impact their conflicts could have on the mortal realm. Mortals, having witnessed the devastation caused by the war, became more cautious in their dealings with the gods, striving to forge their own destinies amidst the chaos left in the wake of the conflict.
 
 **Deaths in the Second War of the Gods**

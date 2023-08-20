@@ -2,6 +2,8 @@
 A Trio of Gods in the [[Jaerian Pantheon]]
 The Jaerian Trio of War is a powerful trio of deities in the pantheon of [[Rellivvra]], the goddess of slaughter, brutality, and bloodshed, [[Imlivil]], the god of strategy and intelligence, and [[Divrin]], the goddess of soldiers. Together, they represent different aspects of warfare and play crucial roles in the domain of conflict.
 
+Their older sibling [[Luminara]] is the Muse of Healing, which emphasises the need for healing around combat and conflict.
+
 [[Rellivvra]], also known as the Goddess of Slaughter, embodies the darker and more violent side of war. She revels in chaos, bloodshed, and destruction. [[Rellivvra]] is often depicted as a fearsome warrior, fierce and merciless in battle. Warriors and soldiers often invoke her for strength, courage, and victory, but they also fear her wrath. She is associated with rage, brutality, and the sheer intensity of combat.
 
 [[Imlivil]], on the other hand, is the God of Strategy and Intelligence. He is the embodiment of cunning, intellect, and planning in warfare. [[Imlivil]] is highly skilled in tactical maneuvers, analyzing enemy strengths and weaknesses, and devising effective strategies to outwit opponents. He is often depicted as a calculating and intelligent deity, guiding armies to victory through his wisdom. Soldiers and military leaders seek his guidance for tactical insights and to gain an edge over their adversaries.

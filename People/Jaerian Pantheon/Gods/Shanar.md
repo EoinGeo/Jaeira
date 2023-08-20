@@ -5,6 +5,8 @@ A [[God]] of the [[Jaerian Pantheon]]
 
 Shanar, the Ancient Goddess of War, stands as a revered figure in the realm of Jaeria. Legends speak of her as a deity who emerged from the chaos of the cosmos, embodying the ferocity and cunning that defined the elven race. Shanar's powers were unrivaled, allowing her to shape the destiny of nations and leave an incomparable mark on jaerian history.
 
+Shanar's Eldest child is her most unknown, [[Luminara]], the Muse of Healing, being her eldest child, bringing about the emphasis that healing must be admist conflict.
+
 Known as the Mother of the [[Trio of War]], Shanar bestowed her boundless power upon her three chosen descendants, bestowing them with unprecedented strength and influence. [[Rellivvra]], the Goddess of the Slaughter, became the embodiment of brutality, bloodshed, and the unrestrained chaos of war. With her ruthless nature and insatiable thirst for violence, [[Rellivvra]] led armies into battle, leaving a trail of devastation in her wake.
 
 In contrast, [[Imlivil]], the God of Strategy and Intelligence, symbolized the tactical brilliance that Shanar possessed. Gifted with an astonishing intellect and keen strategic intuition, [[Imlivil]] became the mastermind behind countless elven victories. His cunning tactics allowed his forces to outwit and outmaneuver their adversaries in battles that seemed almost impossible to win.
