@@ -2,5 +2,8 @@
   "accentColor": "#02378d",
   "textFontFamily": "Montserrat",
   "interfaceFontFamily": "Montserrat",
-  "baseFontSize": 10
+  "baseFontSize": 16,
+  "cssTheme": "Tokyo Night",
+  "translucency": false,
+  "nativeMenus": false
 }
