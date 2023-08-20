@@ -32,3 +32,12 @@ By virtue of your race, your character can speak, read, and write certain langua
 
 Some races have subraces. Members of a subrace have the traits of the parent race in addition to the traits specified for their subrace. Relationships among subraces vary significantly from race to race and world to world.
 
+- [[Dragonborn]]
+- [[Dwarf]]
+- [[Elf]]
+- [[Gnome]]
+- [[Half-Elf]]
+- [[Half-Orc]]
+- [[Halfling]]
+- [[Human]]
+- [[Tiefling]]

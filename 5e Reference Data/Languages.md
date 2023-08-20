@@ -16,7 +16,7 @@ Some of these languages are actually families of languages with many dialects. F
 | Giant    | Ogres, giants    | Dwarvish |
 | Gnomish  | Gnomes           | Dwarvish |
 | Goblin   | Goblinoids       | Dwarvish |
-| Halfling | Halflings        | Common   |
+| [[Halfling]] | Halflings        | Common   |
 | Orc      | Orcs             | Dwarvish |
 |          |                  |          |
 
@@ -26,7 +26,7 @@ Some of these languages are actually families of languages with many dialects. F
 |-------------|---------------------|-----------|
 | Abyssal     | Demons              | Infernal  |
 | Celestial   | Celestials          | Celestial |
-| Draconic    | Dragons, dragonborn | Draconic  |
+| Draconic    | Dragons, [[dragonborn]] | Draconic  |
 | Deep Speech | Aboleths, cloakers  | -         |
 | Infernal    | Devils              | Infernal  |
 | Primordial  | Elementals          | Dwarvish  |

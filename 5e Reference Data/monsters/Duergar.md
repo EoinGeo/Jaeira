@@ -1,6 +1,6 @@
 # Duergar
 
-*Medium humanoid (dwarf), lawful evil*
+*Medium humanoid ([[dwarf]]), lawful evil*
 
 **Armor Class** 16 (scale mail, shield)
 

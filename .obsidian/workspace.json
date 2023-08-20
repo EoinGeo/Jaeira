@@ -4,15 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "72f5629b7f1a18ec",
+        "id": "fe79bb0fdc761bf6",
         "type": "tabs",
         "children": [
           {
-            "id": "22b68452389cb7ea",
+            "id": "50a224509e871305",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "5e Reference Data/monsters/Elf, Drow.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "5e Reference Data/monsters/Elf, Drow.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "5e Reference Data/monsters/Elf, Drow.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +125,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "5e Reference Data/monsters/Elf, Drow.md"
+              }
             }
           },
           {
@@ -129,12 +138,25 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 4
+        ]
+      },
+      {
+        "id": "15b1bdebc5e0caeb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0f61c83c3f5cc9f7",
+            "type": "leaf",
+            "state": {
+              "type": "combatant-view",
+              "state": {}
+            }
+          }
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 663.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -146,14 +168,32 @@
       "command-palette:Open command palette": false,
       "fantasy-calendar:Open Large Fantasy Calendar": false,
       "obsidian-leaflet-plugin:Open Leaflet Map": false,
-      "obsidian-5e-statblocks:Open Creature Pane": false
+      "obsidian-5e-statblocks:Open Creature Pane": false,
+      "fantasy-content-generator:Fantasy Generators": false
     }
   },
-  "active": "9247fba97664c4cf",
+  "active": "0f61c83c3f5cc9f7",
   "lastOpenFiles": [
-    "Jaeira",
-    "Races/Dragonborn.md",
+    "5e Reference Data/Planes.md",
+    "Untitled 1.canvas",
+    "Untitled.canvas",
+    "2023-08-20.md",
+    "Races/Tiefling.md",
+    "Races/Races.md",
+    "5e Reference Data/monsters/Half-Dragon Template.md",
     "Races/Human.md",
+    "Races/Halfling.md",
+    "Races/Half-Orc.md",
+    "Races/Half-Elf.md",
+    "Races/Gnome.md",
+    "5e Reference Data/monsters/Gnome, Deep (Svirfneblin).md",
+    "Races/Elf.md",
+    "Races/Dragonborn.md",
+    "Races/Dwarf.md",
+    "5e Reference Data/Spells.md",
+    "Races/UntitledR.md",
+    "Spells.md",
+    "Jaeira",
     "People",
     "Nations",
     "Cities",
@@ -169,24 +209,8 @@
     "5e Reference Data/The Environment.md",
     "5e Reference Data/Time.md",
     "5e Reference Data/Situational Rules.md",
-    "5e Reference Data/Spell Attack Rolls.md",
-    "5e Reference Data/Sentient Magic.md",
-    "5e Reference Data/NPCs.md",
-    "5e Reference Data/Proficiency Bonus.md",
-    "5e Reference Data/Mounted Combat.md",
-    "5e Reference Data/Making an Attack.md",
-    "5e Reference Data/Monster Statistics.md",
-    "5e Reference Data/Languages.md",
-    "5e Reference Data/Magic Items.md",
-    "5e Reference Data/Legendary Creatures.md",
-    "5e Reference Data/Rituals.md",
-    "5e Reference Data/Spellcasting.md",
-    "5e Reference Data/Spells.md",
-    "5e Reference Data/Artifacts.md",
     "5e Reference Data/races",
     "5e Reference Data/classes",
-    "5e Reference Data/spells",
-    "5e Reference Data/npcs",
-    "Untitled.canvas"
+    "5e Reference Data/spells"
   ]
 }
