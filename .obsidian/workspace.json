@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "5e Reference Data/Languages.md",
+                "file": "items/Adamantine Armor.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "5e Reference Data/Languages.md",
+                "file": "items/Adamantine Armor.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "5e Reference Data/Languages.md",
+                "file": "items/Adamantine Armor.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "5e Reference Data/Languages.md"
+                "file": "items/Adamantine Armor.md"
               }
             }
           },
@@ -174,15 +174,26 @@
   },
   "active": "f67d1d4c0187f9f7",
   "lastOpenFiles": [
-    "5e Reference Data/Creatures.md",
+    "5e Reference Data/creatures/Ape.md",
+    "5e Reference Data/NPCs.md",
+    "items/Amulet of the Planes.md",
+    "items/Amulet of Proof against Detection and Location.md",
+    "items/Ammunition, +1, +2, or +3.md",
+    "items/Amulet of Health.md",
+    "items/Adamantine Armor.md",
+    "5e Reference Data/Weapons.md",
+    "Races/Dragonborn.md",
+    "5e Reference Data/Sentient Magic.md",
+    "Races/Races.md",
     "Races/Tiefling.md",
+    "5e Reference Data/Languages.md",
+    "5e Reference Data/Creatures.md",
     "Races/Human.md",
     "Races/Halfling.md",
     "Races/Half-Orc.md",
     "Races/Half-Elf.md",
     "Races/Gnome.md",
     "Races/Elf.md",
-    "Races/Dragonborn.md",
     "Races/Dwarf.md",
     "5e Reference Data/Situational Rules.md",
     "5e Reference Data/Spells.md",
@@ -191,11 +202,6 @@
     "Untitled 1.canvas",
     "Untitled.canvas",
     "2023-08-20.md",
-    "Races/Races.md",
-    "5e Reference Data/monsters/Half-Dragon Template.md",
-    "5e Reference Data/monsters/Gnome, Deep (Svirfneblin).md",
-    "Races/UntitledR.md",
-    "Spells.md",
     "Jaeira",
     "People",
     "Nations",
@@ -203,12 +209,6 @@
     "Pantheons",
     "Races",
     "Events",
-    "5e Reference Data/creatures/Baboon.md",
-    "5e Reference Data/Monsters.md",
-    "5e Reference Data/Underwater Combat.md",
-    "5e Reference Data/Weapons.md",
-    "5e Reference Data/Trade Goods.md",
-    "5e Reference Data/Treasure.md",
     "5e Reference Data/races",
     "5e Reference Data/classes",
     "5e Reference Data/spells"
