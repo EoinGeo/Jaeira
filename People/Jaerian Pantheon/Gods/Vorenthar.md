@@ -18,9 +18,9 @@ His attire is made of tenebrous fabric that seems to absorb light, rendering him
 
 **Deceptive Charisma:** Vorenthar possesses a charisma that can be both alluring and sinister. He has a gift for seducing mortals and deities alike with promises of hidden knowledge and ultimate power. His manipulative tactics are often veiled in a veneer of charm, drawing those who seek power or seek to challenge the status quo into his web.
 
-**Actions After the Second War of the Gods to the Present Day:**
+**Actions After the [[Second War of the Gods]] to the Present Day:**
 
-In the aftermath of the Second War of the Gods, Vorenthar's actions were no less impactful. Capitalizing on the chaos and aftermath of the conflict, he retreated to the shadowy corners of the universe, where he schemed and plotted in the darkness.
+In the aftermath of the [[Second War of the Gods]], Vorenthar's actions were no less impactful. Capitalizing on the chaos and aftermath of the conflict, he retreated to the shadowy corners of the universe, where he schemed and plotted in the darkness.
 
 **1. Cultivation of Disciples:** Over the centuries, Vorenthar subtly extended his influence by cultivating a network of devoted followers, both mortal and deity. These individuals were drawn to his charisma and the allure of forbidden knowledge. He nurtured their ambitions and cultivated their loyalty, using them as instruments to further his own plans.
 
@@ -30,6 +30,6 @@ In the aftermath of the Second War of the Gods, Vorenthar's actions were no less
 
 **4. Seeds of Discord:** Vorenthar's manipulative nature led him to orchestrate conflicts and discord among mortals and deities alike. He sowed seeds of mistrust and betrayal, causing alliances to crumble and civilizations to falter. His aim was to weaken the bonds that held the universe together, paving the way for his ascent.
 
-**5. Gathering of Power:** Vorenthar sought to harness the residual energies left behind by the cataclysmic events of the Second War of the Gods. He absorbed the essence of shattered dimensions and tapped into the remnants of the Sundering Crystal's power, bolstering his own strength and furthering his ascendant ambitions.
+**5. Gathering of Power:** Vorenthar sought to harness the residual energies left behind by the cataclysmic events of the [[Second War of the Gods]]. He absorbed the essence of shattered dimensions and tapped into the remnants of the Sundering Crystal's power, bolstering his own strength and furthering his ascendant ambitions.
 
-As the present day arrived, 404 years after the Second War of the Gods, Vorenthar's influence had grown, casting shadows across the universe. His machinations had set the stage for a new era of uncertainty, as the balance between light and darkness teetered on the brink. The enigmatic God of Shadows remained a force to be reckoned with, manipulating events from the shadows as he continued to pursue his elusive goals.
+As the present day arrived, 404 years after the [[Second War of the Gods]], Vorenthar's influence had grown, casting shadows across the universe. His machinations had set the stage for a new era of uncertainty, as the balance between light and darkness teetered on the brink. The enigmatic God of Shadows remained a force to be reckoned with, manipulating events from the shadows as he continued to pursue his elusive goals.

@@ -33,3 +33,30 @@ In a heart-wrenching turn of events, some members of both factions began to ques
 Ultimately, the Second War of the Gods concluded with a fragile truce rather than a clear victory for either faction. The catastrophic events had forever altered Jaeria, leaving scars on its landscape and its inhabitants. The gods retreated to their respective domains, nursing their wounds and contemplating the consequences of their actions.
 
 The Second War of the Gods served as a reminder of the immense power the divine beings wielded and the profound impact their conflicts could have on the mortal realm. Mortals, having witnessed the devastation caused by the war, became more cautious in their dealings with the gods, striving to forge their own destinies amidst the chaos left in the wake of the conflict.
+
+**Deaths in the Second War of the Gods**
+Certainly, here's the updated list of gods and goddesses who met their fate in the Second War of the Gods, with the renamed deities:
+
+1. **[[Veridia]], the Goddess of Nature:**
+   - Domain: Nature
+   - Impact: With [[Veridia]]'s demise, the balance of nature was disrupted, leading to rampant environmental upheaval. Uncontrolled growth and chaotic weather patterns plagued the continent of Jaeria, affecting agriculture, habitats, and causing widespread turmoil among mortal and animal populations.
+
+2. **[[Istorian]], the God of Wisdom:**
+   - Domain: Wisdom, Knowledge
+   - Impact: [[Istorian]]'s death resulted in a loss of strategic insight for the [[Luminal Accord]]. His absence left a void in their planning and decision-making processes, causing a temporary setback in their efforts to counter the [[Nether Enclave]]'s advances. Scholars and leaders mourned the loss of his guidance in matters of diplomacy and governance.
+
+3. **Varaxis, the God of Commerce:**
+   - Domain: Commerce, Prosperity
+   - Impact: Varaxis' demise disrupted trade routes and economic systems across Jaeria. The loss of his influence led to trade imbalances, shortages of essential goods, and financial instability. The economies of mortal cities suffered, creating unrest and uncertainty among the populace.
+
+4. **Volul, the Goddess of Music:**
+   - Domain: Arts, Creativity
+   - Impact: Volul's death stifled artistic expression and cultural growth. The absence of her inspiration led to a decline in the creation of art, music, and literature, robbing the mortal world of beauty and creativity. The void left by her passing was felt deeply by bards, artists, and those who sought solace in the arts.
+
+5. **Zephiron, the God of Storms:**
+   - Domain: Storms, Weather
+   - Impact: Zephiron's death led to unpredictable and uncontrollable weather patterns. Storms ravaged the land, causing flooding, destruction, and disruptions in transportation and agriculture. The people of Jaeria faced challenges in adapting to the erratic climate, as the loss of Zephiron's control over the weather resulted in widespread chaos.
+
+6. **[[Seraphis]], the God of Justice:**
+   - Domain: Justice, Balance
+   - Impact: [[Seraphis]]' death disrupted the pursuit of justice and moral balance. His absence allowed for the rise of corruption and unchecked power in mortal and divine realms alike. Laws and governance systems faltered, leading to unrest, conflicts, and a sense of disillusionment among the populace.

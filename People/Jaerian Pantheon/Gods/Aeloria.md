@@ -22,15 +22,15 @@ Aeloria is known for her unwavering dedication to balance, harmony, and the well
 
 **Wisdom and Insight:** Aeloria is revered for her wisdom, which she gained through millennia of observing the universe's intricate workings. Mortals and deities alike turn to her for guidance in times of uncertainty, trusting in her ability to provide solutions and insights.
 
-**Leader of the Luminal Accord:** As the leader of the [[Luminal Accord]], Aeloria embodies the principles of order, light, and harmony. She tirelessly works to maintain the equilibrium between light and darkness, advocating for cooperation and understanding among deities and mortals.
+**Leader of the [[Luminal Accord]]:** As the leader of the [[Luminal Accord]], Aeloria embodies the principles of order, light, and harmony. She tirelessly works to maintain the equilibrium between light and darkness, advocating for cooperation and understanding among deities and mortals.
 
 **Protector of Creation:** Aeloria sees the potential for greatness in every being and strives to nurture their growth. She is a patron of creativity, guiding artists, scholars, and inventors to channel their talents toward positive ends.
 
 In essence, Aeloria stands as a beacon of light in a world often overshadowed by conflict and darkness. Her appearance reflects her divine nature, while her personality embodies her commitment to fostering harmony and illuminating the path toward a better future.
 
-**Aeloria's Actions in the Aftermath of the Second War of the Gods:**
+**Aeloria's Actions in the Aftermath of the [[Second War of the Gods]]:**
 
-Following the cataclysmic conclusion of the Second War of the Gods, Aeloria, the Goddess of Radiance and leader of the [[Luminal Accord]], played a pivotal role in shaping the universe's recovery and guiding its inhabitants towards healing and renewal.
+Following the cataclysmic conclusion of the [[Second War of the Gods]], Aeloria, the Goddess of Radiance and leader of the [[Luminal Accord]], played a pivotal role in shaping the universe's recovery and guiding its inhabitants towards healing and renewal.
 
 **1. Healing and Restoration:** Aeloria's first priority was to aid in the recovery of the lands and civilizations that had suffered during the war. She channeled her radiant energy into rejuvenating landscapes scarred by conflict, bringing life back to desolate areas and nurturing the growth of new flora and fauna.
 
@@ -46,4 +46,4 @@ Following the cataclysmic conclusion of the Second War of the Gods, Aeloria, the
 
 **7. Remembrance and Lessons:** Aeloria advocated for the establishment of monuments and memorials to honor the fallen and remind future generations of the costs of unchecked conflict. She encouraged mortals and deities alike to learn from the past, preserving the lessons of the war as a testament to the importance of balance and cooperation.
 
-In the wake of the Second War of the Gods, Aeloria's actions showcased her deep commitment to not only restoring the physical world but also nurturing the spirits of those affected. Her efforts to heal, guide, and inspire contributed to the universe's recovery and served as a guiding light for mortals and deities seeking a better path forward.
+In the wake of the [[Second War of the Gods]], Aeloria's actions showcased her deep commitment to not only restoring the physical world but also nurturing the spirits of those affected. Her efforts to heal, guide, and inspire contributed to the universe's recovery and served as a guiding light for mortals and deities seeking a better path forward.

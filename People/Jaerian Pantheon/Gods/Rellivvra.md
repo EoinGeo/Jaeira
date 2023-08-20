@@ -19,7 +19,7 @@ Her eyes burn with an intense crimson hue, hinting at the inner fire that fuels 
 
 **Actions and Ascent to Deity:**
 
-After the Second War of the Gods and the division of Shanar's powers, Rellivvra emerged as a deity embodying the more primal and intense aspects of warfare. Her ascent to godhood was a result of Shanar's efforts to channel her more destructive tendencies into a controlled domain.
+After the [[Second War of the Gods]] and the division of Shanar's powers, Rellivvra emerged as a deity embodying the more primal and intense aspects of warfare. Her ascent to godhood was a result of Shanar's efforts to channel her more destructive tendencies into a controlled domain.
 
 **1. Patron of Warriors and Battle Lust:** Rellivvra's domain encompassed warriors and those who sought the thrill of combat. She provided them with the adrenaline and battle lust needed to overcome challenges and dominate foes. Her influence on the battlefield was palpable, heightening the intensity of conflicts.
 

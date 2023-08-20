@@ -52,7 +52,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "People/Jaerian Pantheon/Gods/Imlivil.md",
+                "file": "Events/Second War of the Gods.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -127,7 +127,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "People/Jaerian Pantheon/Gods/Imlivil.md",
+                "file": "Events/Second War of the Gods.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -144,7 +144,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "People/Jaerian Pantheon/Gods/Imlivil.md",
+                "file": "Events/Second War of the Gods.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -167,7 +167,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "People/Jaerian Pantheon/Gods/Imlivil.md"
+                "file": "Events/Second War of the Gods.md"
               }
             }
           },
@@ -198,7 +198,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 664.5
+    "width": 669.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -216,30 +216,30 @@
   },
   "active": "dfe745f6ddeab8c5",
   "lastOpenFiles": [
-    "People/Jaerian Pantheon/Gods/Istorian.md",
+    "Images/Shanar.png",
+    "People/Jaerian Pantheon/Gods/Zetharion.md",
+    "People/Jaerian Pantheon/Gods/Shanar.md",
     "People/Jaerian Pantheon/Gods/Rellivvra.md",
-    "People/Jaerian Pantheon/Gods/Imlivil.md",
     "People/Jaerian Pantheon/Gods/Divrin.md",
     "People/Jaerian Pantheon/Gods/Aeloria.md",
-    "People/Jaerian Pantheon/Gods/Calindra.md",
-    "People/Jaerian Pantheon/Gods/Vorenthar.md",
-    "People/Jaerian Pantheon/Groups of Gods/Luminal Accord.md",
-    "People/Jaerian Pantheon/Groups of Gods/Nether Enclave.md",
-    "People/Jaerian Pantheon/Groups of Gods/Trio of War.md",
     "Events/Second War of the Gods.md",
-    "People/Jaerian Pantheon/Gods/Shanar.md",
+    "People/Jaerian Pantheon/Groups of Gods/Trio of War.md",
+    "People/Jaerian Pantheon/Groups of Gods/Nether Enclave.md",
+    "People/Jaerian Pantheon/Groups of Gods/Luminal Accord.md",
+    "People/Jaerian Pantheon/Groups of Gods/Jaerian Pantheon.md",
+    "People/Jaerian Pantheon/Gods/Vorenthar.md",
     "People/Jaerian Pantheon/Gods/Veridia.md",
-    "People/Non Player Characters.md",
-    "People/Jaerian Pantheon/Gods/Luminara.md",
     "People/Jaerian Pantheon/Gods/Seraphis.md",
     "People/Jaerian Pantheon/Gods/Morthalus.md",
-    "People/Jaerian Pantheon/Gods/Zetharion.md",
     "People/Jaerian Pantheon/Gods/Lyssara.md",
-    "People/Jaerian Pantheon/Groups of Gods/Jaerian Pantheon.md",
+    "People/Jaerian Pantheon/Gods/Luminara.md",
+    "People/Jaerian Pantheon/Gods/Istorian.md",
+    "People/Jaerian Pantheon/Gods/Imlivil.md",
+    "People/Jaerian Pantheon/Gods/Calindra.md",
+    "People/Non Player Characters.md",
     "People/Jaerian Pantheon/Gods",
     "People/Jaerian Pantheon/Groups of Gods",
     "[Divrin.md",
-    "Images/Shanar.png",
     "Images",
     "Untitled.canvas",
     "items/Magic Items.md",
@@ -248,7 +248,6 @@
     "People/Religions",
     "People/Pantheons/Pantheons.md",
     "People/Jaerian Pantheon",
-    "5e Reference Data/Monsters.md",
     "Untitled 1.canvas",
     "Jaeira",
     "People",

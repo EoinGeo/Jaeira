@@ -20,7 +20,7 @@ Her hair flows like molten gold, cascading down her shoulders in intricate braid
 
 **Actions and Ascent to Deity:**
 
-After the Second War of the Gods and the division of Shanar's powers, Divrin emerged as a deity embodying the spirit of soldiers and the virtues they uphold. Her ascent to godhood was a result of Shanar's desire to end the cycle of destruction and infuse the universe with qualities that would promote balance and resilience.
+After the [[Second War of the Gods]] and the division of Shanar's powers, Divrin emerged as a deity embodying the spirit of soldiers and the virtues they uphold. Her ascent to godhood was a result of Shanar's desire to end the cycle of destruction and infuse the universe with qualities that would promote balance and resilience.
 
 **1. Guiding Mortal Champions:** As the Goddess of Soldiers, Divrin took a personal interest in guiding and empowering mortal champions who were chosen to take up arms in defense of their realms. She appeared to them in dreams, offering guidance and imparting her wisdom to help them become skilled and valorous warriors.
 
