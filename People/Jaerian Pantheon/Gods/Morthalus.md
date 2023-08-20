@@ -1,3 +1,0 @@
-#Gods 
-A [[God]] of the [[Jaerian Pantheon]]
-Morthalus, the God of Decay

@@ -10,6 +10,25 @@ The Second War of the Gods was ignited by a complex interplay of political intri
 
 2. **The [[Nether Enclave]]:** On the opposing side were the deities who embodied chaos, darkness, and entropy. Led by [[Vorenthar]], the God of Shadows, this faction sought to unleash the forces of destruction upon Jaeria, believing that a new era born from the ashes would grant them ultimate power. The Enclave included gods of deceit, discord, decay, and forbidden knowledge.
 
+**Faction: Luminal Accord**
+
+- [[Aeloria]], the Goddess of Radiance
+- [[Seraphis]], the ArchAngel of Justice / God of Justice
+- [[Luminara]], the Muse of Healing
+- [[Veridia]], the Guardian of Nature
+- [[Istorian]], the Keeper of Knowledge / God of Wisdom
+- [[Varaxis]], the God of Commerce
+
+**Faction: Nether Enclave**
+
+- [[Vorenthar]], the God of Shadows
+- [[Lyssara]], the Goddess of Discord
+- [[Morthalus]], the God of Decay
+- [[Calindra]], the Goddess of Forbidden Knowledge
+- [[Zetharion]], the God of Doom
+- [[Volul]], the Goddess of Music
+- [[Zephiron]], the God of Storms
+
 **The Catalysts:**
 
 1. **[[The Sundering]]:** A powerful artifact known as the "Sundering Crystal" played a pivotal role in the conflict. It was said to possess the ability to manipulate reality itself, and its discovery triggered a race between the factions to claim its power.
@@ -47,16 +66,18 @@ Certainly, here's the updated list of gods and goddesses who met their fate in t
 
 3. **Varaxis, the God of Commerce:**
    - Domain: Commerce, Prosperity
-   - Impact: Varaxis' demise disrupted trade routes and economic systems across Jaeria. The loss of his influence led to trade imbalances, shortages of essential goods, and financial instability. The economies of mortal cities suffered, creating unrest and uncertainty among the populace.
+   - Impact: [[Varaxis]]' demise disrupted trade routes and economic systems across Jaeria. The loss of his influence led to trade imbalances, shortages of essential goods, and financial instability. The economies of mortal cities suffered, creating unrest and uncertainty among the populace.
 
 4. **Volul, the Goddess of Music:**
    - Domain: Arts, Creativity
-   - Impact: Volul's death stifled artistic expression and cultural growth. The absence of her inspiration led to a decline in the creation of art, music, and literature, robbing the mortal world of beauty and creativity. The void left by her passing was felt deeply by bards, artists, and those who sought solace in the arts.
+   - Impact: [[Volul]]'s death stifled artistic expression and cultural growth. The absence of her inspiration led to a decline in the creation of art, music, and literature, robbing the mortal world of beauty and creativity. The void left by her passing was felt deeply by bards, artists, and those who sought solace in the arts.
 
 5. **Zephiron, the God of Storms:**
    - Domain: Storms, Weather
-   - Impact: Zephiron's death led to unpredictable and uncontrollable weather patterns. Storms ravaged the land, causing flooding, destruction, and disruptions in transportation and agriculture. The people of Jaeria faced challenges in adapting to the erratic climate, as the loss of Zephiron's control over the weather resulted in widespread chaos.
+   - Impact: [[Zephiron]]'s death led to unpredictable and uncontrollable weather patterns. Storms ravaged the land, causing flooding, destruction, and disruptions in transportation and agriculture. The people of Jaeria faced challenges in adapting to the erratic climate, as the loss of Zephiron's control over the weather resulted in widespread chaos.
 
 6. **[[Seraphis]], the God of Justice:**
    - Domain: Justice, Balance
    - Impact: [[Seraphis]]' death disrupted the pursuit of justice and moral balance. His absence allowed for the rise of corruption and unchecked power in mortal and divine realms alike. Laws and governance systems faltered, leading to unrest, conflicts, and a sense of disillusionment among the populace.
+
+7. 
