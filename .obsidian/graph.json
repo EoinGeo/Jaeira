@@ -15,13 +15,6 @@
       }
     },
     {
-      "query": "path:\"5e Reference Data/items\"",
-      "color": {
-        "a": 1,
-        "rgb": 327424
-      }
-    },
-    {
       "query": "path:\"5e Reference Data/creatures\"",
       "color": {
         "a": 1,
@@ -47,6 +40,20 @@
       "color": {
         "a": 1,
         "rgb": 5419488
+      }
+    },
+    {
+      "query": "path:items",
+      "color": {
+        "a": 1,
+        "rgb": 5431432
+      }
+    },
+    {
+      "query": "path:People/Jaerian Pantheon",
+      "color": {
+        "a": 1,
+        "rgb": 5395168
       }
     }
   ],

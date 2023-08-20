@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "9b909777dc5f2c85",
+        "id": "b7c52b102788533f",
         "type": "tabs",
         "children": [
           {
-            "id": "f67d1d4c0187f9f7",
+            "id": "be5ccac850c7a19d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "items/Adamantine Armor.md",
+                "file": "items/Magic Items.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "items/Adamantine Armor.md",
+                "file": "items/Magic Items.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "items/Adamantine Armor.md",
+                "file": "items/Magic Items.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "items/Adamantine Armor.md"
+                "file": "items/Magic Items.md"
               }
             }
           },
@@ -172,10 +172,28 @@
       "fantasy-content-generator:Fantasy Generators": false
     }
   },
-  "active": "0f891f4967d714dd",
+  "active": "be5ccac850c7a19d",
   "lastOpenFiles": [
-    "5e Reference Data/Situational Rules.md",
+    "Cities/Untitled.md",
+    "items/Magic Items.md",
+    "People/Jaerian Pantheon/Jaerian Pantheon.md",
+    "People/Religions/Religious Following.md",
+    "People/Religions",
+    "People/Pantheons/Pantheons.md",
+    "People/Jaerian Pantheon",
+    "Untitled.canvas",
+    "People/Non Player Characters.md",
+    "5e Reference Data/Monsters.md",
+    "5e Reference Data/Creatures.md",
+    "5e Reference Data/Races/Human.md",
+    "5e Reference Data/Races/Halfling.md",
+    "5e Reference Data/Races/Half-Orc.md",
+    "5e Reference Data/Races/Half-Elf.md",
+    "5e Reference Data/Races/Elf.md",
+    "5e Reference Data/Races/Dragonborn.md",
+    "5e Reference Data/Races/Dwarf.md",
     "items/Adamantine Armor.md",
+    "5e Reference Data/Situational Rules.md",
     "5e Reference Data/creatures/Ape.md",
     "5e Reference Data/NPCs.md",
     "items/Amulet of the Planes.md",
@@ -183,34 +201,16 @@
     "items/Ammunition, +1, +2, or +3.md",
     "items/Amulet of Health.md",
     "5e Reference Data/Weapons.md",
-    "5e Reference Data/Races/Dragonborn.md",
     "5e Reference Data/Sentient Magic.md",
     "5e Reference Data/Races/Races.md",
-    "5e Reference Data/Races/Tiefling.md",
-    "5e Reference Data/Languages.md",
-    "5e Reference Data/Creatures.md",
-    "5e Reference Data/Races/Human.md",
-    "5e Reference Data/Races/Halfling.md",
-    "5e Reference Data/Races/Half-Orc.md",
-    "5e Reference Data/Races/Half-Elf.md",
-    "5e Reference Data/Races/Gnome.md",
-    "5e Reference Data/Races/Elf.md",
-    "5e Reference Data/Races/Dwarf.md",
-    "5e Reference Data/Spells.md",
-    "5e Reference Data/monsters/Elf, Drow.md",
-    "5e Reference Data/Planes.md",
     "Untitled 1.canvas",
-    "Untitled.canvas",
-    "2023-08-20.md",
     "Jaeira",
     "People",
     "Nations",
     "Cities",
-    "Pantheons",
+    "People/Pantheons",
     "5e Reference Data/Races",
     "Events",
-    "5e Reference Data/races",
-    "5e Reference Data/classes",
-    "5e Reference Data/spells"
+    "5e Reference Data/races"
   ]
 }

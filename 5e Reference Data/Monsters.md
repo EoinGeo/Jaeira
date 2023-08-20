@@ -1,4 +1,5 @@
 # Monsters
+Monsters are [[Creatures]] with more sentience.
 - [[Aboleth]]
 - [[Angels]]
 - [[Animated Objects]]
