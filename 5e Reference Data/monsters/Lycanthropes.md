@@ -1,7 +1,7 @@
 # Lycanthropes
 
 
-*Medium humanoid ([[human]], shapechanger), neutral good*
+*Medium humanoid ([[Human]], shapechanger), neutral good*
 
 **Armor Class** 10 in humanoid form, 11 (natural armor) in bear and hybrid form
 
@@ -37,7 +37,7 @@
 ***Greataxe (Humanoid or Hybrid Form Only)***. *Melee Weapon Attack:* +7 to hit, reach 5 ft., one target. *Hit:* 10 (1d12+4) slashing damage.
 
 
-*Medium humanoid ([[human]], shapechanger), neutral evil*
+*Medium humanoid ([[Human]], shapechanger), neutral evil*
 
 **Armor Class** 10 in humanoid form, 11 (natural armor) in boar or hybrid form
 
@@ -73,7 +73,7 @@
 ***Tusks (Boar or Hybrid Form Only)***. *Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 10 (2d6+3) slashing damage. If the target is a humanoid, it must succeed on a DC 12 Constitution saving throw or be cursed with wereboar lycanthropy.
 
 
-*Medium humanoid ([[human]], shapechanger), lawful evil*
+*Medium humanoid ([[Human]], shapechanger), lawful evil*
 
 **Armor Class** 12
 
@@ -109,7 +109,7 @@
 ***Hand Crossbow (Humanoid or Hybrid Form Only)***. *Ranged Weapon Attack:* +4 to hit, range 30/120 ft., one target. *Hit:* 5 (1d6+2) piercing damage.
 
 
-*Medium humanoid ([[human]], shapechanger), neutral*
+*Medium humanoid ([[Human]], shapechanger), neutral*
 
 **Armor Class** 12
 
@@ -149,7 +149,7 @@
 ***Longbow (Humanoid or Hybrid Form Only)***. *Ranged Weapon Attack:* +4 to hit, range 150/600 ft., one target. *Hit:* 6 (1d8+2) piercing damage.
 
 
-*Medium humanoid ([[human]], shapechanger), chaotic evil*
+*Medium humanoid ([[Human]], shapechanger), chaotic evil*
 
 **Armor Class** 11 in humanoid form, 12 (natural armor) in wolf or hybrid form
 

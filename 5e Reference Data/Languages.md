@@ -26,7 +26,7 @@ Some of these languages are actually families of languages with many dialects. F
 |-------------|---------------------|-----------|
 | Abyssal     | Demons              | Infernal  |
 | Celestial   | Celestials          | Celestial |
-| Draconic    | Dragons, [[dragonborn]] | Draconic  |
+| Draconic    | Dragons, [[Dragonborn]] | Draconic  |
 | Deep Speech | Aboleths, cloakers  | -         |
 | Infernal    | Devils              | Infernal  |
 | Primordial  | Elementals          | Dwarvish  |

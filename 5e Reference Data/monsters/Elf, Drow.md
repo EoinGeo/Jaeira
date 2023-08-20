@@ -1,6 +1,6 @@
 # [[Elf]], Drow
 
-*Medium humanoid ([[elf]]), neutral evil*
+*Medium humanoid ([[Elf]]), neutral evil*
 
 **Armor Class** 15 (chain shirt)
 

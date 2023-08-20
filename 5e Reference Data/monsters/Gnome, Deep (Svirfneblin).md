@@ -1,6 +1,6 @@
 # [[Gnome]], Deep (Svirfneblin)
 
-*Small humanoid ([[gnome]]), neutral good*
+*Small humanoid ([[Gnome]]), neutral good*
 
 **Armor Class** 15 (chain shirt)
 
@@ -20,11 +20,11 @@
 
 **Challenge** 1/2 (100 XP)
 
-***Stone Camouflage***. The [[gnome]] has advantage on Dexterity (Stealth) checks made to hide in rocky terrain.
+***Stone Camouflage***. The [[Gnome]] has advantage on Dexterity (Stealth) checks made to hide in rocky terrain.
 
-***[[Gnome]] Cunning***. The [[gnome]] has advantage on Intelligence, Wisdom, and Charisma saving throws against magic.
+***[[Gnome]] Cunning***. The [[Gnome]] has advantage on Intelligence, Wisdom, and Charisma saving throws against magic.
 
-***Innate Spellcasting***. The [[gnome]]'s innate spellcasting ability is Intelligence (spell save DC 11). It can innately cast the following spells, requiring no material Components
+***Innate Spellcasting***. The [[Gnome]]'s innate spellcasting ability is Intelligence (spell save DC 11). It can innately cast the following spells, requiring no material Components
 
 At will: *nondetection* (self only)
 

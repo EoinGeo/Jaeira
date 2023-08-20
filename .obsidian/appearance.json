@@ -1,5 +1,6 @@
 {
   "accentColor": "#02378d",
   "textFontFamily": "Montserrat",
-  "interfaceFontFamily": "Montserrat"
+  "interfaceFontFamily": "Montserrat",
+  "baseFontSize": 10
 }

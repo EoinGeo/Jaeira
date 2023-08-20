@@ -9,7 +9,7 @@ While wearing this belt, you gain the following benefits:
 
 In addition, while attuned to the belt, you have a 50 percent chance each day at dawn of growing a full beard if you're capable of growing one, or a visibly thicker beard if you already have one.
 
-If you aren't a [[dwarf]], you gain the following additional benefits while wearing the belt:
+If you aren't a [[Dwarf]], you gain the following additional benefits while wearing the belt:
 
 - You have advantage on saving throws against poison, and you have resistance against poison damage.
 - You have darkvision out to a range of 60 feet.
