@@ -6,7 +6,7 @@ The Second War of the Gods was ignited by a complex interplay of political intri
 
 **The Factions:**
 
-1. **The [[Luminal Accord]]:** This faction comprised of deities who upheld the principles of order, light, and harmony. They were led by Aeloria, the Goddess of Radiance, and were dedicated to maintaining balance in the universe. The Accord's members included gods of wisdom, healing, protection, and justice.
+1. **The [[Luminal Accord]]:** This faction comprised of deities who upheld the principles of order, light, and harmony. They were led by [[Aeloria]], the Goddess of Radiance, and were dedicated to maintaining balance in the universe. The Accord's members included gods of wisdom, healing, protection, and justice.
 
 2. **The [[Nether Enclave]]:** On the opposing side were the deities who embodied chaos, darkness, and entropy. Led by [[Vorenthar]], the God of Shadows, this faction sought to unleash the forces of destruction upon Jaeria, believing that a new era born from the ashes would grant them ultimate power. The Enclave included gods of deceit, discord, decay, and forbidden knowledge.
 
