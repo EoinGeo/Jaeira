@@ -1,1 +1,172 @@
-{"addToDefaultIfMissing":true,"calendars":[{"name":"Jaeira Calander","description":null,"static":{"firstWeekDay":0,"overflow":true,"weekdays":[{"type":"day","name":"Weekday 1","id":"ID_7b49bb48cb99"},{"type":"day","name":"Weekday 2","id":"ID_58196a6b79f8"},{"type":"day","name":"Weekday 3","id":"ID_ab4b8a7b79aa"},{"type":"day","name":"Weekday 4","id":"ID_abcbd929dae8"},{"type":"day","name":"Weekday 5","id":"ID_1b39d86b28db"},{"type":"day","name":"Weekday 6","id":"ID_db4999f99a6b"},{"type":"day","name":"Weekday 7","id":"ID_a8bbb9195a5b"},{"type":"day","name":"Weekday 8","id":"ID_ea488b8b4b98"},{"type":"day","name":"Weekday 9","id":"ID_e83a8b593bf8"}],"months":[{"name":"Hi-ach","type":"month","length":45,"id":"ID_088b5b2908a9"},{"name":"Ni-ach","type":"month","length":45,"id":"ID_690b9929b868"},{"name":"San-ach","type":"month","length":45,"id":"ID_590ad9ba9818"},{"name":"Shi-o","type":"month","length":45,"id":"ID_1a396b1bda69"},{"name":"Go","type":"month","length":45,"id":"ID_4a3a7b2a1869"},{"name":"Rook-o","type":"month","length":45,"id":"ID_0abb892baa29"},{"name":"Hitch","type":"month","length":45,"id":"ID_c9fbfa5b7a6a"},{"name":"Hatch","type":"month","length":45,"id":"ID_cbc9480a5b18"},{"name":"Jouktch","type":"month","length":45,"id":"ID_698bca68a9db"}],"moons":[{"name":"Moon 1","cycle":10,"offset":4,"faceColor":"#FFFFFF","shadowColor":"#000000","id":"ID_7a099a0a4b8b"},{"name":"Ha-ch","cycle":45,"offset":0,"faceColor":"#FFFFFF","shadowColor":"#3741df","id":"ID_0a4ae9ba6b99"}],"leapDays":[],"eras":[],"displayMoons":true,"incrementDay":false,"displayDayNumber":false},"current":{"year":404,"day":1,"month":0},"events":[],"id":"ID_8bdbfa7b6988","categories":[]}],"configDirectory":null,"currentCalendar":null,"dailyNotes":false,"dateFormat":"YYYY-MM-DD","defaultCalendar":"ID_8bdbfa7b6988","eventPreview":false,"exit":{"saving":false,"event":false,"calendar":false},"eventFrontmatter":false,"parseDates":false,"settingsToggleState":{"calendars":true,"events":false,"advanced":false},"showIntercalary":false,"version":{"major":null,"minor":null,"patch":null},"debug":false}
+{
+  "addToDefaultIfMissing": true,
+  "calendars": [
+    {
+      "name": "Jaeira Calander",
+      "description": null,
+      "static": {
+        "firstWeekDay": 0,
+        "overflow": true,
+        "weekdays": [
+          {
+            "type": "day",
+            "name": "Weekday 1",
+            "id": "ID_7b49bb48cb99"
+          },
+          {
+            "type": "day",
+            "name": "Weekday 2",
+            "id": "ID_58196a6b79f8"
+          },
+          {
+            "type": "day",
+            "name": "Weekday 3",
+            "id": "ID_ab4b8a7b79aa"
+          },
+          {
+            "type": "day",
+            "name": "Weekday 4",
+            "id": "ID_abcbd929dae8"
+          },
+          {
+            "type": "day",
+            "name": "Weekday 5",
+            "id": "ID_1b39d86b28db"
+          },
+          {
+            "type": "day",
+            "name": "Weekday 6",
+            "id": "ID_db4999f99a6b"
+          },
+          {
+            "type": "day",
+            "name": "Weekday 7",
+            "id": "ID_a8bbb9195a5b"
+          },
+          {
+            "type": "day",
+            "name": "Weekday 8",
+            "id": "ID_ea488b8b4b98"
+          },
+          {
+            "type": "day",
+            "name": "Weekday 9",
+            "id": "ID_e83a8b593bf8"
+          }
+        ],
+        "months": [
+          {
+            "name": "Hi-ach",
+            "type": "month",
+            "length": 45,
+            "id": "ID_088b5b2908a9"
+          },
+          {
+            "name": "Ni-ach",
+            "type": "month",
+            "length": 45,
+            "id": "ID_690b9929b868"
+          },
+          {
+            "name": "San-ach",
+            "type": "month",
+            "length": 45,
+            "id": "ID_590ad9ba9818"
+          },
+          {
+            "name": "Shi-o",
+            "type": "month",
+            "length": 45,
+            "id": "ID_1a396b1bda69"
+          },
+          {
+            "name": "Go",
+            "type": "month",
+            "length": 45,
+            "id": "ID_4a3a7b2a1869"
+          },
+          {
+            "name": "Rook-o",
+            "type": "month",
+            "length": 45,
+            "id": "ID_0abb892baa29"
+          },
+          {
+            "name": "Hitch",
+            "type": "month",
+            "length": 45,
+            "id": "ID_c9fbfa5b7a6a"
+          },
+          {
+            "name": "Hatch",
+            "type": "month",
+            "length": 45,
+            "id": "ID_cbc9480a5b18"
+          },
+          {
+            "name": "Jouktch",
+            "type": "month",
+            "length": 45,
+            "id": "ID_698bca68a9db"
+          }
+        ],
+        "moons": [
+          {
+            "name": "Moon 1",
+            "cycle": 10,
+            "offset": 4,
+            "faceColor": "#FFFFFF",
+            "shadowColor": "#000000",
+            "id": "ID_7a099a0a4b8b"
+          },
+          {
+            "name": "Ha-ch",
+            "cycle": 45,
+            "offset": 0,
+            "faceColor": "#FFFFFF",
+            "shadowColor": "#3741df",
+            "id": "ID_0a4ae9ba6b99"
+          }
+        ],
+        "leapDays": [],
+        "eras": [],
+        "displayMoons": true,
+        "incrementDay": false,
+        "displayDayNumber": false
+      },
+      "current": {
+        "year": 404,
+        "day": 1,
+        "month": 0
+      },
+      "events": [],
+      "id": "ID_8bdbfa7b6988",
+      "categories": []
+    }
+  ],
+  "configDirectory": null,
+  "currentCalendar": null,
+  "dailyNotes": false,
+  "dateFormat": "YYYY-MM-DD",
+  "defaultCalendar": "ID_8bdbfa7b6988",
+  "eventPreview": false,
+  "exit": {
+    "saving": false,
+    "event": false,
+    "calendar": false
+  },
+  "eventFrontmatter": false,
+  "parseDates": false,
+  "settingsToggleState": {
+    "calendars": true,
+    "events": false,
+    "advanced": false
+  },
+  "showIntercalary": false,
+  "version": {
+    "major": null,
+    "minor": null,
+    "patch": null
+  },
+  "debug": false
+}

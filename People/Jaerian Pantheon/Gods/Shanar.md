@@ -18,7 +18,7 @@ Shanar's legacy remains deeply ingrained in the consciousness of the Jaerian rea
 The involvement of the goddess of war, Shanar, in dividing her power amongst her three descendants to create the Jaerian [[Trio of War]] is a pivotal aspect of the rich lore you've outlined. This event adds depth to the pantheon and provides a compelling narrative for the creation of these powerful deities.
 
 **Shanar's Motivation:**
-Shanar, the goddess of war, was deeply affected by the events of the [[Second War of the Gods]]. Witnessing the catastrophic consequences of the conflict and the immense destruction it brought upon the mortal world and the realms beyond, Shanar began to question the unbridled use of her power. She saw the pain, suffering, and devastation caused by the clashes between the [[Luminal Accord]] and the [[Nether Enclave]].
+Shanar, the goddess of war, was deeply affected by the events of the [[Second War of the Gods]]. Witnessing the catastrophic consequences of the conflict and the immense destruction it brought upon the mortal world and the realms beyond, Shanar began to question the unbridled use of her power. She saw the pain, suffering, and devastation caused by the clashes between the [[Luminal Accord]] and the [[Nether Enclave]]. The death of [[Zetharion]] led to a realization for Shanar
 
 Shanar recognized that her role as a deity of war had contributed to the conflict and its aftermath. Stricken by guilt and a sense of responsibility, she became determined to prevent such a catastrophic event from happening again in the future.
 

@@ -76,8 +76,14 @@ Certainly, here's the updated list of gods and goddesses who met their fate in t
    - Domain: Storms, Weather
    - Impact: [[Zephiron]]'s death led to unpredictable and uncontrollable weather patterns. Storms ravaged the land, causing flooding, destruction, and disruptions in transportation and agriculture. The people of Jaeria faced challenges in adapting to the erratic climate, as the loss of Zephiron's control over the weather resulted in widespread chaos.
 
-6. **[[Seraphis]], the God of Justice:**
+6. **[[Seraphis]], the God of Justice:
    - Domain: Justice, Balance
-   - Impact: [[Seraphis]]' death disrupted the pursuit of justice and moral balance. His absence allowed for the rise of corruption and unchecked power in mortal and divine realms alike. Laws and governance systems faltered, leading to unrest, conflicts, and a sense of disillusionment among the populace.
+   - Impact: [[Seraphis]]' death disrupted the pursuit of justice and moral balance. His absence allowed for the rise of corruption and unchecked power in mortal and divine realms alike. Laws and governance systems faltered, leading to unrest, conflicts, and a sense of disillusionment among the populace.**
+   
+7. **[[Morthalus]], the God of Decay:**
+   - Domain : Decay
+   - Impact [[Morthalus]]' death, as the God of Decay, represented the aspect of entropy, decay, and the gradual breaking down of things. His death in the war would have led to a profound disruption in the forces of decay and the natural order of dissolution. This disruption could have caused chaos in the physical and metaphysical realms, as the processes of aging, deterioration, and decay might have been thrown into disarray. The absence of Morthalus could have resulted in areas of the universe experiencing accelerated decay, leading to ecological imbalances, weakened structures, and the potential for widespread destruction over time.
 
-7. 
+8. **[[Zetharion]], the God of Doom:**
+   - Domain : Doom
+   - Impact: the death of [[Zetharion]], the God of Doom, represented the forces of inevitable and catastrophic endings. His death caused a disruption in the balance between order and chaos, creating unpredictable and chaotic events that could have led to various apocalyptic scenarios. The absence of Zetharion might have resulted in prophecies and predictions going awry, making it difficult to foresee major events or anticipate the outcomes of certain actions. The fabric of fate and destiny could have been destabilized, leading to uncertainty and fear among mortals and gods alike.

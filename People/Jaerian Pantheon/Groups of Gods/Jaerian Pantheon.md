@@ -2,6 +2,7 @@
 The Jaerian Pantheon is a collection of [[Non Player Characters]] who form the gods of this continent and how they are recognized.
 Members of the Pantheon may have a specific one of the [[Planes]] to rule over or a specific [[Religious Following]] 
 
+[[Shanar]] , the ArchGod of War (Fallen)
 [[Aeloria]], the Goddess of Radiance
 [[Seraphis]], the Archangel of Justice / God of Justice (Fallen)
 [[Luminara]], the Muse of Healing
@@ -19,7 +20,6 @@ Members of the Pantheon may have a specific one of the [[Planes]] to rule over o
 [[Volul]], the Goddess of Music (Fallen)
 [[Zephiron]], the God of Storms (Fallen)
 [[Caladria]], the Goddess of Harmony
-[[Valandor]], the God of Light
 [[Vaelina]], the Goddess of Truth
 [[Neldrath]], the God of Desolation
 [[Malina]], the Goddess of Illusion
@@ -27,5 +27,11 @@ Members of the Pantheon may have a specific one of the [[Planes]] to rule over o
 [[Faelindra]], the Goddess of Dreams
 [[Erevan]], the God of Travel
 [[Kelthar]], the God of Fire
-[[Morana]], the Goddess of Winter
+[[Morana]], the Goddess of Wilderness, Weather and Natural Harmony
 [[Selendra]], the Goddess of Love
+[[Kaladran]], the God of Fate and Prophecy
+[[Lorelei]], the Goddess of Knowledge and Wisdom
+[[Sylthar]], the God of Transformation and Renewal
+[[Celestia]], the Goddess of Balance and Order
+[[Calliope]], the Muse of Arts and Inspiration
+[[Vaelis]], the God of Trade and Prosperity
