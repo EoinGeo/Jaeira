@@ -4,24 +4,42 @@
     "type": "split",
     "children": [
       {
-        "id": "84baa5fbe4faa225",
+        "id": "6dab74ae881c5760",
         "type": "tabs",
         "children": [
           {
-            "id": "255df31348eaa4c5",
-            "type": "leaf",
-            "state": {
-              "type": "obsidian-leaflet-map-view",
-              "state": {}
-            }
-          },
-          {
-            "id": "c38f6800daf250a3",
+            "id": "3f30c7e33d90217d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "People/Jaerian Pantheon/Shanar.md",
+                "file": "People/Jaerian Pantheon/Gods/Shanar.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "dd9bc10097ea49dc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "People/Jaerian Pantheon/Gods/Shanar.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "53a9cdeda691baa5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "People/Jaerian Pantheon/Gods/Shanar.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -29,7 +47,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -95,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "People/Jaerian Pantheon/Shanar.md",
+                "file": "People/Jaerian Pantheon/Gods/Shanar.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "People/Jaerian Pantheon/Shanar.md",
+                "file": "People/Jaerian Pantheon/Gods/Shanar.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +153,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "People/Jaerian Pantheon/Shanar.md"
+                "file": "People/Jaerian Pantheon/Gods/Shanar.md"
               }
             }
           },
@@ -147,7 +165,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 3
       },
       {
         "id": "15b1bdebc5e0caeb",
@@ -181,16 +200,22 @@
       "fantasy-content-generator:Fantasy Generators": false
     }
   },
-  "active": "c38f6800daf250a3",
+  "active": "53a9cdeda691baa5",
   "lastOpenFiles": [
-    "People/Jaerian Pantheon/Trio of War.md",
-    "People/Jaerian Pantheon/Divrin.md",
-    "People/Jaerian Pantheon/Imlivil.md",
-    "[Divrin.md",
-    "People/Jaerian Pantheon/Shanar.md",
-    "People/Jaerian Pantheon/Jaerian Pantheon.md",
-    "People/Jaerian Pantheon/Rellivvra.md",
+    "People/Jaerian Pantheon/Groups of Gods/Trio of War.md",
+    "People/Jaerian Pantheon/Groups of Gods/Luminal Accord.md",
+    "People/Jaerian Pantheon/Groups of Gods/Nether Enclave.md",
     "Events/Second War of the Gods.md",
+    "People/Jaerian Pantheon/Gods/Shanar.md",
+    "People/Jaerian Pantheon/Groups of Gods/Jaerian Pantheon.md",
+    "People/Jaerian Pantheon/Gods/Divrin.md",
+    "People/Jaerian Pantheon/Gods",
+    "People/Jaerian Pantheon/Groups of Gods",
+    "[Divrin.md",
+    "Images/Shanar.png",
+    "Images",
+    "People/Jaerian Pantheon/Gods/Imlivil.md",
+    "People/Jaerian Pantheon/Gods/Rellivvra.md",
     "People/Non Player Characters.md",
     "Untitled.canvas",
     "items/Magic Items.md",
@@ -210,16 +235,11 @@
     "5e Reference Data/Races/Dwarf.md",
     "items/Adamantine Armor.md",
     "5e Reference Data/Situational Rules.md",
-    "5e Reference Data/creatures/Ape.md",
-    "5e Reference Data/NPCs.md",
     "Untitled 1.canvas",
     "Jaeira",
     "People",
     "Nations",
     "Cities",
-    "People/Pantheons",
-    "5e Reference Data/Races",
-    "Events",
-    "5e Reference Data/races"
+    "People/Pantheons"
   ]
 }
