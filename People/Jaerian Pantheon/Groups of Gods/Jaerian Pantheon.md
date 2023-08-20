@@ -2,7 +2,7 @@
 The Jaerian Pantheon is a collection of [[Non Player Characters]] who form the gods of this continent and how they are recognized.
 Members of the Pantheon may have a specific one of the [[Planes]] to rule over or a specific [[Religious Following]] 
 
-**Old Gods (Before the Second War of the Gods) **
+**Old Gods (Before the [[Second War of the Gods]]) 
 
 [[Shanar]] , the ArchGod of War (Fallen)
 [[Aeloria]], the Goddess of Radiance
@@ -19,7 +19,7 @@ Members of the Pantheon may have a specific one of the [[Planes]] to rule over o
 [[Volul]], the Goddess of Music (Fallen)
 [[Zephiron]], the God of Storms (Fallen)
 
-**New Gods (Post the Second War of the Gods)
+**New Gods (Post the [[Second War of the Gods]])
 
 
 [[Imlivil]], the God of Strategy and Intelligence

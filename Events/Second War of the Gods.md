@@ -10,7 +10,7 @@ The Second War of the Gods was ignited by a complex interplay of political intri
 
 2. **The [[Nether Enclave]]:** On the opposing side were the deities who embodied chaos, darkness, and entropy. Led by [[Vorenthar]], the God of Shadows, this faction sought to unleash the forces of destruction upon Jaeria, believing that a new era born from the ashes would grant them ultimate power. The Enclave included gods of deceit, discord, decay, and forbidden knowledge.
 
-**Faction: Luminal Accord**
+**Faction: [[Luminal Accord]]**
 
 - [[Aeloria]], the Goddess of Radiance
 - [[Seraphis]], the ArchAngel of Justice / God of Justice
@@ -19,7 +19,7 @@ The Second War of the Gods was ignited by a complex interplay of political intri
 - [[Istorian]], the Keeper of Knowledge / God of Wisdom
 - [[Varaxis]], the God of Commerce
 
-**Faction: Nether Enclave**
+**Faction: [[Nether Enclave]]**
 
 - [[Vorenthar]], the God of Shadows
 - [[Lyssara]], the Goddess of Discord

@@ -19,7 +19,7 @@ Luminara is depicted as an ethereal figure bathed in a soft, radiant glow. Her f
 
 **Relationships:**
 - **Parent:** Luminara is the child of Shanar, the ArchGod of War (Fallen). Her parentage adds a unique dimension to her domain, emphasizing the balance between healing and conflict.
-- **Sibling:** Luminara is an older sibling to the Trio of War (Imlivil, Rellivvra, and Divrin), showcasing the juxtaposition between healing and the different aspects of war.
+- **Sibling:** Luminara is an older sibling to the [[Trio of War]] ([[Imlivil]], [[Rellivvra]], and [[Divrin]]), showcasing the juxtaposition between healing and the different aspects of war.
 - **Collaborator:** Luminara collaborates with the gods of the pantheon to restore balance and harmony after times of turmoil.
 
 Luminara's presence in the pantheon serves as a reminder of the importance of compassion, healing, and the interconnectedness of all beings. Her soothing influence brings solace to both mortals and gods alike, fostering an environment of unity and support.
