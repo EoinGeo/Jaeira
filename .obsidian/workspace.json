@@ -4,50 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "6dab74ae881c5760",
+        "id": "3466aa4d4d98264a",
         "type": "tabs",
         "children": [
           {
-            "id": "3f30c7e33d90217d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "People/Jaerian Pantheon/Gods/Shanar.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "dd9bc10097ea49dc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "People/Jaerian Pantheon/Gods/Shanar.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "53a9cdeda691baa5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "People/Jaerian Pantheon/Groups of Gods/Luminal Accord.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "dfe745f6ddeab8c5",
+            "id": "950d54a586dcaed2",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -59,8 +20,7 @@
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -89,11 +49,11 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "jaeir",
+                "query": "jaeira",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
-                "extraContext": false,
+                "extraContext": true,
                 "sortOrder": "alphabetical"
               }
             }
@@ -214,20 +174,24 @@
       "fantasy-content-generator:Fantasy Generators": false
     }
   },
-  "active": "dfe745f6ddeab8c5",
+  "active": "950d54a586dcaed2",
   "lastOpenFiles": [
+    "People/Religions/Religious Following.md",
+    "2023-08-20.md",
+    "People/Jaerian Pantheon/Gods/Vorenthar.md",
+    "items/Magic Items.md",
+    "People/Jaerian Pantheon/Groups of Gods/Luminal Accord.md",
+    "People/Jaerian Pantheon/Gods/Shanar.md",
+    "items/The Sundering.md",
+    "Events/Second War of the Gods.md",
     "Images/Shanar.png",
     "People/Jaerian Pantheon/Gods/Zetharion.md",
-    "People/Jaerian Pantheon/Gods/Shanar.md",
     "People/Jaerian Pantheon/Gods/Rellivvra.md",
     "People/Jaerian Pantheon/Gods/Divrin.md",
     "People/Jaerian Pantheon/Gods/Aeloria.md",
-    "Events/Second War of the Gods.md",
     "People/Jaerian Pantheon/Groups of Gods/Trio of War.md",
     "People/Jaerian Pantheon/Groups of Gods/Nether Enclave.md",
-    "People/Jaerian Pantheon/Groups of Gods/Luminal Accord.md",
     "People/Jaerian Pantheon/Groups of Gods/Jaerian Pantheon.md",
-    "People/Jaerian Pantheon/Gods/Vorenthar.md",
     "People/Jaerian Pantheon/Gods/Veridia.md",
     "People/Jaerian Pantheon/Gods/Seraphis.md",
     "People/Jaerian Pantheon/Gods/Morthalus.md",
@@ -242,11 +206,8 @@
     "[Divrin.md",
     "Images",
     "Untitled.canvas",
-    "items/Magic Items.md",
     "Cities/Untitled.md",
-    "People/Religions/Religious Following.md",
     "People/Religions",
-    "People/Pantheons/Pantheons.md",
     "People/Jaerian Pantheon",
     "Untitled 1.canvas",
     "Jaeira",

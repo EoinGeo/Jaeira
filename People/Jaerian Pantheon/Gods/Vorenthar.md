@@ -30,6 +30,6 @@ In the aftermath of the [[Second War of the Gods]], Vorenthar's actions were no 
 
 **4. Seeds of Discord:** Vorenthar's manipulative nature led him to orchestrate conflicts and discord among mortals and deities alike. He sowed seeds of mistrust and betrayal, causing alliances to crumble and civilizations to falter. His aim was to weaken the bonds that held the universe together, paving the way for his ascent.
 
-**5. Gathering of Power:** Vorenthar sought to harness the residual energies left behind by the cataclysmic events of the [[Second War of the Gods]]. He absorbed the essence of shattered dimensions and tapped into the remnants of the Sundering Crystal's power, bolstering his own strength and furthering his ascendant ambitions.
+**5. Gathering of Power:** Vorenthar sought to harness the residual energies left behind by the cataclysmic events of the [[Second War of the Gods]]. He absorbed the essence of shattered dimensions and tapped into the remnants of [[the Sundering]] Crystal's power, bolstering his own strength and furthering his ascendant ambitions.
 
 As the present day arrived, 404 years after the [[Second War of the Gods]], Vorenthar's influence had grown, casting shadows across the universe. His machinations had set the stage for a new era of uncertainty, as the balance between light and darkness teetered on the brink. The enigmatic God of Shadows remained a force to be reckoned with, manipulating events from the shadows as he continued to pursue his elusive goals.

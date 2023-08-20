@@ -12,7 +12,7 @@ The Second War of the Gods was ignited by a complex interplay of political intri
 
 **The Catalysts:**
 
-1. **The Sundering:** A powerful artifact known as the "Sundering Crystal" played a pivotal role in the conflict. It was said to possess the ability to manipulate reality itself, and its discovery triggered a race between the factions to claim its power.
+1. **[[The Sundering]]:** A powerful artifact known as the "Sundering Crystal" played a pivotal role in the conflict. It was said to possess the ability to manipulate reality itself, and its discovery triggered a race between the factions to claim its power.
 
 2. **Mortal Alliances:** Mortal beings were drawn into the conflict, as some aligned with the [[Luminal Accord]], while others were seduced by the promises of the [[Nether Enclave]]. These mortal champions became instruments of divine power, wielding magic and martial prowess to further their chosen faction's goals.
 

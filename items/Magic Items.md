@@ -2,7 +2,7 @@
 
 Magic Items are items or [[Weapons]] with a boost to a stat or a unique purpose
 - [[Adamantine Armor]]
-- [[Ammunition, +1, +2, or +3]]
+- [[The Sundering]]
 - [[Amulet of Health]]
 - [[Amulet of Proof against Detection and Location]]
 - [[Amulet of the Planes]]
