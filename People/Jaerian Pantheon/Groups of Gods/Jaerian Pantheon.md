@@ -1,23 +1,26 @@
 
 The Jaerian Pantheon is a collection of [[Non Player Characters]] who form the gods of this continent and how they are recognized.
 Members of the Pantheon may have a specific one of the [[Planes]] to rule over or a specific [[Religious Following]] 
-
-**Old Gods (Before the [[Second War of the Gods]]) 
+**Dead Gods 
 
 [[Shanar]] , the ArchGod of War (Fallen)
-[[Aeloria]], the Goddess of Radiance
 [[Seraphis]], the Archangel of Justice / God of Justice (Fallen)
-[[Luminara]], the Muse of Healing
 [[Veridia]], the Guardian of Nature (Fallen)
 [[Istorian]], the Keeper of Knowledge / God of Wisdom (Fallen)
-[[Vorenthar]], the God of Shadows
-[[Lyssara]], the Goddess of Discord
-[[Morthalus]], the God of Decay (Fallen)
-[[Calindra]], the Goddess of Forbidden Knowledge
 [[Zetharion]], the God of Doom (Fallen)
 [[Varaxis]], the God of Commerce (Fallen)
 [[Volul]], the Goddess of Music (Fallen)
 [[Zephiron]], the God of Storms (Fallen)
+[[Morthalus]], the God of Decay (Fallen)
+
+**Old Gods (Before the [[Second War of the Gods]]) 
+
+
+[[Aeloria]], the Goddess of Radiance
+[[Luminara]], the Muse of Healing
+[[Vorenthar]], the God of Shadows
+[[Lyssara]], the Goddess of Discord
+[[Calindra]], the Goddess of Forbidden Knowledge
 
 **New Gods (Post the [[Second War of the Gods]])
 
@@ -74,7 +77,7 @@ Of course! Here's a comprehensive list of the relations within the pantheon, alo
 
 7. [[Trio of War]], The Gods of War:
    - Triplets: [[Imlivil]], the God of Strategy and Intelligence, [[Rellivvra]], the Goddess of Slaughter, and [[Divrin]], the Goddess of Soldiers
-   - Older Sibling: **[[Luminara]]**, the Muse of Healing
+   - Older Sibling: [[Luminara]], the Muse of Healing
    - Parent: [[Shanar]] the ArchGod of War (Fallen)
    - Meaning: The [[Trio of War]] consists of triplets born to [[Shanar]], each embodying different aspects of war. [[Luminara]] serves as an older sibling, emphasizing the role of healing amidst conflict.
 

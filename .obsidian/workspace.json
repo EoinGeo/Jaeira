@@ -4,15 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "8e47800efc5340ed",
+        "id": "6f3fb833c49bae8d",
         "type": "tabs",
         "children": [
           {
-            "id": "bd68379c14265bbf",
+            "id": "dca6b99a4b20717f",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "People/Jaerian Pantheon/Gods/Shanar.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
             }
           }
         ]
@@ -95,6 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "People/Jaerian Pantheon/Gods/Shanar.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,6 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "People/Jaerian Pantheon/Gods/Shanar.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -132,7 +139,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "People/Jaerian Pantheon/Gods/Shanar.md"
+              }
             }
           },
           {
@@ -178,35 +187,36 @@
       "fantasy-content-generator:Fantasy Generators": false
     }
   },
-  "active": "bd68379c14265bbf",
+  "active": "dca6b99a4b20717f",
   "lastOpenFiles": [
+    "People/Jaerian Pantheon/Groups of Gods/Luminal Accord.md",
+    "People/Jaerian Pantheon/Groups of Gods/Nether Enclave.md",
+    "People/Jaerian Pantheon/Gods/Aeloria.md",
+    "People/Jaerian Pantheon/Gods/Vorenthar.md",
+    "People/Jaerian Pantheon/Groups of Gods/Jaerian Pantheon.md",
+    "People/Jaerian Pantheon/Gods/Rellivvra.md",
+    "Events/Second War of the Gods.md",
+    "People/Jaerian Pantheon/Gods/Vaelina.md",
+    "items/Bag of Holding.md",
+    "Images/Shanar.png",
+    "items/Red Wizard's Dagger.md",
+    "People/Religions/Imlivil/The Red Wizards.md",
+    "People/Jaerian Pantheon/Groups of Gods/Trio of War.md",
+    "People/Jaerian Pantheon/Gods/Luminara.md",
+    "People/Jaerian Pantheon/Gods/Imlivil.md",
+    "items/Magic Items.md",
+    "People/Religions/Imlivil",
     "5e Reference Data/Languages.md",
     "People/Non Player Characters.md",
-    "People/Jaerian Pantheon/Groups of Gods/Trio of War.md",
-    "People/Jaerian Pantheon/Groups of Gods/Nether Enclave.md",
-    "People/Jaerian Pantheon/Groups of Gods/Luminal Accord.md",
-    "People/Jaerian Pantheon/Groups of Gods/Jaerian Pantheon.md",
-    "People/Jaerian Pantheon/Gods/Vorenthar.md",
     "People/Jaerian Pantheon/Gods/Vaelis.md",
-    "People/Jaerian Pantheon/Gods/Vaelina.md",
     "People/Jaerian Pantheon/Gods/Sylthar.md",
     "People/Jaerian Pantheon/Gods/Shanar.md",
     "People/Jaerian Pantheon/Gods/Selendra.md",
-    "People/Jaerian Pantheon/Gods/Rellivvra.md",
     "People/Jaerian Pantheon/Gods/Neldrath.md",
     "People/Jaerian Pantheon/Gods/Morana.md",
     "People/Jaerian Pantheon/Gods/Malina.md",
     "People/Jaerian Pantheon/Gods/Lyssara.md",
-    "People/Jaerian Pantheon/Gods/Luminara.md",
     "People/Jaerian Pantheon/Gods/Lorelei.md",
-    "People/Jaerian Pantheon/Gods/Kelthar.md",
-    "People/Jaerian Pantheon/Gods/Kaladran.md",
-    "People/Jaerian Pantheon/Gods/Imlivil.md",
-    "People/Jaerian Pantheon/Gods/Faelindra.md",
-    "People/Jaerian Pantheon/Gods/Erevan.md",
-    "People/Jaerian Pantheon/Gods/Drakaroth.md",
-    "People/Jaerian Pantheon/Gods/Divrin.md",
-    "Images/Shanar.png",
     "People/Jaerian Pantheon/Gods",
     "People/Jaerian Pantheon/Groups of Gods",
     "Images",
@@ -217,7 +227,6 @@
     "Jaeira",
     "People",
     "Nations",
-    "Cities",
-    "People/Pantheons"
+    "Cities"
   ]
 }

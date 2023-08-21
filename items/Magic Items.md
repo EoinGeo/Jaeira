@@ -1,6 +1,7 @@
 # Magic Items
 
 Magic Items are items or [[Weapons]] with a boost to a stat or a unique purpose
+- [[Red Wizard's Dagger]]
 - [[Adamantine Armor]]
 - [[The Sundering]]
 - [[Amulet of Health]]
