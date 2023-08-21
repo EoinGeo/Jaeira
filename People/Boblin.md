@@ -1,1 +1,0 @@
-A [[Goblin]] with a heart.

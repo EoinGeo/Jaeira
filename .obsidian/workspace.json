@@ -30,7 +30,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Locations/Goblina on the Sea.md",
+                    "file": "People/Boblin the Goblin.md",
                     "mode": "source",
                     "backlinks": true,
                     "source": false
@@ -57,7 +57,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Locations/Goblina on the Sea.md",
+                    "file": "People/Boblin the Goblin.md",
                     "mode": "source",
                     "backlinks": true,
                     "source": false
@@ -78,7 +78,7 @@
                 }
               }
             ],
-            "currentTab": 1
+            "currentTab": 3
           },
           {
             "id": "d1c9e4f32b95540e",
@@ -90,7 +90,7 @@
                 "state": {
                   "type": "outgoing-link",
                   "state": {
-                    "file": "Locations/Goblina on the Sea.md",
+                    "file": "People/Boblin the Goblin.md",
                     "linksCollapsed": false,
                     "unlinkedCollapsed": true
                   }
@@ -180,7 +180,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Locations/Goblina on the Sea.md",
+                "file": "People/Boblin the Goblin.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -197,7 +197,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Locations/Goblina on the Sea.md",
+                "file": "People/Boblin the Goblin.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -220,7 +220,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Locations/Goblina on the Sea.md"
+                "file": "People/Boblin the Goblin.md"
               }
             }
           },
@@ -267,14 +267,18 @@
       "fantasy-content-generator:Fantasy Generators": false
     }
   },
-  "active": "e60037724ddb0e38",
+  "active": "f9f8585b0b8eb221",
   "lastOpenFiles": [
+    "Locations/Goblina on the Sea.md",
+    "[[Boblin the Goblin.md",
+    "People/Boblin the Goblin.md",
+    "5e Reference Data/creatures/Giant Fire Beetle.md",
+    "5e Reference Data/creatures/Giant Badger.md",
+    "5e Reference Data/monsters/Goblin.md",
     "People/Religions/Rellivvra/Toglikk.md",
     "People/Religions/Rellivvra/The Curséd Folk.md",
     "5e Reference Data/Weapons.md",
     "items/Vicious Weapon.md",
-    "Locations/Goblina on the Sea.md",
-    "People/Boblin.md",
     "People/Jaerian Pantheon/Groups of Gods/Jaerian Pantheon.md",
     "Locations/Locations.md",
     "People/Non Player Characters.md",
@@ -293,10 +297,6 @@
     "People/Jaerian Pantheon/Groups of Gods/Luminal Accord.md",
     "People/Jaerian Pantheon/Groups of Gods/Nether Enclave.md",
     "People/Jaerian Pantheon/Gods/Aeloria.md",
-    "People/Jaerian Pantheon/Gods/Vorenthar.md",
-    "People/Jaerian Pantheon/Gods/Rellivvra.md",
-    "Events/Second War of the Gods.md",
-    "People/Jaerian Pantheon/Gods/Vaelina.md",
     "Images/Shanar.png",
     "People/Religions/Imlivil",
     "People/Jaerian Pantheon/Gods",
