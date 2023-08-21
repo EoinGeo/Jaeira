@@ -26,7 +26,20 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Curse of Rellivvra.md",
+                "file": "Locations/Goblina on the Sea.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f9f8585b0b8eb221",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Locations/Goblina on the Sea.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -110,7 +123,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 620.5
+    "width": 439.5
   },
   "right": {
     "id": "ffcbdc4bc555849e",
@@ -127,7 +140,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Curse of Rellivvra.md",
+                "file": "Locations/Goblina on the Sea.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -144,7 +157,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Curse of Rellivvra.md",
+                "file": "Locations/Goblina on the Sea.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -167,7 +180,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Curse of Rellivvra.md"
+                "file": "Locations/Goblina on the Sea.md"
               }
             }
           },
@@ -216,9 +229,16 @@
   },
   "active": "e60037724ddb0e38",
   "lastOpenFiles": [
-    "People/Religions/Rellivvra/The Curséd Folk.md",
-    "Curse of Rellivvra.md",
+    "People/Religions/Rellivvra/Curse of Rellivvra.md",
     "5e Reference Data/monsters/Bugbear.md",
+    "People/Religions/Rellivvra/The Curséd Folk.md",
+    "Locations/Goblina on the Sea.md",
+    "People/Jaerian Pantheon/Groups of Gods/Trio of War.md",
+    "Locations/Goblina-on-the-Sea",
+    "People/Religions/Imlivil/The Red Wizards.md",
+    "items/Red Wizard's Dagger.md",
+    "items/Magic Items.md",
+    "items/Pungum.md",
     "People/Jaerian Pantheon/Gods/Divrin.md",
     "People/Religions/Rellivvra",
     "items/The Sundering.md",
@@ -233,18 +253,12 @@
     "People/Jaerian Pantheon/Gods/Vaelina.md",
     "items/Bag of Holding.md",
     "Images/Shanar.png",
-    "items/Red Wizard's Dagger.md",
-    "People/Religions/Imlivil/The Red Wizards.md",
-    "People/Jaerian Pantheon/Groups of Gods/Trio of War.md",
     "People/Jaerian Pantheon/Gods/Luminara.md",
     "People/Jaerian Pantheon/Gods/Imlivil.md",
-    "items/Magic Items.md",
     "People/Religions/Imlivil",
     "5e Reference Data/Languages.md",
     "People/Non Player Characters.md",
     "People/Jaerian Pantheon/Gods/Vaelis.md",
-    "People/Jaerian Pantheon/Gods/Sylthar.md",
-    "People/Jaerian Pantheon/Gods/Selendra.md",
     "People/Jaerian Pantheon/Gods",
     "People/Jaerian Pantheon/Groups of Gods",
     "Images",
@@ -253,7 +267,6 @@
     "People/Jaerian Pantheon",
     "Untitled 1.canvas",
     "Jaeira",
-    "People",
-    "Nations"
+    "People"
   ]
 }
