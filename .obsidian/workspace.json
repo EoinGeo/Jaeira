@@ -4,63 +4,103 @@
     "type": "split",
     "children": [
       {
-        "id": "6f3fb833c49bae8d",
-        "type": "tabs",
+        "id": "f7a231d66554b08b",
+        "type": "split",
         "children": [
           {
-            "id": "dca6b99a4b20717f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "People/Religions/Rellivvra/The Curséd Folk.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
+            "id": "6f3fb833c49bae8d",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "dca6b99a4b20717f",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "People/Religions/Rellivvra/The Curséd Folk.md",
+                    "mode": "source",
+                    "backlinks": true,
+                    "source": false
+                  }
+                }
+              },
+              {
+                "id": "e60037724ddb0e38",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Locations/Goblina on the Sea.md",
+                    "mode": "source",
+                    "backlinks": true,
+                    "source": false
+                  }
+                },
+                "group": "d7e444b335f8c487"
+              },
+              {
+                "id": "29c18257ae49b8f3",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "items/Vicious Weapon.md",
+                    "mode": "source",
+                    "backlinks": true,
+                    "source": false
+                  }
+                }
+              },
+              {
+                "id": "f9f8585b0b8eb221",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Locations/Goblina on the Sea.md",
+                    "mode": "source",
+                    "backlinks": true,
+                    "source": false
+                  }
+                }
+              },
+              {
+                "id": "3f2b6f5b63cf026d",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "5e Reference Data/monsters/Bugbear.md",
+                    "mode": "source",
+                    "backlinks": true,
+                    "source": false
+                  }
+                }
               }
-            }
+            ],
+            "currentTab": 1
           },
           {
-            "id": "e60037724ddb0e38",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Locations/Goblina on the Sea.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
+            "id": "d1c9e4f32b95540e",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "5596d6a74f7a00cd",
+                "type": "leaf",
+                "state": {
+                  "type": "outgoing-link",
+                  "state": {
+                    "file": "Locations/Goblina on the Sea.md",
+                    "linksCollapsed": false,
+                    "unlinkedCollapsed": true
+                  }
+                },
+                "group": "d7e444b335f8c487"
               }
-            }
-          },
-          {
-            "id": "f9f8585b0b8eb221",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Locations/Goblina on the Sea.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3f2b6f5b63cf026d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "5e Reference Data/monsters/Bugbear.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
+            ]
           }
         ],
-        "currentTab": 1
+        "direction": "horizontal"
       }
     ],
     "direction": "vertical"
@@ -229,10 +269,17 @@
   },
   "active": "e60037724ddb0e38",
   "lastOpenFiles": [
+    "People/Religions/Rellivvra/Toglikk.md",
+    "People/Religions/Rellivvra/The Curséd Folk.md",
+    "5e Reference Data/Weapons.md",
+    "items/Vicious Weapon.md",
+    "Locations/Goblina on the Sea.md",
+    "People/Boblin.md",
+    "People/Jaerian Pantheon/Groups of Gods/Jaerian Pantheon.md",
+    "Locations/Locations.md",
+    "People/Non Player Characters.md",
     "People/Religions/Rellivvra/Curse of Rellivvra.md",
     "5e Reference Data/monsters/Bugbear.md",
-    "People/Religions/Rellivvra/The Curséd Folk.md",
-    "Locations/Goblina on the Sea.md",
     "People/Jaerian Pantheon/Groups of Gods/Trio of War.md",
     "Locations/Goblina-on-the-Sea",
     "People/Religions/Imlivil/The Red Wizards.md",
@@ -247,18 +294,11 @@
     "People/Jaerian Pantheon/Groups of Gods/Nether Enclave.md",
     "People/Jaerian Pantheon/Gods/Aeloria.md",
     "People/Jaerian Pantheon/Gods/Vorenthar.md",
-    "People/Jaerian Pantheon/Groups of Gods/Jaerian Pantheon.md",
     "People/Jaerian Pantheon/Gods/Rellivvra.md",
     "Events/Second War of the Gods.md",
     "People/Jaerian Pantheon/Gods/Vaelina.md",
-    "items/Bag of Holding.md",
     "Images/Shanar.png",
-    "People/Jaerian Pantheon/Gods/Luminara.md",
-    "People/Jaerian Pantheon/Gods/Imlivil.md",
     "People/Religions/Imlivil",
-    "5e Reference Data/Languages.md",
-    "People/Non Player Characters.md",
-    "People/Jaerian Pantheon/Gods/Vaelis.md",
     "People/Jaerian Pantheon/Gods",
     "People/Jaerian Pantheon/Groups of Gods",
     "Images",

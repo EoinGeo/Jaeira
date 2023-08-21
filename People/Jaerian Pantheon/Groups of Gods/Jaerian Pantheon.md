@@ -3,7 +3,7 @@ The Jaerian Pantheon is a collection of [[Non Player Characters]] who form the g
 Members of the Pantheon may have a specific one of the [[Planes]] to rule over or a specific [[Religious Following]] 
 **Dead Gods 
 
-[[Shanar]] , the ArchGod of War (Fallen)
+[[Shanar]] , the ArchGod of War (Fallen?)
 [[Seraphis]], the Archangel of Justice / God of Justice (Fallen)
 [[Veridia]], the Guardian of Nature (Fallen)
 [[Istorian]], the Keeper of Knowledge / God of Wisdom (Fallen)

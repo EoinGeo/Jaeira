@@ -36,13 +36,6 @@
       }
     },
     {
-      "query": "path:\"5e Reference Data/npcs\"",
-      "color": {
-        "a": 1,
-        "rgb": 5419488
-      }
-    },
-    {
       "query": "path:items",
       "color": {
         "a": 1,
@@ -54,6 +47,13 @@
       "color": {
         "a": 1,
         "rgb": 5395168
+      }
+    },
+    {
+      "query": "path:Locations",
+      "color": {
+        "a": 1,
+        "rgb": 9568475
       }
     }
   ],
@@ -67,6 +67,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.27268599173600716,
+  "scale": 0.1945002269061599,
   "close": false
 }
