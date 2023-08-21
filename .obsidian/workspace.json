@@ -14,8 +14,22 @@
               "type": "FANTASY_CALENDAR",
               "state": {}
             }
+          },
+          {
+            "id": "88540a8b0fd46bdd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "People/Jaerian Pantheon/Gods/Caladria.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -95,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "People/Jaerian Pantheon/Groups of Gods/Nether Enclave.md",
+                "file": "People/Jaerian Pantheon/Gods/Caladria.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "People/Jaerian Pantheon/Groups of Gods/Nether Enclave.md",
+                "file": "People/Jaerian Pantheon/Gods/Caladria.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "People/Jaerian Pantheon/Groups of Gods/Nether Enclave.md"
+                "file": "People/Jaerian Pantheon/Gods/Caladria.md"
               }
             }
           },
@@ -184,10 +198,10 @@
       "fantasy-content-generator:Fantasy Generators": false
     }
   },
-  "active": "87473641f57a30f4",
+  "active": "88540a8b0fd46bdd",
   "lastOpenFiles": [
-    "Events/Second War of the Gods.md",
     "People/Jaerian Pantheon/Groups of Gods/Nether Enclave.md",
+    "Events/Second War of the Gods.md",
     "People/Religions/Rellivvra/The Curséd Folk.md",
     "People/Boblin the Goblin.md",
     "Images/boblin the goblin.pdf",
