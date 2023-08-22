@@ -21,7 +21,85 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Untitled.md",
+                "file": "People/Religions/Order of Tranquil Waters.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "92b5aa1431b6d8d9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "People/Religions/Order of Tranquil Waters.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1b01093941322d78",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "People/Religions/Order of Tranquil Waters.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "11ca8267d3fee962",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "People/Religions/Order of Tranquil Waters.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a03fdc220a9b71ea",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "People/Religions/Aeloria/Society of Balanced Harmony.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "609529371110942c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "People/Religions/Circle of Natural Harmony.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3b8a60b496827d42",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "People/Religions/Cults.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -29,7 +107,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -109,7 +187,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled.md",
+                "file": "People/Religions/Cults.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +204,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Untitled.md",
+                "file": "People/Religions/Cults.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -149,7 +227,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Untitled.md"
+                "file": "People/Religions/Cults.md"
               }
             }
           },
@@ -197,16 +275,26 @@
       "fantasy-content-generator:Fantasy Generators": false
     }
   },
-  "active": "54266d2c84595e22",
+  "active": "0f891f4967d714dd",
   "lastOpenFiles": [
-    "Untitled.md",
+    "People/Religions/Seekers of Prophecy.md",
+    "People/Religions/Circle of Natural Harmony.md",
+    "People/Religions/Aeloria/Society of Balanced Harmony.md",
+    "People/Religions/Cults.md",
+    "People/Religions/Whisperers of Dreams.md",
+    "People/Religions/Order of Tranquil Waters.md",
+    "People/Religions/Children of the Eternal Flame.md",
+    "People/Religions/Selendra/Cult of the Crimson Rose.md",
+    "People/Religions/Aeloria",
+    "People/Religions/Selendra",
+    "People/Jaerian Pantheon/Gods/Lyssara.md",
     "People/Religions/Religions.md",
     "People/Religions/Vaelinian Advocates.md",
     "People/Religions/Vaelian Traders.md",
     "People/Religions/Calindrana Sages.md",
     "People/Religions/Shadowseekers.md",
-    "People/Religions/Selendran Devotion.md",
-    "People/Religions/Aelorian Illumination.md",
+    "People/Religions/Selendra/Selendran Devotion.md",
+    "People/Religions/Aeloria/Aelorian Illumination.md",
     "People/Religions/Luminaran Healers.md",
     "People/Religions/Neldranthian Reflection.md",
     "People/Religions/Rellivvra/The Curséd Folk.md",
@@ -217,14 +305,6 @@
     "People/Jaerian Pantheon/Gods/Shanar.md",
     "People/Jaerian Pantheon/Gods/Selendra.md",
     "People/Jaerian Pantheon/Gods/Rellivvra.md",
-    "People/Jaerian Pantheon/Gods/Neldrath.md",
-    "People/Jaerian Pantheon/Gods/Lyssara.md",
-    "People/Jaerian Pantheon/Gods/Malina.md",
-    "People/Jaerian Pantheon/Gods/Morana.md",
-    "People/Jaerian Pantheon/Groups of Gods/Trio of War.md",
-    "People/Jaerian Pantheon/Gods/Luminara.md",
-    "People/Jaerian Pantheon/Gods/Lorelei.md",
-    "People/Jaerian Pantheon/Gods/Kelthar.md",
     "Images/boblin the goblin.pdf",
     "Locations/Goblina-on-the-Sea",
     "People/Religions/Rellivvra",
@@ -235,8 +315,6 @@
     "Images",
     "Untitled.canvas",
     "People/Religions",
-    "People/Jaerian Pantheon",
-    "Untitled 1.canvas",
-    "Jaeira"
+    "Untitled 1.canvas"
   ]
 }
