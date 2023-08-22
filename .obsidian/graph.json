@@ -55,6 +55,13 @@
         "a": 1,
         "rgb": 9568475
       }
+    },
+    {
+      "query": "tag:#Religions",
+      "color": {
+        "a": 1,
+        "rgb": 225676
+      }
     }
   ],
   "collapse-display": true,

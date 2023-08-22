@@ -1,0 +1,10 @@
+#Religions 
+[[Aelorian Illumination]]
+[[Calindrana Sages]]
+[[Luminaran Healers]]
+[[Neldranthian Reflection]]
+[[Selendran Devotion]]
+[[Shadowseekers]]
+[[The Red Wizards]]
+[[Vaelian Traders]]
+[[Vaelinian Advocates]]
