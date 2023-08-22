@@ -35,12 +35,11 @@ Members of the Pantheon may have a specific one of the [[Planes]] to rule over o
 [[Drakaroth]], the God of Secrets
 [[Faelindra]], the Goddess of Dreams
 [[Erevan]], the God of Travel
-[[Kelthar]], the God of Fire
+[[Kelthar]], the God of Fire, Transformation
 [[Morana]], the Goddess of Wilderness, Weather and Natural Harmony
 [[Selendra]], the Goddess of Love
 [[Kaladran]], the God of Fate and Prophecy
 [[Lorelei]], the Goddess of Knowledge and Wisdom
-[[Sylthar]], the God of Transformation and Renewal
 [[Celestia]], the Goddess of Balance and Order
 [[Calliope]], the Muse of Arts and Inspiration
 [[Vaelis]], the God of Trade and Prosperity

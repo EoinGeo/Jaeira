@@ -20,6 +20,7 @@ Faelindra is often depicted as a figure with an otherworldly presence, her featu
 
 **Relationships:**
 - **Alliance with [[Drakaroth]]:** Faelindra shares an alliance with [[Drakaroth]], the God of Secrets. Their connection to hidden truths and the realms beyond the physical makes for a symbiotic relationship.
+- **Sibling:** [[Malina]] is the twin sister of Faelindra. Their close bond reflects their shared connection to the ethereal and the natural worlds.
 - **Connection to the Mind:** Faelindra's interactions often transcend the physical plane, as she peers into the inner thoughts and emotions of gods and mortals alike.
 
 **Influence after the Second War:**

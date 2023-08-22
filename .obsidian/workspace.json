@@ -21,7 +21,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "People/Jaerian Pantheon/Gods/Kaladran.md",
+                "file": "People/Jaerian Pantheon/Groups of Gods/Jaerian Pantheon.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "People/Jaerian Pantheon/Gods/Kaladran.md",
+                "file": "People/Jaerian Pantheon/Groups of Gods/Jaerian Pantheon.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "People/Jaerian Pantheon/Gods/Kaladran.md",
+                "file": "People/Jaerian Pantheon/Groups of Gods/Jaerian Pantheon.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -149,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "People/Jaerian Pantheon/Gods/Kaladran.md"
+                "file": "People/Jaerian Pantheon/Groups of Gods/Jaerian Pantheon.md"
               }
             }
           },
@@ -200,14 +200,23 @@
   "active": "88540a8b0fd46bdd",
   "lastOpenFiles": [
     "People/Jaerian Pantheon/Gods/Kelthar.md",
-    "People/Jaerian Pantheon/Gods/Imlivil.md",
+    "People/Jaerian Pantheon/Gods/Sylthar.md",
+    "People/Jaerian Pantheon/Gods/Neldrath.md",
+    "People/Jaerian Pantheon/Gods/Selendra.md",
+    "People/Jaerian Pantheon/Gods/Morana.md",
+    "People/Jaerian Pantheon/Gods/Malina.md",
     "People/Jaerian Pantheon/Gods/Faelindra.md",
+    "People/Jaerian Pantheon/Gods/Lorelei.md",
+    "People/Jaerian Pantheon/Gods/Lyssara.md",
+    "People/Jaerian Pantheon/Gods/Luminara.md",
+    "People/Jaerian Pantheon/Gods/Calindra.md",
+    "People/Jaerian Pantheon/Gods/Kaladran.md",
+    "People/Jaerian Pantheon/Gods/Imlivil.md",
     "People/Jaerian Pantheon/Gods/Erevan.md",
+    "People/Jaerian Pantheon/Gods/Celestia.md",
     "People/Jaerian Pantheon/Gods/Drakaroth.md",
     "People/Jaerian Pantheon/Gods/Divrin.md",
-    "People/Jaerian Pantheon/Gods/Celestia.md",
     "People/Jaerian Pantheon/Gods/Calliope.md",
-    "People/Jaerian Pantheon/Gods/Calindra.md",
     "People/Jaerian Pantheon/Gods/Caladria.md",
     "People/Jaerian Pantheon/Gods/Aeloria.md",
     "People/Jaerian Pantheon/Groups of Gods/Nether Enclave.md",
@@ -217,15 +226,6 @@
     "Images/boblin the goblin.pdf",
     "Locations/Goblina on the Sea.md",
     "[[Boblin the Goblin.md",
-    "5e Reference Data/creatures/Giant Fire Beetle.md",
-    "5e Reference Data/creatures/Giant Badger.md",
-    "5e Reference Data/monsters/Goblin.md",
-    "People/Religions/Rellivvra/Toglikk.md",
-    "5e Reference Data/Weapons.md",
-    "items/Vicious Weapon.md",
-    "People/Jaerian Pantheon/Groups of Gods/Jaerian Pantheon.md",
-    "Locations/Locations.md",
-    "People/Non Player Characters.md",
     "Locations/Goblina-on-the-Sea",
     "People/Religions/Rellivvra",
     "Images/Shanar.png",
