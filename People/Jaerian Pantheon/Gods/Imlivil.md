@@ -19,7 +19,7 @@ His gaze is penetrating, and his expressions are often marked by a thoughtful in
 
 **Actions and Ascent to Deity:**
 
-Following the [[Second War of the Gods]] and Shanar's division of powers, Imlivil emerged as a deity who personified the intellectual aspect of warfare. His ascension to godhood was a result of Shanar's intention to balance the destructive forces with those of strategy and foresight.
+Following the [[Second War of the Gods]] and [[Shanar]]'s division of powers, Imlivil emerged as a deity who personified the intellectual aspect of warfare. His ascension to godhood was a result of [[Shanar]]'s intention to balance the destructive forces with those of strategy and foresight.
 
 **1. Mentor to Commanders and Tacticians:** Imlivil became a guiding force for military leaders and tacticians seeking to gain an edge in battle. He would appear to them in moments of reflection, offering insights and suggesting innovative strategies to outmaneuver their opponents.
 

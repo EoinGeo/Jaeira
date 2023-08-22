@@ -19,10 +19,10 @@ Calindra is often depicted as a figure cloaked in shadows, her features obscured
 - **Weaver of Complexity:** The secrets she unveils often come with layers of complexity. Calindra's revelations may illuminate one truth while shrouding another, leaving those who seek her knowledge to grapple with the enigma.
 
 **Relationships:**
-- **Alliance with Discord:** Calindra maintains an alliance with Lyssara, the Goddess of Discord. Their shared penchant for disruption and revealing hidden truths creates a unique synergy between them.
+- **Alliance with Discord:** Calindra maintains an alliance with [[Lyssara]], the Goddess of Discord. Their shared penchant for disruption and revealing hidden truths creates a unique synergy between them.
 - **Conflicted Associations:** While some gods are wary of Calindra's influence, others see value in her revelations. Her relationships within the pantheon are complex, reflecting the ambivalence surrounding forbidden knowledge.
 
 **Influence after the Second War:**
-Calindra's role after the Second War of the Gods was pivotal in reshaping the pantheon's perception of knowledge. Her revelations, both enlightening and unsettling, prompted gods and mortals to confront the consequences of seeking forbidden truths. Her presence continues to challenge conventions and invite introspection.
+Calindra's role after the [[Second War of the Gods]] was pivotal in reshaping the pantheon's perception of knowledge. Her revelations, both enlightening and unsettling, prompted gods and mortals to confront the consequences of seeking forbidden truths. Her presence continues to challenge conventions and invite introspection.
 
 Calindra's mystique and allure make her a compelling figure within the pantheon, embodying the tension between curiosity and caution, and revealing the profound impact of exploring the forbidden.

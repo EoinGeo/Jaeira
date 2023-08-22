@@ -19,10 +19,10 @@ Calliope is often depicted as an elegant and graceful figure with flowing hair a
 - **Bearer of Stories:** Calliope treasures stories, both ancient and modern, and she nurtures the tradition of storytelling as a powerful means of conveying emotions, lessons, and experiences.
 
 **Relationships:**
-- **Collaborator:** Calliope collaborates with Kelthar, the God of Fire, to kindle the flames of creativity. Their partnership infuses artistic expression with the transformative power of fire.
+- **Collaborator:** Calliope collaborates with [[Kelthar]], the God of Fire, to kindle the flames of creativity. Their partnership infuses artistic expression with the transformative power of fire.
 - **Mentorship:** Calliope often serves as a guiding presence for mortals and gods alike, inspiring them to embrace their creativity and share their unique voices with the world.
 
 **Influence after the Second War:**
-Calliope's influence played a vital role in the aftermath of the Second War of the Gods. Her ability to inspire and uplift contributed to the healing of a fractured world, allowing artists to channel their experiences into transformative works of art that resonated with the collective spirit.
+Calliope's influence played a vital role in the aftermath of the [[Second War of the Gods]]. Her ability to inspire and uplift contributed to the healing of a fractured world, allowing artists to channel their experiences into transformative works of art that resonated with the collective spirit.
 
-Calliope's radiant spirit and commitment to artistic expression make her an integral part of the pantheon, a muse who fosters the growth of creativity and the celebration of the human spirit.
+Calliope's radiant spirit and commitment to artistic expression make her an integral part of the pantheon, a muse who fosters the growth of creativity and the celebration of the [[human]] spirit.

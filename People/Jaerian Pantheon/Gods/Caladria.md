@@ -21,6 +21,6 @@ Caladria is often depicted as a serene and graceful figure adorned in flowing ro
 **Relationships:**
 - **Sibling:** Caladria is the sibling of [[Veridia]], the Guardian of Nature (Fallen). Their relationship embodies the connection between harmony and the natural world, emphasizing the importance of balance in both realms.
 - **Ally:** Caladria allies herself with various gods who share her values of unity and equilibrium. Her presence encourages cooperation and understanding among the pantheon.
-- **Harmony in the War:** Caladria's influence played a pivotal role in soothing tensions and healing wounds after the Second War of the Gods, contributing to the fragile truce that concluded the conflict.
+- **Harmony in the War:** Caladria's influence played a pivotal role in soothing tensions and healing wounds after the [[Second War of the Gods]], contributing to the fragile truce that concluded the conflict.
 
 Caladria's serene presence and unwavering commitment to harmony serve as a stabilizing force in the pantheon. Her domain reaches far and wide, fostering connections and soothing turmoil among both gods and mortals.

@@ -21,7 +21,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "People/Jaerian Pantheon/Gods/Aeloria.md",
+                "file": "People/Jaerian Pantheon/Gods/Kaladran.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "People/Jaerian Pantheon/Gods/Aeloria.md",
+                "file": "People/Jaerian Pantheon/Gods/Kaladran.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,9 +126,9 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "People/Jaerian Pantheon/Gods/Aeloria.md",
+                "file": "People/Jaerian Pantheon/Gods/Kaladran.md",
                 "linksCollapsed": false,
-                "unlinkedCollapsed": true
+                "unlinkedCollapsed": false
               }
             }
           },
@@ -149,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "People/Jaerian Pantheon/Gods/Aeloria.md"
+                "file": "People/Jaerian Pantheon/Gods/Kaladran.md"
               }
             }
           },
@@ -162,7 +162,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 1
       },
       {
         "id": "15b1bdebc5e0caeb",
@@ -199,10 +199,17 @@
   },
   "active": "88540a8b0fd46bdd",
   "lastOpenFiles": [
-    "People/Jaerian Pantheon/Gods/Calindra.md",
-    "People/Jaerian Pantheon/Gods/Calliope.md",
+    "People/Jaerian Pantheon/Gods/Kelthar.md",
+    "People/Jaerian Pantheon/Gods/Imlivil.md",
+    "People/Jaerian Pantheon/Gods/Faelindra.md",
+    "People/Jaerian Pantheon/Gods/Erevan.md",
+    "People/Jaerian Pantheon/Gods/Drakaroth.md",
+    "People/Jaerian Pantheon/Gods/Divrin.md",
     "People/Jaerian Pantheon/Gods/Celestia.md",
+    "People/Jaerian Pantheon/Gods/Calliope.md",
+    "People/Jaerian Pantheon/Gods/Calindra.md",
     "People/Jaerian Pantheon/Gods/Caladria.md",
+    "People/Jaerian Pantheon/Gods/Aeloria.md",
     "People/Jaerian Pantheon/Groups of Gods/Nether Enclave.md",
     "Events/Second War of the Gods.md",
     "People/Religions/Rellivvra/The Curséd Folk.md",
@@ -219,14 +226,7 @@
     "People/Jaerian Pantheon/Groups of Gods/Jaerian Pantheon.md",
     "Locations/Locations.md",
     "People/Non Player Characters.md",
-    "People/Religions/Rellivvra/Curse of Rellivvra.md",
-    "5e Reference Data/monsters/Bugbear.md",
-    "People/Jaerian Pantheon/Groups of Gods/Trio of War.md",
     "Locations/Goblina-on-the-Sea",
-    "People/Religions/Imlivil/The Red Wizards.md",
-    "items/Red Wizard's Dagger.md",
-    "items/Magic Items.md",
-    "items/Pungum.md",
     "People/Religions/Rellivvra",
     "Images/Shanar.png",
     "People/Religions/Imlivil",
