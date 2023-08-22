@@ -21,6 +21,7 @@ Lorelei is often depicted as a figure with a book or scroll in hand, symbolizing
 **Relationships:**
 - **Mentorship with Istorian:** Lorelei shares a mentor-mentee relationship with Istorian, the God of Knowledge and Wisdom (Fallen). She guides and nurtures his pursuit of understanding, enhancing his insights.
 - **Friendship with [[Kaladran]]** [[Kaladran]] regularly consults Lorelei for information and understanding.
+- **Collaborator:** [[Erevan]] collaborates with Lorelei, the Goddess of Knowledge and Wisdom, exchanging insights on the mysteries of the universe and the wonders that await discovery.
 
 **Influence after the Second War:**
 Lorelei's influence during the aftermath of the [[Second War of the Gods]] was focused on disseminating knowledge and promoting understanding. She played a crucial role in guiding mortals and gods toward learning from the past and seeking harmonious paths forward.
