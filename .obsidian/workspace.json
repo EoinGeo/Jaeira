@@ -21,7 +21,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "People/Jaerian Pantheon/Gods/Caladria.md",
+                "file": "People/Jaerian Pantheon/Gods/Aeloria.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "People/Jaerian Pantheon/Gods/Caladria.md",
+                "file": "People/Jaerian Pantheon/Gods/Aeloria.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "People/Jaerian Pantheon/Gods/Caladria.md",
+                "file": "People/Jaerian Pantheon/Gods/Aeloria.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "People/Jaerian Pantheon/Gods/Caladria.md"
+                "file": "People/Jaerian Pantheon/Gods/Aeloria.md"
               }
             }
           },
@@ -181,8 +181,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 645.5,
-    "collapsed": true
+    "width": 645.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -200,6 +199,10 @@
   },
   "active": "88540a8b0fd46bdd",
   "lastOpenFiles": [
+    "People/Jaerian Pantheon/Gods/Calindra.md",
+    "People/Jaerian Pantheon/Gods/Calliope.md",
+    "People/Jaerian Pantheon/Gods/Celestia.md",
+    "People/Jaerian Pantheon/Gods/Caladria.md",
     "People/Jaerian Pantheon/Groups of Gods/Nether Enclave.md",
     "Events/Second War of the Gods.md",
     "People/Religions/Rellivvra/The Curséd Folk.md",
@@ -224,11 +227,7 @@
     "items/Red Wizard's Dagger.md",
     "items/Magic Items.md",
     "items/Pungum.md",
-    "People/Jaerian Pantheon/Gods/Divrin.md",
     "People/Religions/Rellivvra",
-    "items/The Sundering.md",
-    "People/Jaerian Pantheon/Gods/Shanar.md",
-    "People/Jaerian Pantheon/Groups of Gods/Luminal Accord.md",
     "Images/Shanar.png",
     "People/Religions/Imlivil",
     "People/Jaerian Pantheon/Gods",
