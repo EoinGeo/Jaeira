@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Locations/Sundown Citadel.md",
+                "file": "Dreamweaver's Trinkets.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -100,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Locations/Sundown Citadel.md",
+                "file": "Dreamweaver's Trinkets.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Locations/Sundown Citadel.md",
+                "file": "Dreamweaver's Trinkets.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -140,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Locations/Sundown Citadel.md"
+                "file": "Dreamweaver's Trinkets.md"
               }
             }
           },
@@ -190,8 +190,20 @@
   },
   "active": "4feee2a8a69c483d",
   "lastOpenFiles": [
+    "Locations/Sundown Citadel/Sundown Citadel.md",
+    "Dreamweaver's Trinkets.md",
+    "Locations/Sundown Citadel/Mystic Emporium Luna's Insight.md",
+    "Locations/Sundown Citadel/Astrological Attire Boutique Stellar Garb.md",
+    "Locations/Sundown Citadel/Artisan's Starlit Studio.md",
+    "People/Thalwyn Starforge.md",
+    "People/Seraphina Astralynn.md",
+    "People/Selene Moonshadow.md",
+    "People/Boblin the Goblin.md",
+    "People/Non Player Characters.md",
+    "Locations/Locations.md",
+    "Locations/Sundown Citadel",
+    "Images/sundown_citadel (2).png",
     "People/Jaerian Pantheon/Gods/Vorenthar.md",
-    "Locations/Sundown Citadel.md",
     "items/Sundown Clock.md",
     "items/Magic Items.md",
     "items/Amulet of Health.md",
@@ -206,18 +218,8 @@
     "items/Bag of Tricks.md",
     "items/Bag of Devouring.md",
     "items/Armor of Resistance.md",
-    "items/Amulet of the Planes.md",
-    "People/Religions/Cults.md",
-    "People/Religions/Calindrana Sages.md",
-    "People/Religions/Children of the Eternal Flame.md",
-    "People/Religions/Seekers of Prophecy.md",
-    "People/Religions/Whisperers of Dreams.md",
-    "People/Religions/Selendra/Cult of the Crimson Rose.md",
     "People/Religions/Aeloria",
     "People/Religions/Selendra",
-    "People/Jaerian Pantheon/Gods/Lyssara.md",
-    "People/Religions/Religions.md",
-    "People/Religions/Vaelinian Advocates.md",
     "Images/boblin the goblin.pdf",
     "Locations/Goblina-on-the-Sea",
     "People/Religions/Rellivvra",
@@ -227,7 +229,6 @@
     "People/Jaerian Pantheon/Groups of Gods",
     "Images",
     "Untitled.canvas",
-    "People/Religions",
     "Untitled 1.canvas"
   ]
 }

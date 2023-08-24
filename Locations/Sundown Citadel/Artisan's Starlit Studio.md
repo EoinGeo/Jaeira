@@ -1,0 +1,4 @@
+#Shop 
+Name - Artisan's Starlit Studio
+Description - A workshop that specializes in crafting unique lanterns, each with an enchantment to repel the [[shadow]] beasts. These lanterns emit a soothing glow that not only provides light but also offers a sense of security to those who carry them.
+Owner - [[Thalwyn Starforge]]: A [[dwarf]] with a penchant for crafting intricate lanterns, Thalwyn is often found with soot on his hands and a twinkle in his eye. His robust laughter fills the workshop as he delicately etches enchanting patterns onto the lantern glass. Despite his gruff exterior, Thalwyn has a heart of gold and takes pride in knowing that his creations bring comfort to the citizens during the dangerous nights.

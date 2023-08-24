@@ -1,0 +1,1 @@
+Seraphina, a graceful [[human]], exudes an air of elegance and mystique. She has a natural affinity for fabrics and patterns, and her boutique is a treasure trove of celestial-themed attire. With her insightful recommendations, she guides customers to choose garments that not only suit their style but also offer the best protection against the [[shadow]] beasts.
