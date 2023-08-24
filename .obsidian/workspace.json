@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "People/Jaerian Pantheon/Gods/Vorenthar.md",
+                "file": "Locations/Sundown Citadel.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -100,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "People/Jaerian Pantheon/Gods/Vorenthar.md",
+                "file": "Locations/Sundown Citadel.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "People/Jaerian Pantheon/Gods/Vorenthar.md",
+                "file": "Locations/Sundown Citadel.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -140,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "People/Jaerian Pantheon/Gods/Vorenthar.md"
+                "file": "Locations/Sundown Citadel.md"
               }
             }
           },
@@ -190,6 +190,7 @@
   },
   "active": "4feee2a8a69c483d",
   "lastOpenFiles": [
+    "People/Jaerian Pantheon/Gods/Vorenthar.md",
     "Locations/Sundown Citadel.md",
     "items/Sundown Clock.md",
     "items/Magic Items.md",
@@ -217,7 +218,6 @@
     "People/Jaerian Pantheon/Gods/Lyssara.md",
     "People/Religions/Religions.md",
     "People/Religions/Vaelinian Advocates.md",
-    "People/Religions/Vaelian Traders.md",
     "Images/boblin the goblin.pdf",
     "Locations/Goblina-on-the-Sea",
     "People/Religions/Rellivvra",
