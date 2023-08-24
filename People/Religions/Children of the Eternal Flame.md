@@ -1,3 +1,4 @@
-   - Devotees of [[Kelthar]], the God of Fire, who believe that fire is a symbol of transformation, purification, and renewal.
+#Cult 
+- Devotees of [[Kelthar]], the God of Fire, who believe that fire is a symbol of transformation, purification, and renewal.
    - Their rituals involve controlled fire dances, fire-walking ceremonies, and using flames to symbolize the burning away of old habits or negative energies.
    - The cult's teachings focus on embracing change and using the transformative power of fire to achieve personal growth.

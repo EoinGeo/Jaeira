@@ -62,6 +62,13 @@
         "a": 1,
         "rgb": 225676
       }
+    },
+    {
+      "query": "tag:#Cult",
+      "color": {
+        "a": 1,
+        "rgb": 14701233
+      }
     }
   ],
   "collapse-display": true,

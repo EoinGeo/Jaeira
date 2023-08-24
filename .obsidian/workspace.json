@@ -97,13 +97,8 @@
             "id": "3b8a60b496827d42",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "People/Religions/Cults.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ],
@@ -187,7 +182,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "People/Religions/Cults.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -204,7 +198,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "People/Religions/Cults.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -226,9 +219,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "People/Religions/Cults.md"
-              }
+              "state": {}
             }
           },
           {
@@ -275,15 +266,15 @@
       "fantasy-content-generator:Fantasy Generators": false
     }
   },
-  "active": "0f891f4967d714dd",
+  "active": "3b8a60b496827d42",
   "lastOpenFiles": [
+    "People/Religions/Children of the Eternal Flame.md",
+    "People/Religions/Cults.md",
     "People/Religions/Seekers of Prophecy.md",
     "People/Religions/Circle of Natural Harmony.md",
     "People/Religions/Aeloria/Society of Balanced Harmony.md",
-    "People/Religions/Cults.md",
     "People/Religions/Whisperers of Dreams.md",
     "People/Religions/Order of Tranquil Waters.md",
-    "People/Religions/Children of the Eternal Flame.md",
     "People/Religions/Selendra/Cult of the Crimson Rose.md",
     "People/Religions/Aeloria",
     "People/Religions/Selendra",
