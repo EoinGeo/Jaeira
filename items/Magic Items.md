@@ -1,10 +1,13 @@
 # Magic Items
 
 Magic Items are items or [[Weapons]] with a boost to a stat or a unique purpose
+
 - [[Pungum]]
 - [[Red Wizard's Dagger]]
 - [[Adamantine Armor]]
 - [[The Sundering]]
+- [[Sundown Clock]]
+
 - [[Amulet of Health]]
 - [[Amulet of Proof against Detection and Location]]
 - [[Amulet of the Planes]]

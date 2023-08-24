@@ -8,101 +8,19 @@
         "type": "tabs",
         "children": [
           {
-            "id": "9bb0bf35c31cd32e",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
-          },
-          {
-            "id": "54266d2c84595e22",
+            "id": "4feee2a8a69c483d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "People/Religions/Order of Tranquil Waters.md",
+                "file": "Locations/Sundown Citadel.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
-            }
-          },
-          {
-            "id": "92b5aa1431b6d8d9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "People/Religions/Order of Tranquil Waters.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1b01093941322d78",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "People/Religions/Order of Tranquil Waters.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "11ca8267d3fee962",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "People/Religions/Order of Tranquil Waters.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a03fdc220a9b71ea",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "People/Religions/Aeloria/Society of Balanced Harmony.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "609529371110942c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "People/Religions/Circle of Natural Harmony.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3b8a60b496827d42",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
             }
           }
-        ],
-        "currentTab": 7
+        ]
       }
     ],
     "direction": "vertical"
@@ -131,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#Religions",
+                "query": "item",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -182,6 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Locations/Sundown Citadel.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -198,6 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Locations/Sundown Citadel.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -219,7 +139,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Locations/Sundown Citadel.md"
+              }
             }
           },
           {
@@ -266,15 +188,29 @@
       "fantasy-content-generator:Fantasy Generators": false
     }
   },
-  "active": "3b8a60b496827d42",
+  "active": "0f891f4967d714dd",
   "lastOpenFiles": [
-    "People/Religions/Children of the Eternal Flame.md",
-    "People/Religions/Cults.md",
-    "People/Religions/Seekers of Prophecy.md",
-    "People/Religions/Circle of Natural Harmony.md",
-    "People/Religions/Aeloria/Society of Balanced Harmony.md",
-    "People/Religions/Whisperers of Dreams.md",
+    "items/Sundown Clock.md",
+    "Locations/Sundown Citadel.md",
+    "items/Magic Items.md",
+    "items/Amulet of Health.md",
+    "5e Reference Data/monsters/Shadow.md",
+    "items/Belt of Dwarvenkind.md",
+    "items/Berserker Axe.md",
+    "items/Animated Shield.md",
     "People/Religions/Order of Tranquil Waters.md",
+    "People/Religions/Aeloria/Society of Balanced Harmony.md",
+    "People/Religions/Circle of Natural Harmony.md",
+    "items/Boots of Elvenkind.md",
+    "items/Bag of Tricks.md",
+    "items/Bag of Devouring.md",
+    "items/Armor of Resistance.md",
+    "items/Amulet of the Planes.md",
+    "People/Religions/Cults.md",
+    "People/Religions/Calindrana Sages.md",
+    "People/Religions/Children of the Eternal Flame.md",
+    "People/Religions/Seekers of Prophecy.md",
+    "People/Religions/Whisperers of Dreams.md",
     "People/Religions/Selendra/Cult of the Crimson Rose.md",
     "People/Religions/Aeloria",
     "People/Religions/Selendra",
@@ -282,20 +218,6 @@
     "People/Religions/Religions.md",
     "People/Religions/Vaelinian Advocates.md",
     "People/Religions/Vaelian Traders.md",
-    "People/Religions/Calindrana Sages.md",
-    "People/Religions/Shadowseekers.md",
-    "People/Religions/Selendra/Selendran Devotion.md",
-    "People/Religions/Aeloria/Aelorian Illumination.md",
-    "People/Religions/Luminaran Healers.md",
-    "People/Religions/Neldranthian Reflection.md",
-    "People/Religions/Rellivvra/The Curséd Folk.md",
-    "People/Religions/Imlivil/The Red Wizards.md",
-    "People/Jaerian Pantheon/Gods/Vorenthar.md",
-    "People/Jaerian Pantheon/Gods/Vaelis.md",
-    "People/Jaerian Pantheon/Gods/Vaelina.md",
-    "People/Jaerian Pantheon/Gods/Shanar.md",
-    "People/Jaerian Pantheon/Gods/Selendra.md",
-    "People/Jaerian Pantheon/Gods/Rellivvra.md",
     "Images/boblin the goblin.pdf",
     "Locations/Goblina-on-the-Sea",
     "People/Religions/Rellivvra",
