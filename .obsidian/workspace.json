@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "1a1bfeb5b6fedb5d",
+        "id": "a1aae6338a4c8b40",
         "type": "tabs",
         "children": [
           {
-            "id": "9f7ca027363e7b83",
+            "id": "d0c7eb4af3e7a26c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sorrel Nightshade.md",
+                "file": "People/Valerius Duskborne.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -72,7 +72,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "People/Jaerian Pantheon/Groups of Gods/Nether Enclave.md",
+                "file": "People/Groups/Jaerian Pantheon/Groups of Gods/Nether Enclave.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -100,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sorrel Nightshade.md",
+                "file": "People/Valerius Duskborne.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sorrel Nightshade.md",
+                "file": "People/Valerius Duskborne.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -140,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sorrel Nightshade.md"
+                "file": "People/Valerius Duskborne.md"
               }
             }
           },
@@ -172,7 +172,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 649.5
+    "width": 649.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -188,46 +189,46 @@
       "fantasy-content-generator:Fantasy Generators": false
     }
   },
-  "active": "9f7ca027363e7b83",
+  "active": "d0c7eb4af3e7a26c",
   "lastOpenFiles": [
-    "Thalon Windrider.md",
+    "People/Pip Willowbrook.md",
+    "People/Isabella Nightshade.md",
+    "People/Elysia Swiftwind.md",
+    "People/Eleanor Duskborne.md",
+    "People/Brynden Ironclad.md",
+    "People/Aurora Stardust.md",
+    "People/Aeryn Stormshield.md",
+    "People/Boblin the Goblin.md",
+    "People/Groups/Religions/Rellivvra/The Curséd Folk.md",
+    "items/Pungum.md",
+    "Locations/Sundown Citadel.md",
+    "People/Groups/Guardian Knights of the Sundown Citadel.md",
+    "People/Groups/Council of Elders of the Sundown Citadel.md",
+    "People/Groups/Jaerian Pantheon/Gods/Vorenthar.md",
+    "People/Non Player Characters.md",
+    "People/Groups/Jaerian Pantheon/Groups of Gods/Trio of War.md",
+    "People/Sorrel Nightshade.md",
+    "People/Thalon Windrider.md",
     "People/Valerius Duskborne.md",
     "People/Rohan Stonehammer.md",
     "People/Kieran Oakheart.md",
-    "People/Elysia Swiftwind.md",
     "People/Elara Moonshadow.md",
     "[[Elf.md",
-    "People/Brynden Ironclad.md",
-    "People/Aeryn Stormshield.md",
-    "People/Groups/Guardian Knights of the Sundown Citadel.md",
-    "Sorrel Nightshade.md",
-    "People/Groups/Council of Elders of the Sundown Citadel.md",
-    "Locations/Sundown Citadel.md",
     "People/Groups/Duskborne.md",
-    "People/Eleanor Duskborne.md",
     "People/Lady Seraphina Duskborne.md",
-    "People/Isabella Nightshade.md",
     "People/Groups",
     "Locations/Sundown Citadel/Murky Lane.md",
-    "Locations/Sundown Citadel/West Town.md",
-    "Locations/Sundown Citadel/Sunrise Ward.md",
-    "Locations/Sundown Citadel/The Lost Way.md",
-    "Locations/Sundown Citadel/Wintergate.md",
-    "Locations/Sundown Citadel/South Gate.md",
-    "Locations/Sundown Citadel/North Way.md",
-    "Locations/Sundown Citadel/Celestial Confections.md",
-    "People/Aurora Stardust.md",
     "Locations/Sundown Citadel",
     "Images/sundown_citadel (2).png",
-    "People/Religions/Aeloria",
-    "People/Religions/Selendra",
+    "People/Groups/Religions/Aeloria",
+    "People/Groups/Religions/Selendra",
     "Images/boblin the goblin.pdf",
     "Locations/Goblina-on-the-Sea",
-    "People/Religions/Rellivvra",
+    "People/Groups/Religions/Rellivvra",
     "Images/Shanar.png",
-    "People/Religions/Imlivil",
-    "People/Jaerian Pantheon/Gods",
-    "People/Jaerian Pantheon/Groups of Gods",
+    "People/Groups/Religions/Imlivil",
+    "People/Groups/Jaerian Pantheon/Gods",
+    "People/Groups/Jaerian Pantheon/Groups of Gods",
     "Untitled.canvas",
     "Untitled 1.canvas"
   ]

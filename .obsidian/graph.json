@@ -43,13 +43,6 @@
       }
     },
     {
-      "query": "path:People/Jaerian Pantheon",
-      "color": {
-        "a": 1,
-        "rgb": 5395168
-      }
-    },
-    {
       "query": "path:Locations",
       "color": {
         "a": 1,
@@ -69,6 +62,27 @@
         "a": 1,
         "rgb": 14701233
       }
+    },
+    {
+      "query": "path:\"People/Groups/Jaerian Pantheon\"",
+      "color": {
+        "a": 1,
+        "rgb": 1064344
+      }
+    },
+    {
+      "query": "tag:#Gods",
+      "color": {
+        "a": 1,
+        "rgb": 329830
+      }
+    },
+    {
+      "query": "path:People",
+      "color": {
+        "a": 1,
+        "rgb": 11014292
+      }
     }
   ],
   "collapse-display": true,
@@ -81,6 +95,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.2726859917360073,
+  "scale": 0.19450022690616006,
   "close": false
 }
