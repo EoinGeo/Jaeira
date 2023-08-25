@@ -13,14 +13,28 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Locations/Sundown Citadel.md",
+                "file": "People/Groups/Guardian Knights of the Sundown Citadel.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a86da97890f78372",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "People/Groups/Council of Elders of the Sundown Citadel.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -100,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Locations/Sundown Citadel.md",
+                "file": "People/Groups/Council of Elders of the Sundown Citadel.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Locations/Sundown Citadel.md",
+                "file": "People/Groups/Council of Elders of the Sundown Citadel.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -140,7 +154,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Locations/Sundown Citadel.md"
+                "file": "People/Groups/Council of Elders of the Sundown Citadel.md"
               }
             }
           },
@@ -188,10 +202,18 @@
       "fantasy-content-generator:Fantasy Generators": false
     }
   },
-  "active": "4feee2a8a69c483d",
+  "active": "a86da97890f78372",
   "lastOpenFiles": [
-    "Locations/Sundown Citadel/Murky Lane.md",
+    "People/Groups/Guardian Knights of the Sundown Citadel.md",
     "Locations/Sundown Citadel.md",
+    "People/Valerius Duskborne.md",
+    "People/Groups/Duskborne.md",
+    "People/Eleanor Duskborne.md",
+    "People/Lady Seraphina Duskborne.md",
+    "People/Groups/Council of Elders of the Sundown Citadel.md",
+    "People/Isabella Nightshade.md",
+    "People/Groups",
+    "Locations/Sundown Citadel/Murky Lane.md",
     "Locations/Sundown Citadel/West Town.md",
     "Locations/Sundown Citadel/Sunrise Ward.md",
     "Locations/Sundown Citadel/The Lost Way.md",
@@ -209,15 +231,8 @@
     "Locations/Sundown Citadel/Artisan's Starlit Studio.md",
     "People/Thalwyn Starforge.md",
     "People/Seraphina Astralynn.md",
-    "People/Selene Moonshadow.md",
-    "People/Boblin the Goblin.md",
-    "People/Non Player Characters.md",
-    "Locations/Locations.md",
     "Locations/Sundown Citadel",
     "Images/sundown_citadel (2).png",
-    "People/Jaerian Pantheon/Gods/Vorenthar.md",
-    "items/Sundown Clock.md",
-    "items/Magic Items.md",
     "People/Religions/Aeloria",
     "People/Religions/Selendra",
     "Images/boblin the goblin.pdf",
@@ -227,7 +242,6 @@
     "People/Religions/Imlivil",
     "People/Jaerian Pantheon/Gods",
     "People/Jaerian Pantheon/Groups of Gods",
-    "Images",
     "Untitled.canvas",
     "Untitled 1.canvas"
   ]

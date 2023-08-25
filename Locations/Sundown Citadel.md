@@ -7,6 +7,24 @@ The Sundown Citadel is a city imitating that of renaissance Italy, headed by one
 The clocks around the city, chime an hour before sundown to warn the cities inhabitants to make sure they are within the walls.
 
 ![[sundown_citadel (2).png]]
+## Figures/Groups of the City
+
+The main castle of the Sundown Citadel serves as the heart of both political power and the city's defenses. It is the residence of the ruling authority and plays a crucial role in the protection of the city against the [[shadow]] beasts. Here's who might live in the main castle:
+
+**Lord Protector [[Valerius Duskborne]]:**
+Valerius [[Duskborne]] is the leader of the Sundown Citadel, holding the title of Lord Protector. He is known for his wisdom, strength, and unwavering commitment to the safety of the city. Valerius is a charismatic figure who inspires the city's residents to stand united against the challenges brought by [[Vorenthar]]'s Curse. He resides in the main castle, overseeing the city's governance, defense strategies, and the overall well-being of its inhabitants.
+
+**Lady [[Isabella Nightshade]]:**
+Lady [[Isabella Nightshade]] is a powerful sorceress who serves as [[Valerius Duskborne]]'s advisor and second-in-command. With her mastery of arcane magic, she aids in warding off the [[shadow]] beasts and protecting the city. Lady Isabella is respected for her strategic insights and her ability to weave protective spells that strengthen the city's defenses. She resides in the main castle and often collaborates with Valerius to make crucial decisions.
+
+**[[Council of Elders of the Sundown Citadel]]:**
+The Council of Elders consists of esteemed individuals from various [[races]] and professions within the Sundown Citadel. They are responsible for advising the Lord Protector and Lady Isabella on matters of governance, diplomacy, and strategy. The council members represent the diverse interests of the city's residents and play a vital role in maintaining unity during times of adversity. Some of the council members might also have chambers within the main castle.
+
+**[[Guardian Knights of the Sundown Citadel]]:**
+The main castle is also home to the Guardian Knights, a dedicated group of skilled warriors chosen for their bravery and loyalty. These knights form the elite guard that protects the Lord Protector, Lady [[Isabella Nightshade]], and the castle itself. They are trained in combating the [[shadow]] beasts and are equipped with [[weapons]] specially crafted to repel their attacks. The Guardian Knights have quarters within the castle and maintain a constant vigilance against potential threats.
+
+
+
 ## Gates/Districts
 
 
