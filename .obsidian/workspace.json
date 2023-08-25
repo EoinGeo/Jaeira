@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Quests/A halfling needs help retreiving clothing inside an amulet..md",
+                "file": "Locations/Sundown Citadel/Sapphire Alehouse.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -100,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Quests/A halfling needs help retreiving clothing inside an amulet..md",
+                "file": "Locations/Sundown Citadel/Sapphire Alehouse.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Quests/A halfling needs help retreiving clothing inside an amulet..md",
+                "file": "Locations/Sundown Citadel/Sapphire Alehouse.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -140,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Quests/A halfling needs help retreiving clothing inside an amulet..md"
+                "file": "Locations/Sundown Citadel/Sapphire Alehouse.md"
               }
             }
           },
@@ -190,6 +190,11 @@
   },
   "active": "8ce4b1ad23a5bef2",
   "lastOpenFiles": [
+    "Quests/A pack of familiars wants you to look into a temple..md",
+    "Quests/A kenku wants you to participate in a chariot race..md",
+    "Locations/Sundown Citadel/Artisan's Starlit Studio.md",
+    "Locations/Sundown Citadel/Dreamweaver's Trinkets.md",
+    "Quests/A halfling needs help retreiving clothing inside an amulet..md",
     "Quests/A goliath wants you to capture a construct..md",
     "Quests/Resources/Construct.md",
     "5e Reference Data/monsters/Golems.md",
@@ -210,13 +215,8 @@
     "People/Mirielle Nightshade.md",
     "5e Reference Data/monsters/Shadow.md",
     "Locations/Sundown Citadel/Shadow's Respite Inn.md",
-    "Quests/A kenku wants you to participate in a chariot race..md",
     "Quests/A vedalken needs help relocating a cursed relic to escape a scorned lover..md",
     "Quests/A young man needs you to build a mansion.md",
-    "Quests/A halfling needs help retreiving clothing inside an amulet..md",
-    "Quests/A young adult wants you to participate in a magic show..md",
-    "Quests/An old man needs help traveling to a haunted cabin without any violence..md",
-    "Locations/Sundown Citadel.md",
     "Quests",
     "People/Groups",
     "Locations/Sundown Citadel",

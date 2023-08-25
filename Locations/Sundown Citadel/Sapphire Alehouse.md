@@ -2,7 +2,7 @@
 This tavern located in [[West Town]] of [[Sundown Citadel]]
 
 Owner: [[Garret Ironsides]]
-Description: The Sapphire Alehouse is a bustling tavern with a rustic charm, wooden beams, and a large hearth that keeps the place warm during the cooler evenings. Garret Ironsides, a burly and good-natured dwarf, is both the owner and the brewmaster. The tavern is known for its hearty ales and comfort food, making it a favorite among locals looking for a hearty meal and a welcoming atmosphere.
+Description: The Sapphire Alehouse is a bustling tavern with a rustic charm, wooden beams, and a large hearth that keeps the place warm during the cooler evenings. Garret Ironsides, a burly and good-natured [[dwarf]], is both the owner and the brewmaster. The tavern is known for its hearty ales and comfort food, making it a favorite among locals looking for a hearty meal and a welcoming atmosphere.
 ## Menu
 |   |   |   |   |
 |---|---|---|---|
