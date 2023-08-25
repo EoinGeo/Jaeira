@@ -25,13 +25,13 @@ An *identify* spell reveals that a creature is inside the flask, but the only wa
 | 74‒75 | Djinni            |
 | 76‒77 | Efreeti           |
 | 78‒83 | Elemental (any)   |
-| 84‒86 | Invisible stalker |
+| 84‒86 | [[Invisible stalker]] |
 | 87‒90 | Night hag         |
 | 91    | Planetar          |
-| 92‒95 | Salamander        |
+| 92‒95 | [[Salamander]]        |
 | 96    | Solar             |
 | 97‒99 | Succubus/incubus  |
-| 100   | Xorn              |
+| 100   | [[Xorn]]              |
 |       |                   |
 
 

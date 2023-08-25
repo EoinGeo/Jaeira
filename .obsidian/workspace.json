@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "a1aae6338a4c8b40",
+        "id": "e04b8a6f25b30738",
         "type": "tabs",
         "children": [
           {
-            "id": "b1f25e37d4fdd514",
+            "id": "8ce4b1ad23a5bef2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Quests/A business person needs help traveling through a carnival with a pet..md",
+                "file": "Quests/A halfling needs help retreiving clothing inside an amulet..md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -100,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Quests/A business person needs help traveling through a carnival with a pet..md",
+                "file": "Quests/A halfling needs help retreiving clothing inside an amulet..md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Quests/A business person needs help traveling through a carnival with a pet..md",
+                "file": "Quests/A halfling needs help retreiving clothing inside an amulet..md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -140,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Quests/A business person needs help traveling through a carnival with a pet..md"
+                "file": "Quests/A halfling needs help retreiving clothing inside an amulet..md"
               }
             }
           },
@@ -188,35 +188,36 @@
       "fantasy-content-generator:Fantasy Generators": false
     }
   },
-  "active": "b1f25e37d4fdd514",
+  "active": "8ce4b1ad23a5bef2",
   "lastOpenFiles": [
+    "Quests/A goliath wants you to capture a construct..md",
+    "Quests/Resources/Construct.md",
+    "5e Reference Data/monsters/Golems.md",
+    "Locations/Sundown Citadel/Alaric's repository.md",
+    "items/Spellguard Shield.md",
+    "items/Magic Items.md",
+    "items/Ring of Greater Regeneration.md",
+    "items/Ring of Regeneration.md",
+    "items/Ring of Spell Storing.md",
+    "items/Ring of Telekinesis.md",
+    "items/Iron Flask.md",
+    "items/Manual of Golems.md",
+    "Quests/Resources",
+    "Locations/Sundown Citadel/Dawn's Embrace Tavern.md",
+    "Quests/A business person needs help traveling through a carnival with a pet..md",
     "Locations/Sundown Citadel/Sapphire Alehouse.md",
     "People/Isabella Nightshade.md",
     "People/Mirielle Nightshade.md",
     "5e Reference Data/monsters/Shadow.md",
     "Locations/Sundown Citadel/Shadow's Respite Inn.md",
-    "Locations/Sundown Citadel/Dawn's Embrace Tavern.md",
-    "Quests/A business person needs help traveling through a carnival with a pet..md",
     "Quests/A kenku wants you to participate in a chariot race..md",
     "Quests/A vedalken needs help relocating a cursed relic to escape a scorned lover..md",
     "Quests/A young man needs you to build a mansion.md",
     "Quests/A halfling needs help retreiving clothing inside an amulet..md",
     "Quests/A young adult wants you to participate in a magic show..md",
     "Quests/An old man needs help traveling to a haunted cabin without any violence..md",
-    "Quests/A goliath wants you to capture a construct..md",
     "Locations/Sundown Citadel.md",
     "Quests",
-    "Quests/A pack of familiars wants you to look into a temple..md",
-    "Locations/Sundown Citadel/Celestial Confections.md",
-    "Locations/Sundown Citadel/Artisan's Starlit Studio.md",
-    "Locations/Sundown Citadel/Astrological Attire Boutique Stellar Garb.md",
-    "Locations/Sundown Citadel/Dreamweaver's Trinkets.md",
-    "Locations/Sundown Citadel/Enchanted Book Nook Aether Tome Corner.md",
-    "5e Reference Data/Trade Goods.md",
-    "People/Valerius Duskborne.md",
-    "People/Pip Willowbrook.md",
-    "People/Elysia Swiftwind.md",
-    "People/Eleanor Duskborne.md",
     "People/Groups",
     "Locations/Sundown Citadel",
     "Images/sundown_citadel (2).png",
@@ -227,7 +228,6 @@
     "People/Groups/Religions/Rellivvra",
     "Images/Shanar.png",
     "People/Groups/Religions/Imlivil",
-    "People/Groups/Jaerian Pantheon/Gods",
     "Untitled.canvas",
     "Untitled 1.canvas"
   ]

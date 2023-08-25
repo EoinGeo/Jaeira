@@ -1,1 +1,0 @@
-A #Quest from [[Dawn's Embrace Tavern]] in [[Sundown Citadel]], A business person needs help traveling through a carnival with a pet.

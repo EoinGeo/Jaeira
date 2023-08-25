@@ -21,5 +21,4 @@ Description: Dawn's Embrace Tavern is a cozy establishment with warm wooden inte
 
 Demolition	[[A young man needs you to build a mansion]].			
 Gathering	[[A vedalken needs help relocating a cursed relic to escape a scorned lover.]]			
-Community Service	[[A kenku wants you to participate in a chariot race.]]			
-Transport	[[A business person needs help traveling through a carnival with a pet.]]			
+Community Service	[[A kenku wants you to participate in a chariot race.]]						

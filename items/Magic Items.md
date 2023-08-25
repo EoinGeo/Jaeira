@@ -7,6 +7,7 @@ Magic Items are items or [[Weapons]] with a boost to a stat or a unique purpose
 - [[Adamantine Armor]]
 - [[The Sundering]]
 - [[Sundown Clock]]
+- [[Ring of Greater Regeneration]]
 
 - [[Amulet of Health]]
 - [[Amulet of Proof against Detection and Location]]
