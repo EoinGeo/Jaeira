@@ -4,37 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "9232a35b0680568b",
+        "id": "1a1bfeb5b6fedb5d",
         "type": "tabs",
         "children": [
           {
-            "id": "4feee2a8a69c483d",
+            "id": "9f7ca027363e7b83",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "People/Groups/Guardian Knights of the Sundown Citadel.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a86da97890f78372",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "People/Groups/Council of Elders of the Sundown Citadel.md",
+                "file": "Sorrel Nightshade.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -114,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "People/Groups/Council of Elders of the Sundown Citadel.md",
+                "file": "Sorrel Nightshade.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "People/Groups/Council of Elders of the Sundown Citadel.md",
+                "file": "Sorrel Nightshade.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -154,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "People/Groups/Council of Elders of the Sundown Citadel.md"
+                "file": "Sorrel Nightshade.md"
               }
             }
           },
@@ -202,15 +188,24 @@
       "fantasy-content-generator:Fantasy Generators": false
     }
   },
-  "active": "a86da97890f78372",
+  "active": "9f7ca027363e7b83",
   "lastOpenFiles": [
-    "People/Groups/Guardian Knights of the Sundown Citadel.md",
-    "Locations/Sundown Citadel.md",
+    "Thalon Windrider.md",
     "People/Valerius Duskborne.md",
+    "People/Rohan Stonehammer.md",
+    "People/Kieran Oakheart.md",
+    "People/Elysia Swiftwind.md",
+    "People/Elara Moonshadow.md",
+    "[[Elf.md",
+    "People/Brynden Ironclad.md",
+    "People/Aeryn Stormshield.md",
+    "People/Groups/Guardian Knights of the Sundown Citadel.md",
+    "Sorrel Nightshade.md",
+    "People/Groups/Council of Elders of the Sundown Citadel.md",
+    "Locations/Sundown Citadel.md",
     "People/Groups/Duskborne.md",
     "People/Eleanor Duskborne.md",
     "People/Lady Seraphina Duskborne.md",
-    "People/Groups/Council of Elders of the Sundown Citadel.md",
     "People/Isabella Nightshade.md",
     "People/Groups",
     "Locations/Sundown Citadel/Murky Lane.md",
@@ -222,15 +217,6 @@
     "Locations/Sundown Citadel/North Way.md",
     "Locations/Sundown Citadel/Celestial Confections.md",
     "People/Aurora Stardust.md",
-    "People/Isolde Nightbloom.md",
-    "Locations/Sundown Citadel/Enchanted Book Nook Aether Tome Corner.md",
-    "Locations/Sundown Citadel/Dreamweaver's Trinkets.md",
-    "People/Pip Willowbrook.md",
-    "Locations/Sundown Citadel/Mystic Emporium Luna's Insight.md",
-    "Locations/Sundown Citadel/Astrological Attire Boutique Stellar Garb.md",
-    "Locations/Sundown Citadel/Artisan's Starlit Studio.md",
-    "People/Thalwyn Starforge.md",
-    "People/Seraphina Astralynn.md",
     "Locations/Sundown Citadel",
     "Images/sundown_citadel (2).png",
     "People/Religions/Aeloria",
