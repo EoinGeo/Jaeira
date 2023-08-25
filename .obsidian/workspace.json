@@ -11,13 +11,8 @@
             "id": "4feee2a8a69c483d",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Locations/Sundown Citadel.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -100,7 +95,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Locations/Sundown Citadel.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +111,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Locations/Sundown Citadel.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -139,9 +132,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Locations/Sundown Citadel.md"
-              }
+              "state": {}
             }
           },
           {
@@ -190,9 +181,16 @@
   },
   "active": "4feee2a8a69c483d",
   "lastOpenFiles": [
+    "Locations/Sundown Citadel/Murky Lane.md",
+    "Locations/Sundown Citadel.md",
+    "Locations/Sundown Citadel/West Town.md",
+    "Locations/Sundown Citadel/Sunrise Ward.md",
+    "Locations/Sundown Citadel/The Lost Way.md",
+    "Locations/Sundown Citadel/Wintergate.md",
+    "Locations/Sundown Citadel/South Gate.md",
+    "Locations/Sundown Citadel/North Way.md",
     "Locations/Sundown Citadel/Celestial Confections.md",
     "People/Aurora Stardust.md",
-    "Locations/Sundown Citadel.md",
     "People/Isolde Nightbloom.md",
     "Locations/Sundown Citadel/Enchanted Book Nook Aether Tome Corner.md",
     "Locations/Sundown Citadel/Dreamweaver's Trinkets.md",
@@ -211,13 +209,6 @@
     "People/Jaerian Pantheon/Gods/Vorenthar.md",
     "items/Sundown Clock.md",
     "items/Magic Items.md",
-    "items/Amulet of Health.md",
-    "5e Reference Data/monsters/Shadow.md",
-    "items/Belt of Dwarvenkind.md",
-    "items/Berserker Axe.md",
-    "items/Animated Shield.md",
-    "People/Religions/Order of Tranquil Waters.md",
-    "People/Religions/Aeloria/Society of Balanced Harmony.md",
     "People/Religions/Aeloria",
     "People/Religions/Selendra",
     "Images/boblin the goblin.pdf",
