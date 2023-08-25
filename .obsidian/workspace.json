@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "People/Isabella Nightshade.md",
+                "file": "Quests/A business person needs help traveling through a carnival with a pet..md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -100,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "People/Isabella Nightshade.md",
+                "file": "Quests/A business person needs help traveling through a carnival with a pet..md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "People/Isabella Nightshade.md",
+                "file": "Quests/A business person needs help traveling through a carnival with a pet..md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -140,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "People/Isabella Nightshade.md"
+                "file": "Quests/A business person needs help traveling through a carnival with a pet..md"
               }
             }
           },
@@ -190,7 +190,9 @@
   },
   "active": "b1f25e37d4fdd514",
   "lastOpenFiles": [
-    "Mirielle Nightshade.md",
+    "Locations/Sundown Citadel/Sapphire Alehouse.md",
+    "People/Isabella Nightshade.md",
+    "People/Mirielle Nightshade.md",
     "5e Reference Data/monsters/Shadow.md",
     "Locations/Sundown Citadel/Shadow's Respite Inn.md",
     "Locations/Sundown Citadel/Dawn's Embrace Tavern.md",
@@ -204,7 +206,6 @@
     "Quests/A goliath wants you to capture a construct..md",
     "Locations/Sundown Citadel.md",
     "Quests",
-    "Locations/Sundown Citadel/Sapphire Alehouse.md",
     "Quests/A pack of familiars wants you to look into a temple..md",
     "Locations/Sundown Citadel/Celestial Confections.md",
     "Locations/Sundown Citadel/Artisan's Starlit Studio.md",
@@ -214,7 +215,6 @@
     "5e Reference Data/Trade Goods.md",
     "People/Valerius Duskborne.md",
     "People/Pip Willowbrook.md",
-    "People/Isabella Nightshade.md",
     "People/Elysia Swiftwind.md",
     "People/Eleanor Duskborne.md",
     "People/Groups",
