@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Dawn's Embrace Tavern.md",
+                "file": "People/Isabella Nightshade.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -100,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Dawn's Embrace Tavern.md",
+                "file": "People/Isabella Nightshade.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Dawn's Embrace Tavern.md",
+                "file": "People/Isabella Nightshade.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -140,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Dawn's Embrace Tavern.md"
+                "file": "People/Isabella Nightshade.md"
               }
             }
           },
@@ -172,8 +172,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 649.5,
-    "collapsed": true
+    "width": 649.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -191,12 +190,21 @@
   },
   "active": "b1f25e37d4fdd514",
   "lastOpenFiles": [
-    "Locations/Sundown Citadel.md",
-    "Dawn's Embrace Tavern.md",
-    "Quests",
-    "Shadow's Respite Inn.md",
-    "Locations/Sundown Citadel/Sapphire Alehouse.md",
+    "Mirielle Nightshade.md",
+    "5e Reference Data/monsters/Shadow.md",
+    "Locations/Sundown Citadel/Shadow's Respite Inn.md",
+    "Locations/Sundown Citadel/Dawn's Embrace Tavern.md",
+    "Quests/A business person needs help traveling through a carnival with a pet..md",
+    "Quests/A kenku wants you to participate in a chariot race..md",
+    "Quests/A vedalken needs help relocating a cursed relic to escape a scorned lover..md",
+    "Quests/A young man needs you to build a mansion.md",
+    "Quests/A halfling needs help retreiving clothing inside an amulet..md",
+    "Quests/A young adult wants you to participate in a magic show..md",
+    "Quests/An old man needs help traveling to a haunted cabin without any violence..md",
     "Quests/A goliath wants you to capture a construct..md",
+    "Locations/Sundown Citadel.md",
+    "Quests",
+    "Locations/Sundown Citadel/Sapphire Alehouse.md",
     "Quests/A pack of familiars wants you to look into a temple..md",
     "Locations/Sundown Citadel/Celestial Confections.md",
     "Locations/Sundown Citadel/Artisan's Starlit Studio.md",
@@ -209,15 +217,6 @@
     "People/Isabella Nightshade.md",
     "People/Elysia Swiftwind.md",
     "People/Eleanor Duskborne.md",
-    "People/Brynden Ironclad.md",
-    "People/Aurora Stardust.md",
-    "People/Aeryn Stormshield.md",
-    "People/Boblin the Goblin.md",
-    "People/Groups/Religions/Rellivvra/The Curséd Folk.md",
-    "items/Pungum.md",
-    "People/Groups/Guardian Knights of the Sundown Citadel.md",
-    "People/Groups/Council of Elders of the Sundown Citadel.md",
-    "People/Groups/Jaerian Pantheon/Gods/Vorenthar.md",
     "People/Groups",
     "Locations/Sundown Citadel",
     "Images/sundown_citadel (2).png",
