@@ -7,7 +7,8 @@ The Sundown Citadel is a city imitating that of renaissance Italy, headed by one
 The clocks around the city, chime an hour before sundown to warn the cities inhabitants to make sure they are within the walls.
 
 ![[sundown_citadel (2).png]]
-## Gates
+## Gates/Districts
+
 
 
 ## Shops/Trades
@@ -33,7 +34,7 @@ Name - Dreamweaver's Trinkets
 Description - This cozy store offers dreamcatchers, enchanted sleep masks, and other items designed to ward off nightmares caused by the shadow beasts. The owner, a friendly Halfling, is known for their soothing bedtime stories.
 Owner - Pip Willowbrook: Pip, a cheerful and talkative Halfling, welcomes visitors with open arms and warm tea. They have a heartwarming smile and a calming presence that makes even the most anxious customers feel at ease. Pip's stories are known to soothe even the most restless minds, making their trinkets sought after by those who want peaceful dreams amid the city's challenges.
 
-[[Enchanted Book Nook "Aether Tome Corner"]]
+[[Enchanted Book Nook Aether Tome Corner]]
 Name - Enchanted Book Nook "Aether Tome Corner"
 Description - A bookstore specializing in spellbooks, magical scrolls, and tomes about defensive magic. It's a go-to spot for scholars, wizards, and adventurers seeking to learn about protection against the curse.
 Owner - Isolde Nightbloom: Isolde, an eccentric gnome, has wild hair that seems to have a life of its own. Always inquisitive, she can often be found engrossed in ancient tomes. Her passion for magic and knowledge is contagious, and she delights in helping customers navigate through the bewildering world of protective spells and enchantments.

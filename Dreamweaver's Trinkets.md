@@ -1,3 +1,0 @@
-Name - Dreamweaver's Trinkets
-Description - This cozy store offers dreamcatchers, enchanted sleep masks, and other items designed to ward off nightmares caused by the shadow beasts. The owner, a friendly Halfling, is known for their soothing bedtime stories.
-Owner - [[Pip Willowbrook]]: Pip, a cheerful and talkative Halfling, welcomes visitors with open arms and warm tea. They have a heartwarming smile and a calming presence that makes even the most anxious customers feel at ease. Pip's stories are known to soothe even the most restless minds, making their trinkets sought after by those who want peaceful dreams amid the city's challenges.

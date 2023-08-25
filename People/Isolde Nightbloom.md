@@ -1,0 +1,1 @@
+Isolde, an eccentric gnome, has wild hair that seems to have a life of its own. Always inquisitive, she can often be found engrossed in ancient tomes. Her passion for magic and knowledge is contagious, and she delights in helping customers navigate through the bewildering world of protective spells and enchantments.
