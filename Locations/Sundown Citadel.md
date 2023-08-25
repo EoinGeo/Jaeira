@@ -88,3 +88,23 @@ Owner - [[Isolde Nightbloom]]: Isolde, an eccentric [[gnome]], has wild hair tha
 Name - [[Celestial Confections]]
 Description - A bakery that creates treats infused with protective magic. Moonlit macarons, starry cakes, and constellation cookies are among the popular offerings, believed to grant temporary resistance to the [[shadow]] beasts.
 Owner - [[Aurora Stardust]]: Aurora, a [[half-elf]] with a bright disposition, is known for her contagious laughter and skill in creating magical pastries. She infuses her treats with love and care, often working late into the night to perfect her recipes. Her bakery has become a place of solace for the city's residents, where they can find comfort in both the sugary delights and Aurora's friendly conversation.
+
+## Taverns
+
+Certainly! Here are three taverns and their owners in the city, sorted by district:
+
+**Sunrise Ward:**
+
+1. **[[Dawn's Embrace Tavern]]**
+   - Owner: Kaelin Emberheart
+   - Description: Dawn's Embrace Tavern is a cozy establishment with warm wooden interiors and windows that allow sunlight to stream in during the day. Kaelin Emberheart, a jovial and skilled barkeep, welcomes patrons with a hearty laugh and a wide variety of delicious food and drinks. The tavern is known for its sunrise-themed cocktails and its open-air terrace, where visitors can enjoy the daylight while it lasts.
+
+**West Town:**
+
+2. **[[Shadow's Respite Inn]]**
+   - Owner: [[Mirielle Nightshade]]
+   - Description: Shadow's Respite Inn has an air of mystery about it, with dimly lit corners and curtains that flutter in the breeze. Mirielle Nightshade, a quiet and observant owner, provides a safe haven for travelers and locals alike. The tavern's shadow-themed décor, flickering lanterns, and live music played on haunting instruments create an ambiance that embraces the city's challenges while offering a place of solace.
+
+3. **[[Sapphire Alehouse]]**
+   - Owner: [[Garret Ironsides]]
+   - Description: The Sapphire Alehouse is a bustling tavern with a rustic charm, wooden beams, and a large hearth that keeps the place warm during the cooler evenings. Garret Ironsides, a burly and good-natured dwarf, is both the owner and the brewmaster. The tavern is known for its hearty ales and comfort food, making it a favorite among locals looking for a hearty meal and a welcoming atmosphere.

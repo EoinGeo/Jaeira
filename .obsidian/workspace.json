@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "d0c7eb4af3e7a26c",
+            "id": "b1f25e37d4fdd514",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "People/Valerius Duskborne.md",
+                "file": "Dawn's Embrace Tavern.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -83,7 +83,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 439.5
+    "width": 437.5
   },
   "right": {
     "id": "ffcbdc4bc555849e",
@@ -100,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "People/Valerius Duskborne.md",
+                "file": "Dawn's Embrace Tavern.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "People/Valerius Duskborne.md",
+                "file": "Dawn's Embrace Tavern.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -140,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "People/Valerius Duskborne.md"
+                "file": "Dawn's Embrace Tavern.md"
               }
             }
           },
@@ -189,8 +189,22 @@
       "fantasy-content-generator:Fantasy Generators": false
     }
   },
-  "active": "d0c7eb4af3e7a26c",
+  "active": "b1f25e37d4fdd514",
   "lastOpenFiles": [
+    "Locations/Sundown Citadel.md",
+    "Dawn's Embrace Tavern.md",
+    "Quests",
+    "Shadow's Respite Inn.md",
+    "Locations/Sundown Citadel/Sapphire Alehouse.md",
+    "Quests/A goliath wants you to capture a construct..md",
+    "Quests/A pack of familiars wants you to look into a temple..md",
+    "Locations/Sundown Citadel/Celestial Confections.md",
+    "Locations/Sundown Citadel/Artisan's Starlit Studio.md",
+    "Locations/Sundown Citadel/Astrological Attire Boutique Stellar Garb.md",
+    "Locations/Sundown Citadel/Dreamweaver's Trinkets.md",
+    "Locations/Sundown Citadel/Enchanted Book Nook Aether Tome Corner.md",
+    "5e Reference Data/Trade Goods.md",
+    "People/Valerius Duskborne.md",
     "People/Pip Willowbrook.md",
     "People/Isabella Nightshade.md",
     "People/Elysia Swiftwind.md",
@@ -201,23 +215,10 @@
     "People/Boblin the Goblin.md",
     "People/Groups/Religions/Rellivvra/The Curséd Folk.md",
     "items/Pungum.md",
-    "Locations/Sundown Citadel.md",
     "People/Groups/Guardian Knights of the Sundown Citadel.md",
     "People/Groups/Council of Elders of the Sundown Citadel.md",
     "People/Groups/Jaerian Pantheon/Gods/Vorenthar.md",
-    "People/Non Player Characters.md",
-    "People/Groups/Jaerian Pantheon/Groups of Gods/Trio of War.md",
-    "People/Sorrel Nightshade.md",
-    "People/Thalon Windrider.md",
-    "People/Valerius Duskborne.md",
-    "People/Rohan Stonehammer.md",
-    "People/Kieran Oakheart.md",
-    "People/Elara Moonshadow.md",
-    "[[Elf.md",
-    "People/Groups/Duskborne.md",
-    "People/Lady Seraphina Duskborne.md",
     "People/Groups",
-    "Locations/Sundown Citadel/Murky Lane.md",
     "Locations/Sundown Citadel",
     "Images/sundown_citadel (2).png",
     "People/Groups/Religions/Aeloria",
@@ -228,7 +229,6 @@
     "Images/Shanar.png",
     "People/Groups/Religions/Imlivil",
     "People/Groups/Jaerian Pantheon/Gods",
-    "People/Groups/Jaerian Pantheon/Groups of Gods",
     "Untitled.canvas",
     "Untitled 1.canvas"
   ]
