@@ -119,7 +119,7 @@
               "state": {
                 "file": "Locations/Sundown Citadel/Sapphire Alehouse.md",
                 "linksCollapsed": false,
-                "unlinkedCollapsed": false
+                "unlinkedCollapsed": true
               }
             }
           },
@@ -188,7 +188,7 @@
       "fantasy-content-generator:Fantasy Generators": false
     }
   },
-  "active": "8ce4b1ad23a5bef2",
+  "active": "3f7ab5b73c519dd1",
   "lastOpenFiles": [
     "Quests/A pack of familiars wants you to look into a temple..md",
     "Quests/A kenku wants you to participate in a chariot race..md",
