@@ -3,3 +3,4 @@ A [[Guardian Knights of the Sundown Citadel]]
     - Weapon Specialization: Warhammer
     - Race: [[Dwarf]]
     - Rank: Senior Guardian
+- 
