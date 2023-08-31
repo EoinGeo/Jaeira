@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "items/Horseshoes of a Zephyr.md",
+                "file": "items/Adamantine Armor.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -100,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "items/Horseshoes of a Zephyr.md",
+                "file": "items/Adamantine Armor.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "items/Horseshoes of a Zephyr.md",
+                "file": "items/Adamantine Armor.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "items/Horseshoes of a Zephyr.md"
+                "file": "items/Adamantine Armor.md"
               }
             }
           },
@@ -188,8 +188,11 @@
       "fantasy-content-generator:Fantasy Generators": false
     }
   },
-  "active": "39227168c07f9083",
+  "active": "0f891f4967d714dd",
   "lastOpenFiles": [
+    "Images/boblin the goblin.pdf",
+    "Events/Second War of the Gods.md",
+    "items/Horseshoes of a Zephyr.md",
     "Quests/Resources/Construct.md",
     "Locations/Sundown Citadel/Alaric's repository.md",
     "Quests/A goliath wants you to capture a construct..md",
@@ -213,9 +216,6 @@
     "Locations/Sundown Citadel/Dreamweaver's Trinkets.md",
     "5e Reference Data/monsters/Golems.md",
     "items/Spellguard Shield.md",
-    "items/Magic Items.md",
-    "items/Ring of Greater Regeneration.md",
-    "items/Ring of Regeneration.md",
     "Quests/Resources",
     "Quests",
     "People/Groups",
@@ -223,7 +223,6 @@
     "Images/sundown_citadel (2).png",
     "People/Groups/Religions/Aeloria",
     "People/Groups/Religions/Selendra",
-    "Images/boblin the goblin.pdf",
     "Locations/Goblina-on-the-Sea",
     "People/Groups/Religions/Rellivvra",
     "Images/Shanar.png",
