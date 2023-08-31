@@ -4,14 +4,14 @@
     "type": "split",
     "children": [
       {
-        "id": "aec080df1dd52775",
+        "id": "74f82761578c418f",
         "type": "tabs",
         "children": [
           {
-            "id": "f6fa80e2453ceef9",
+            "id": "c39f1dca2a1f6af2",
             "type": "leaf",
             "state": {
-              "type": "FANTASY_CALENDAR",
+              "type": "empty",
               "state": {}
             }
           }
@@ -95,7 +95,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "People/Groups/Jaerian Pantheon/Groups of Gods/Nether Enclave.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +111,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "People/Groups/Jaerian Pantheon/Groups of Gods/Nether Enclave.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -134,9 +132,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "People/Groups/Jaerian Pantheon/Groups of Gods/Nether Enclave.md"
-              }
+              "state": {}
             }
           },
           {
@@ -147,8 +143,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "15b1bdebc5e0caeb",
@@ -183,34 +178,34 @@
       "fantasy-content-generator:Fantasy Generators": false
     }
   },
-  "active": "f6fa80e2453ceef9",
+  "active": "c39f1dca2a1f6af2",
   "lastOpenFiles": [
-    "People/Groups/Jaerian Pantheon/Groups of Gods/Trio of War.md",
-    "People/Groups/Jaerian Pantheon/Gods/Shanar.md",
-    "People/Groups/Jaerian Pantheon/Groups of Gods/Jaerian Pantheon.md",
-    "Untitled.md",
-    "People/Groups/Jaerian Pantheon/Gods/Vorenthar.md",
-    "People/Groups/Religions/Shadowseekers.md",
-    "People/Groups/Religions/Children of the Eternal Flame.md",
-    "People/Groups/Religions/Vaelian Traders.md",
-    "People/Groups/Religions/Seekers of Prophecy.md",
-    "People/Groups/Religions/Religions.md",
-    "People/Groups/Religions/Cults.md",
-    "People/Groups/Religions/Order of Tranquil Waters.md",
-    "People/Groups/Religions/Neldranthian Reflection.md",
-    "People/Groups/Religions/Circle of Natural Harmony.md",
-    "People/Groups/Religions/Calindrana Sages.md",
-    "People/Groups/Council of Elders of the Sundown Citadel.md",
+    "People/Boblin the Goblin.md",
+    "Locations/Goblina on the Sea.md",
+    "Locations/Sundown Citadel/Sunrise Ward.md",
+    "Locations/Sundown Citadel/Sapphire Alehouse.md",
+    "Locations/Sundown Citadel/Dreamweaver's Trinkets.md",
+    "Locations/Sundown Citadel/Celestial Confections.md",
+    "Locations/Sundown Citadel/Artisan's Starlit Studio.md",
+    "Locations/Sundown Citadel/Astrological Attire Boutique Stellar Garb.md",
+    "Garret Ironsides.md",
+    "Locations/Sundown Citadel.md",
+    "Locations/Sundown Citadel/Dawn's Embrace Tavern.md",
+    "Locations/Sundown Citadel/West Town.md",
     "People/Groups/Guardian Knights of the Sundown Citadel.md",
-    "People/Groups/Duskborne.md",
-    "People/Rohan Stonehammer.md",
-    "People/Isabella Nightshade.md",
-    "People/Lady Seraphina Duskborne.md",
-    "People/Selene Moonshadow.md",
-    "People/Sorrel Nightshade.md",
-    "People/Thalwyn Starforge.md",
+    "People/Groups/Council of Elders of the Sundown Citadel.md",
     "People/Valerius Duskborne.md",
+    "People/Groups/Jaerian Pantheon/Groups of Gods/Nether Enclave.md",
+    "5e Reference Data/monsters/Shadow.md",
     "Events/Second War of the Gods.md",
+    "People/Groups/Jaerian Pantheon/Gods/Aeloria.md",
+    "People/Groups/Jaerian Pantheon/Gods/Calindra.md",
+    "People/Groups/Jaerian Pantheon/Gods/Calliope.md",
+    "People/Groups/Jaerian Pantheon/Gods/Selendra.md",
+    "People/Groups/Jaerian Pantheon/Groups of Gods/Jaerian Pantheon.md",
+    "People/Groups/Jaerian Pantheon/Gods/Celestia.md",
+    "People/Groups/Jaerian Pantheon/Gods/Faelindra.md",
+    "People/Groups/Jaerian Pantheon/Groups of Gods/Trio of War.md",
     "Images/boblin the goblin.pdf",
     "Images/sundown_citadel (2).png",
     "Images/Shanar.png",

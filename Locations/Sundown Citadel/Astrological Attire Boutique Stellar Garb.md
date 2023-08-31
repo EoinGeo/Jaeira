@@ -40,6 +40,5 @@ Owner - [[Seraphina Astralynn]]
 |Backpack|   |1.6 GP|   |
 |[Cloak of Many Fashions](https://www.dndbeyond.com/magic-items/cloak-of-many-fashions)|   |48 GP, Cloak, Common|   |
 |[Shiftweave](https://www.dndbeyond.com/magic-items/shiftweave)|   |48 GP, Clothing, Common|   |
-|[Cloak of Protection](https://www.dndbeyond.com/magic-items/cloak-of-protection)|   |136 GP, Cloak, Uncommon|   |
 |[Robe of Useful Items](https://www.dndbeyond.com/magic-items/robe-of-useful-items)|   |136 GP, Clothing, Uncommon|   |
 |[Glamerweave](https://www.dndbeyond.com/magic-items/glamerweave)|   |136 GP, Clothing, Uncommon|   |
