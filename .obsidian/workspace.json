@@ -4,18 +4,29 @@
     "type": "split",
     "children": [
       {
-        "id": "74f82761578c418f",
+        "id": "0eed115b7b82e775",
         "type": "tabs",
         "children": [
           {
-            "id": "c39f1dca2a1f6af2",
+            "id": "52d31cb0960125a0",
             "type": "leaf",
             "state": {
-              "type": "empty",
+              "type": "graph",
               "state": {}
             }
+          },
+          {
+            "id": "3ddeb133fed74828",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.4.5"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -178,8 +189,10 @@
       "fantasy-content-generator:Fantasy Generators": false
     }
   },
-  "active": "c39f1dca2a1f6af2",
+  "active": "3ddeb133fed74828",
   "lastOpenFiles": [
+    "People/Groups/Jaerian Pantheon/Gods/Aeloria.md",
+    "People/Groups/Jaerian Pantheon/Groups of Gods/Jaerian Pantheon.md",
     "People/Boblin the Goblin.md",
     "Locations/Goblina on the Sea.md",
     "Locations/Sundown Citadel/Sunrise Ward.md",
@@ -198,11 +211,9 @@
     "People/Groups/Jaerian Pantheon/Groups of Gods/Nether Enclave.md",
     "5e Reference Data/monsters/Shadow.md",
     "Events/Second War of the Gods.md",
-    "People/Groups/Jaerian Pantheon/Gods/Aeloria.md",
     "People/Groups/Jaerian Pantheon/Gods/Calindra.md",
     "People/Groups/Jaerian Pantheon/Gods/Calliope.md",
     "People/Groups/Jaerian Pantheon/Gods/Selendra.md",
-    "People/Groups/Jaerian Pantheon/Groups of Gods/Jaerian Pantheon.md",
     "People/Groups/Jaerian Pantheon/Gods/Celestia.md",
     "People/Groups/Jaerian Pantheon/Gods/Faelindra.md",
     "People/Groups/Jaerian Pantheon/Groups of Gods/Trio of War.md",
