@@ -3,7 +3,6 @@
 [[Calindrana Sages]]
 [[Luminaran Healers]]
 [[Neldranthian Reflection]]
-[[Selendran Devotion]]
 [[Shadowseekers]]
 [[The Red Wizards]]
 [[Vaelian Traders]]
