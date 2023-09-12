@@ -11,22 +11,16 @@
             "id": "52d31cb0960125a0",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
-            }
-          },
-          {
-            "id": "3ddeb133fed74828",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.4.5"
+                "file": "Locations/Sundown Citadel.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -106,6 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Locations/Sundown Citadel.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,6 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Locations/Sundown Citadel.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -143,7 +139,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Locations/Sundown Citadel.md"
+              }
             }
           },
           {
@@ -189,8 +187,10 @@
       "fantasy-content-generator:Fantasy Generators": false
     }
   },
-  "active": "3ddeb133fed74828",
+  "active": "52d31cb0960125a0",
   "lastOpenFiles": [
+    "Events/Second War of the Gods.md",
+    "Locations/Sundown Citadel.md",
     "People/Groups/Jaerian Pantheon/Gods/Aeloria.md",
     "People/Groups/Jaerian Pantheon/Groups of Gods/Jaerian Pantheon.md",
     "People/Boblin the Goblin.md",
@@ -202,7 +202,6 @@
     "Locations/Sundown Citadel/Artisan's Starlit Studio.md",
     "Locations/Sundown Citadel/Astrological Attire Boutique Stellar Garb.md",
     "Garret Ironsides.md",
-    "Locations/Sundown Citadel.md",
     "Locations/Sundown Citadel/Dawn's Embrace Tavern.md",
     "Locations/Sundown Citadel/West Town.md",
     "People/Groups/Guardian Knights of the Sundown Citadel.md",
@@ -210,7 +209,6 @@
     "People/Valerius Duskborne.md",
     "People/Groups/Jaerian Pantheon/Groups of Gods/Nether Enclave.md",
     "5e Reference Data/monsters/Shadow.md",
-    "Events/Second War of the Gods.md",
     "People/Groups/Jaerian Pantheon/Gods/Calindra.md",
     "People/Groups/Jaerian Pantheon/Gods/Calliope.md",
     "People/Groups/Jaerian Pantheon/Gods/Selendra.md",
