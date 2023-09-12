@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Locations/Sundown Citadel.md",
+                "file": "People/Groups/Caduntian Legion/Caduntian Legion.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -100,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Locations/Sundown Citadel.md",
+                "file": "People/Groups/Caduntian Legion/Caduntian Legion.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Locations/Sundown Citadel.md",
+                "file": "People/Groups/Caduntian Legion/Caduntian Legion.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -140,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Locations/Sundown Citadel.md"
+                "file": "People/Groups/Caduntian Legion/Caduntian Legion.md"
               }
             }
           },
@@ -189,32 +189,37 @@
   },
   "active": "52d31cb0960125a0",
   "lastOpenFiles": [
-    "Events/Second War of the Gods.md",
-    "Locations/Sundown Citadel.md",
-    "People/Groups/Jaerian Pantheon/Gods/Aeloria.md",
-    "People/Groups/Jaerian Pantheon/Groups of Gods/Jaerian Pantheon.md",
+    "People/Groups/Sundown Citadel/Duskborne/Valerius Duskborne.md",
+    "People/Groups/Caduntian Legion/Caduntian Legion.md",
+    "People/Groups/Caduntian Legion",
+    "People/Groups/Untitled.md",
+    "People/Groups/Shopkeeps/Thalwyn Starforge.md",
+    "People/Groups/Sundown Citadel/Guardian Knights of the Sundown Citadel/Thalon Windrider.md",
+    "People/Groups/Sundown Citadel/Guardian Knights of the Sundown Citadel/Sorrel Nightshade.md",
+    "People/Non Player Characters.md",
+    "People/Groups/Shopkeeps/Seraphina Astralynn.md",
+    "People/Groups/Shopkeeps/Selene Moonshadow.md",
+    "People/Groups/Sundown Citadel/Guardian Knights of the Sundown Citadel/Rohan Stonehammer.md",
+    "People/Groups/Shopkeeps/Pip Willowbrook.md",
+    "People/Groups/Sundown Citadel/Duskborne/Mirielle Nightshade.md",
+    "People/Groups/Sundown Citadel/Duskborne/Lady Seraphina Duskborne.md",
+    "People/Groups/Sundown Citadel/Guardian Knights of the Sundown Citadel/Kieran Oakheart.md",
+    "People/Groups/Shopkeeps/Isolde Nightbloom.md",
+    "People/Groups/Sundown Citadel/Duskborne/Isabella Nightshade.md",
+    "People/Groups/Sundown Citadel/Guardian Knights of the Sundown Citadel/Elysia Swiftwind.md",
+    "People/Groups/Sundown Citadel/Duskborne/Eleanor Duskborne.md",
+    "People/Groups/Sundown Citadel",
+    "People/Groups/Sundown Citadel/Duskborne",
+    "People/Groups/Sundown Citadel/Guardian Knights of the Sundown Citadel/Elara Moonshadow.md",
+    "People/Groups/Sundown Citadel/Guardian Knights of the Sundown Citadel/Brynden Ironclad.md",
     "People/Boblin the Goblin.md",
-    "Locations/Goblina on the Sea.md",
-    "Locations/Sundown Citadel/Sunrise Ward.md",
-    "Locations/Sundown Citadel/Sapphire Alehouse.md",
-    "Locations/Sundown Citadel/Dreamweaver's Trinkets.md",
-    "Locations/Sundown Citadel/Celestial Confections.md",
-    "Locations/Sundown Citadel/Artisan's Starlit Studio.md",
-    "Locations/Sundown Citadel/Astrological Attire Boutique Stellar Garb.md",
-    "Garret Ironsides.md",
-    "Locations/Sundown Citadel/Dawn's Embrace Tavern.md",
-    "Locations/Sundown Citadel/West Town.md",
-    "People/Groups/Guardian Knights of the Sundown Citadel.md",
-    "People/Groups/Council of Elders of the Sundown Citadel.md",
-    "People/Valerius Duskborne.md",
-    "People/Groups/Jaerian Pantheon/Groups of Gods/Nether Enclave.md",
-    "5e Reference Data/monsters/Shadow.md",
-    "People/Groups/Jaerian Pantheon/Gods/Calindra.md",
-    "People/Groups/Jaerian Pantheon/Gods/Calliope.md",
-    "People/Groups/Jaerian Pantheon/Gods/Selendra.md",
-    "People/Groups/Jaerian Pantheon/Gods/Celestia.md",
-    "People/Groups/Jaerian Pantheon/Gods/Faelindra.md",
-    "People/Groups/Jaerian Pantheon/Groups of Gods/Trio of War.md",
+    "People/Groups/Shopkeeps/Aurora Stardust.md",
+    "People/Groups/Shopkeeps",
+    "People/Groups/Sundown Citadel/Guardian Knights of the Sundown Citadel/Aeryn Stormshield.md",
+    "Locations/Sundown Citadel.md",
+    "People/Groups/Sundown Citadel/Guardian Knights of the Sundown Citadel",
+    "Events/Second War of the Gods.md",
+    "People/Groups/Jaerian Pantheon/Gods/Aeloria.md",
     "Images/boblin the goblin.pdf",
     "Images/sundown_citadel (2).png",
     "Images/Shanar.png",
@@ -222,11 +227,6 @@
     "Quests",
     "People/Groups",
     "Locations/Sundown Citadel",
-    "People/Groups/Religions/Aeloria",
-    "People/Groups/Religions/Selendra",
-    "Locations/Goblina-on-the-Sea",
-    "People/Groups/Religions/Rellivvra",
-    "People/Groups/Religions/Imlivil",
     "Untitled.canvas",
     "Untitled 1.canvas"
   ]
