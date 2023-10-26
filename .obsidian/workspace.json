@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "0eed115b7b82e775",
+        "id": "e04b8a6f25b30738",
         "type": "tabs",
         "children": [
           {
-            "id": "52d31cb0960125a0",
+            "id": "8ce4b1ad23a5bef2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "People/Groups/Caduntian Legion/Caduntian Legion.md",
+                "file": "Locations/Sundown Citadel/Sapphire Alehouse.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -100,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "People/Groups/Caduntian Legion/Caduntian Legion.md",
+                "file": "Locations/Sundown Citadel/Sapphire Alehouse.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,9 +117,9 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "People/Groups/Caduntian Legion/Caduntian Legion.md",
+                "file": "Locations/Sundown Citadel/Sapphire Alehouse.md",
                 "linksCollapsed": false,
-                "unlinkedCollapsed": false
+                "unlinkedCollapsed": true
               }
             }
           },
@@ -140,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "People/Groups/Caduntian Legion/Caduntian Legion.md"
+                "file": "Locations/Sundown Citadel/Sapphire Alehouse.md"
               }
             }
           },
@@ -152,7 +152,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "15b1bdebc5e0caeb",
@@ -171,7 +172,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 355.5
+    "width": 649.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -187,46 +188,46 @@
       "fantasy-content-generator:Fantasy Generators": false
     }
   },
-  "active": "52d31cb0960125a0",
+  "active": "3f7ab5b73c519dd1",
   "lastOpenFiles": [
-    "5e Reference Data/Weapons.md",
-    "People/Groups/Caduntian Legion/Caduntian Legion.md",
-    "People/Groups/Jaerian Pantheon/Gods/Morana.md",
-    "People/Groups/Jaerian Pantheon/Gods/Selendra.md",
-    "People/Groups/Religions/Cults.md",
-    "People/Groups/Religions/Religions.md",
-    "People/Groups/Religions/Selendra/Selendran Devotion.md",
-    "People/Groups/Religions/Selendra/Cult of the Crimson Rose.md",
-    "People/Groups/Jaerian Pantheon/Gods/Rellivvra.md",
-    "People/Groups/Jaerian Pantheon/Gods/Vaelina.md",
-    "People/Groups/Jaerian Pantheon/Gods/Vorenthar.md",
-    "People/Groups/Jaerian Pantheon/Gods/Vaelis.md",
-    "People/Groups/Jaerian Pantheon/Gods/Calliope.md",
-    "People/Groups/Jaerian Pantheon/Gods/Calindra.md",
-    "People/Groups/Jaerian Pantheon/Gods/Caladria.md",
-    "People/Groups/Sundown Citadel/Duskborne/Valerius Duskborne.md",
-    "People/Groups/Caduntian Legion",
-    "People/Groups/Untitled.md",
-    "People/Groups/Shopkeeps/Thalwyn Starforge.md",
     "People/Groups/Sundown Citadel/Guardian Knights of the Sundown Citadel/Thalon Windrider.md",
     "People/Groups/Sundown Citadel/Guardian Knights of the Sundown Citadel/Sorrel Nightshade.md",
-    "People/Non Player Characters.md",
+    "People/Groups/Sundown Citadel/Guardian Knights of the Sundown Citadel/Rohan Stonehammer.md",
+    "People/Groups/Sundown Citadel/Guardian Knights of the Sundown Citadel/Kieran Oakheart.md",
+    "People/Groups/Sundown Citadel/Guardian Knights of the Sundown Citadel/Guardian Knights of the Sundown Citadel.md",
+    "People/Groups/Sundown Citadel/Guardian Knights of the Sundown Citadel/Elysia Swiftwind.md",
+    "People/Groups/Sundown Citadel/Guardian Knights of the Sundown Citadel/Elara Moonshadow.md",
+    "People/Groups/Sundown Citadel/Guardian Knights of the Sundown Citadel/Brynden Ironclad.md",
+    "People/Groups/Sundown Citadel/Guardian Knights of the Sundown Citadel/Aeryn Stormshield.md",
+    "People/Groups/Sundown Citadel/Duskborne/Valerius Duskborne.md",
+    "People/Groups/Sundown Citadel/Duskborne/Mirielle Nightshade.md",
+    "People/Groups/Sundown Citadel/Duskborne/Lady Seraphina Duskborne.md",
+    "People/Groups/Sundown Citadel/Duskborne/Isabella Nightshade.md",
+    "People/Groups/Sundown Citadel/Duskborne/Duskborne.md",
+    "People/Groups/Sundown Citadel/Duskborne/Eleanor Duskborne.md",
+    "People/Groups/Sundown Citadel/Guardian Knights of the Sundown Citadel",
+    "People/Groups/Sundown Citadel/Duskborne",
+    "People/Groups/Sundown Citadel/Council of Elders of the Sundown Citadel.md",
+    "People/Groups/Sundown Citadel",
+    "People/Groups/Shopkeeps/Thalwyn Starforge.md",
     "People/Groups/Shopkeeps/Seraphina Astralynn.md",
     "People/Groups/Shopkeeps/Selene Moonshadow.md",
-    "People/Groups/Sundown Citadel/Guardian Knights of the Sundown Citadel/Rohan Stonehammer.md",
     "People/Groups/Shopkeeps/Pip Willowbrook.md",
-    "People/Groups/Sundown Citadel/Duskborne/Mirielle Nightshade.md",
-    "People/Groups/Sundown Citadel",
-    "People/Groups/Sundown Citadel/Duskborne",
+    "People/Groups/Shopkeeps/Isolde Nightbloom.md",
+    "People/Groups/Shopkeeps/Aurora Stardust.md",
     "People/Groups/Shopkeeps",
-    "People/Groups/Sundown Citadel/Guardian Knights of the Sundown Citadel",
-    "Images/boblin the goblin.pdf",
-    "Images/sundown_citadel (2).png",
-    "Images/Shanar.png",
+    "People/Groups/Caduntian Legion/Caduntian Legion.md",
+    "People/Groups/Caduntian Legion",
+    "Quests/A pack of familiars wants you to look into a temple..md",
+    "Quests/A kenku wants you to participate in a chariot race..md",
+    "Locations/Sundown Citadel/Artisan's Starlit Studio.md",
     "Quests/Resources",
     "Quests",
     "People/Groups",
     "Locations/Sundown Citadel",
+    "Images/sundown_citadel (2).png",
+    "People/Groups/Religions/Aeloria",
+    "Images/Shanar.png",
     "Untitled.canvas",
     "Untitled 1.canvas"
   ]
