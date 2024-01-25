@@ -19,8 +19,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "e42734e3e28f0de4",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.4.12"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -151,6 +162,16 @@
               "type": "FANTASY_CALENDAR",
               "state": {}
             }
+          },
+          {
+            "id": "e9050b6f06dbe30e",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency"
+              }
+            }
           }
         ]
       },
@@ -187,7 +208,7 @@
       "fantasy-content-generator:Fantasy Generators": false
     }
   },
-  "active": "52d31cb0960125a0",
+  "active": "e42734e3e28f0de4",
   "lastOpenFiles": [
     "5e Reference Data/Weapons.md",
     "People/Groups/Caduntian Legion/Caduntian Legion.md",
