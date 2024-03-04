@@ -1,5 +1,5 @@
 
-[[Golems]]
+[[Monsters]]
 *Large construct, unaligned*
 
 **Armor Class** 17 (natural armor)

@@ -41,3 +41,4 @@ If a non-evil humanoid dies from this attack, a new shadow rises from the corpse
 
 
 [[Monsters]]
+

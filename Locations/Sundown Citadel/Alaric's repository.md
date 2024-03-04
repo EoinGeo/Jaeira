@@ -1,7 +1,7 @@
 Alaric's Repository is a secret sanctuary of hidden knowledge and holds in it 
 
-A [[Cloak of Protection]]
+A [[Magic Items]]
 212 gp
-2 [[Potion of Invisibility]]
-3 [[Potion of Healing]]
-a [[Ring of Greater Regeneration]]
+2 [[Magic Items]]
+3 [[Magic Items]]
+a [[Magic Items]]

@@ -1,6 +1,6 @@
 A [[The Curséd Folk]], left in charge of [[Goblina on the Sea]] to raid and cause problems in the name of [[Rellivvra]] and quench their bloodlust.
 
-In possession of a +1 [[Vicious Weapon]] Longsword as such
+In possession of a +1 [[Magic Items]] Longsword as such
 **Armor Class** 16 (hide armor, shield)
 
 **Hit Points** 10-45 (5d8+5)

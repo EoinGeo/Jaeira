@@ -3,7 +3,8 @@
   "textFontFamily": "Montserrat",
   "interfaceFontFamily": "Montserrat",
   "baseFontSize": 16,
-  "cssTheme": "Sanguine",
+  "cssTheme": "Things",
   "translucency": false,
-  "nativeMenus": false
+  "nativeMenus": false,
+  "theme": "obsidian"
 }

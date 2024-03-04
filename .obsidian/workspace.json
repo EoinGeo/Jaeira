@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "0eed115b7b82e775",
+        "id": "0792ba991c2932e6",
         "type": "tabs",
         "children": [
           {
-            "id": "52d31cb0960125a0",
+            "id": "508f3bd38d91b73a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "People/Groups/Caduntian Legion/Caduntian Legion.md",
+                "file": "Locations/Goblina on the Sea.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -21,12 +21,15 @@
             }
           },
           {
-            "id": "e42734e3e28f0de4",
+            "id": "de40607f87adc717",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.4.12"
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
               }
             }
           }
@@ -111,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "People/Groups/Caduntian Legion/Caduntian Legion.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "People/Groups/Caduntian Legion/Caduntian Legion.md",
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -151,7 +154,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "People/Groups/Caduntian Legion/Caduntian Legion.md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           },
@@ -169,11 +172,14 @@
             "state": {
               "type": "all-properties",
               "state": {
-                "sortOrder": "frequency"
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       },
       {
         "id": "15b1bdebc5e0caeb",
@@ -208,46 +214,46 @@
       "fantasy-content-generator:Fantasy Generators": false
     }
   },
-  "active": "e42734e3e28f0de4",
+  "active": "de40607f87adc717",
   "lastOpenFiles": [
-    "5e Reference Data/Weapons.md",
-    "People/Groups/Caduntian Legion/Caduntian Legion.md",
-    "People/Groups/Jaerian Pantheon/Gods/Morana.md",
-    "People/Groups/Jaerian Pantheon/Gods/Selendra.md",
-    "People/Groups/Religions/Cults.md",
-    "People/Groups/Religions/Religions.md",
-    "People/Groups/Religions/Selendra/Selendran Devotion.md",
-    "People/Groups/Religions/Selendra/Cult of the Crimson Rose.md",
-    "People/Groups/Jaerian Pantheon/Gods/Rellivvra.md",
-    "People/Groups/Jaerian Pantheon/Gods/Vaelina.md",
-    "People/Groups/Jaerian Pantheon/Gods/Vorenthar.md",
-    "People/Groups/Jaerian Pantheon/Gods/Vaelis.md",
-    "People/Groups/Jaerian Pantheon/Gods/Calliope.md",
-    "People/Groups/Jaerian Pantheon/Gods/Calindra.md",
-    "People/Groups/Jaerian Pantheon/Gods/Caladria.md",
-    "People/Groups/Sundown Citadel/Duskborne/Valerius Duskborne.md",
+    "Locations/Goblina on the Sea.md",
+    "conflict-files-obsidian-git.md",
+    "items/Magic Items.md",
+    "People/Groups/Religions/Rellivvra/Curse of Rellivvra.md",
+    "Events/Second War of the Gods.md",
+    "People/Groups/Jaerian Pantheon/Gods/Malina.md",
+    "5e Reference Data/Monsters.md",
+    "5e Reference Data/monsters/Xorn.md",
+    "5e Reference Data/monsters/Shadow.md",
+    "5e Reference Data/monsters/Stirge.md",
+    "5e Reference Data/monsters/Shambling Mound.md",
+    "5e Reference Data/Creatures.md",
+    "5e Reference Data/creatures/Mule.md",
+    "5e Reference Data/creatures/Giant Frog.md",
+    "5e Reference Data/monsters/Mephits.md",
+    "items/Wind Fan.md",
+    "items/Wand of Wonder.md",
+    "items/Sword of Life Stealing.md",
+    "items/Sun Blade.md",
+    "items/Rod of Absorption.md",
+    "items/Robe of Useful Items.md",
+    "items/Red Wizard Dagger.md",
+    "items/Pungum.md",
+    "items/Pearl of Power.md",
+    "items/Mithral Armor.md",
+    "items/Manual of Golems.md",
+    "Images/Shanar.png",
+    "Images/sundown_citadel (2).png",
+    "Images/boblin the goblin.pdf",
+    "People/Groups/Religions/Groupings",
     "People/Groups/Caduntian Legion",
-    "People/Groups/Untitled.md",
-    "People/Groups/Shopkeeps/Thalwyn Starforge.md",
-    "People/Groups/Sundown Citadel/Guardian Knights of the Sundown Citadel/Thalon Windrider.md",
-    "People/Groups/Sundown Citadel/Guardian Knights of the Sundown Citadel/Sorrel Nightshade.md",
-    "People/Non Player Characters.md",
-    "People/Groups/Shopkeeps/Seraphina Astralynn.md",
-    "People/Groups/Shopkeeps/Selene Moonshadow.md",
-    "People/Groups/Sundown Citadel/Guardian Knights of the Sundown Citadel/Rohan Stonehammer.md",
-    "People/Groups/Shopkeeps/Pip Willowbrook.md",
-    "People/Groups/Sundown Citadel/Duskborne/Mirielle Nightshade.md",
     "People/Groups/Sundown Citadel",
     "People/Groups/Sundown Citadel/Duskborne",
     "People/Groups/Shopkeeps",
     "People/Groups/Sundown Citadel/Guardian Knights of the Sundown Citadel",
-    "Images/boblin the goblin.pdf",
-    "Images/sundown_citadel (2).png",
-    "Images/Shanar.png",
     "Quests/Resources",
     "Quests",
     "People/Groups",
-    "Locations/Sundown Citadel",
     "Untitled.canvas",
     "Untitled 1.canvas"
   ]
