@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Locations/Sundown Citadel.md",
+                "file": "Locations/Goblina on the Sea.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -100,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Locations/Sundown Citadel.md",
+                "file": "Locations/Goblina on the Sea.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Locations/Sundown Citadel.md",
+                "file": "Locations/Goblina on the Sea.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -140,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Locations/Sundown Citadel.md"
+                "file": "Locations/Goblina on the Sea.md"
               }
             }
           },
@@ -203,15 +203,15 @@
   },
   "active": "508f3bd38d91b73a",
   "lastOpenFiles": [
+    "Locations/Sundown Citadel.md",
+    "Locations/Goblina on the Sea.md",
     "People/Groups/Jaerian Pantheon/Groups of Gods/Jaerian Pantheon.md",
     "People/Groups/Caduntian Legion/Caduntian Legion.md",
-    "Locations/Goblina on the Sea.md",
     "People/Groups/Religions/Rellivvra/Toglikk.md",
     "People/Groups/Religions/Rellivvra/Curse of Rellivvra.md",
     "People/Groups/Religions/Rellivvra/The Curséd Folk.md",
     "Locations/Sundown Citadel/Alaric's repository.md",
     "Locations/Locations.md",
-    "Locations/Sundown Citadel.md",
     "conflict-files-obsidian-git.md",
     "items/Magic Items.md",
     "Events/Second War of the Gods.md",
