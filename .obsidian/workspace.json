@@ -19,8 +19,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "6a550479c7c1ee19",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.5.11"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -201,7 +212,7 @@
       "fantasy-content-generator:Fantasy Generators": false
     }
   },
-  "active": "508f3bd38d91b73a",
+  "active": "6a550479c7c1ee19",
   "lastOpenFiles": [
     "Locations/Sundown Citadel.md",
     "Locations/Goblina on the Sea.md",
