@@ -13,7 +13,7 @@ and [[Morana | Morana, Goddess of Natural Balance]], well regarded in all realms
 
 # Caduntian Schools
 
-Caduntian Schooling is a mystery to those outside of the schools, kept secret to those outside of their coverts. There are 6 known schools of Caduntian Training, known only to the public by their fighting style and the crest upon their right pauldron. 
+Caduntian Schooling is a mystery to those outside of the schools, kept secret to those outside of their coverts. There are 6 known schools of Caduntian Training, known only to the public by their fighting style and the crest upon their pauldron. 
 
 |1d4 | School |  Mantra |
 |--------|-------------------|--------------------------------------------- |
