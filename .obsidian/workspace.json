@@ -4,15 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "8909dd2bcbc71d1a",
+        "id": "29498ef42fa977d8",
         "type": "tabs",
         "children": [
           {
-            "id": "9b7dbdb1d4d57dde",
+            "id": "20994ecb45818125",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "People/Groups/Jaerian Pantheon/Gods/Rellivvra.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
             }
           }
         ]
@@ -95,6 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "People/Groups/Jaerian Pantheon/Gods/Rellivvra.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,6 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "People/Groups/Jaerian Pantheon/Gods/Rellivvra.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -144,7 +151,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "People/Groups/Jaerian Pantheon/Gods/Rellivvra.md"
+              }
             }
           },
           {
@@ -156,7 +165,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       },
       {
         "id": "15b1bdebc5e0caeb",
@@ -191,37 +200,37 @@
       "fantasy-content-generator:Fantasy Generators": false
     }
   },
-  "active": "0f891f4967d714dd",
+  "active": "20994ecb45818125",
   "lastOpenFiles": [
-    "Locations/Goblina on the Sea.md",
-    "Locations/Sundown Citadel.md",
-    "People/Groups/Jaerian Pantheon/Groups of Gods/Jaerian Pantheon.md",
-    "People/Groups/Caduntian Legion/Caduntian Legion.md",
-    "People/Groups/Religions/Rellivvra/Toglikk.md",
-    "People/Groups/Religions/Rellivvra/Curse of Rellivvra.md",
     "People/Groups/Religions/Rellivvra/The Curséd Folk.md",
-    "Locations/Sundown Citadel/Alaric's repository.md",
-    "Locations/Locations.md",
-    "conflict-files-obsidian-git.md",
-    "items/Magic Items.md",
+    "People/Groups/Religions/Rellivvra/Curse of Rellivvra.md",
+    "items/Pungum.md",
     "Events/Second War of the Gods.md",
-    "People/Groups/Jaerian Pantheon/Gods/Malina.md",
-    "5e Reference Data/Monsters.md",
-    "5e Reference Data/monsters/Xorn.md",
-    "5e Reference Data/monsters/Shadow.md",
-    "5e Reference Data/monsters/Stirge.md",
-    "5e Reference Data/monsters/Shambling Mound.md",
-    "5e Reference Data/Creatures.md",
-    "5e Reference Data/creatures/Mule.md",
-    "5e Reference Data/creatures/Giant Frog.md",
-    "5e Reference Data/monsters/Mephits.md",
-    "items/Wind Fan.md",
-    "items/Wand of Wonder.md",
-    "items/Sword of Life Stealing.md",
-    "items/Sun Blade.md",
-    "Images/Shanar.png",
+    "People/Groups/Jaerian Pantheon/Gods/Vorenthar.md",
+    "items/The Sundering.md",
+    "Locations/Sundown Citadel.md",
+    "Locations/Locations.md",
+    "People/Groups/Religions/Whisperers of Dreams.md",
+    "People/Groups/Religions/Vaelinian Advocates.md",
+    "People/Groups/Religions/Vaelian Traders.md",
+    "People/Groups/Religions/Seekers of Prophecy.md",
+    "People/Groups/Religions/Order of Tranquil Waters.md",
+    "People/Groups/Religions/Neldranthian Reflection.md",
+    "People/Groups/Religions/Luminaran Healers.md",
+    "People/Groups/Religions/Circle of Natural Harmony.md",
+    "People/Groups/Religions/Calindrana Sages.md",
+    "People/Groups/Jaerian Pantheon/Gods/Shanar.md",
+    "People/Groups/Jaerian Pantheon/Gods/Selendra.md",
+    "People/Groups/Caduntian Legion/Caduntian Legion.md",
     "Images/sundown_citadel (2).png",
     "Images/boblin the goblin.pdf",
+    "Images/Shanar.png",
+    "People/Boblin the Goblin.md",
+    "People/Non Player Characters.md",
+    "People/Groups/Jaerian Pantheon/Gods/Vaelis.md",
+    "People/Groups/Jaerian Pantheon/Gods/Vaelina.md",
+    "People/Groups/Jaerian Pantheon/Gods/Neldrath.md",
+    "People/Groups/Jaerian Pantheon/Gods/Malina.md",
     "People/Groups/Religions/Groupings",
     "People/Groups/Caduntian Legion",
     "People/Groups/Sundown Citadel",

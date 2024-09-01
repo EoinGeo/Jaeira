@@ -36,4 +36,4 @@ You master fighting with two weapons, gaining the following benefits:
 
 # Caduntian Pairing
 
-A Caduntian cannot adventure alone, and to see a lone caduntian is either a tragedy or a danger. 
+A Caduntian cannot adventure alone, and to see a lone Caduntian is either a tragedy or a danger. 
