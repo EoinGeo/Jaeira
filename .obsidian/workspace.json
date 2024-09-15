@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "29498ef42fa977d8",
+        "id": "5a55a04fc56c61d7",
         "type": "tabs",
         "children": [
           {
-            "id": "20994ecb45818125",
+            "id": "fc417559aae37832",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Locations/Sundown Citadel.md",
+                "file": "People/Major Plot Characters/Aescar.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -100,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Locations/Sundown Citadel.md",
+                "file": "People/Major Plot Characters/Aescar.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Locations/Sundown Citadel.md",
+                "file": "People/Major Plot Characters/Aescar.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -152,7 +152,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Locations/Sundown Citadel.md"
+                "file": "People/Major Plot Characters/Aescar.md"
               }
             }
           },
@@ -200,8 +200,11 @@
       "fantasy-content-generator:Fantasy Generators": false
     }
   },
-  "active": "20994ecb45818125",
+  "active": "fc417559aae37832",
   "lastOpenFiles": [
+    "People/Groups/Jaerian Pantheon/Groups of Gods/Second War of the Gods/Nether Enclave.md",
+    "Untitled.canvas",
+    "Locations/Sundown Citadel.md",
     "People/Groups/Religions/Aescarite Legions/Caduntian Legion/Caduntian Legion.md",
     "People/Groups/Jaerian Pantheon/Gods/Aescar Gods/Morana.md",
     "items/Red Wizard Dagger.md",
@@ -225,9 +228,6 @@
     "People/Groups/Jaerian Pantheon/Gods/Nether Gods/Kelthar.md",
     "People/Groups/Jaerian Pantheon/Gods/Nether Gods/Faelindra.md",
     "People/Groups/Jaerian Pantheon/Gods/Nether Gods/Drakaroth.md",
-    "People/Groups/Jaerian Pantheon/Gods/Nether Gods/Calindra.md",
-    "People/Groups/Jaerian Pantheon/Gods/Celestial Gods/Vaelis.md",
-    "People/Groups/Jaerian Pantheon/Gods/Celestial Gods/Vaelina.md",
     "Images/sundown_citadel (2).png",
     "People/Major Plot Characters",
     "People/Groups/Religions/Aescarite Civilian Worship",
@@ -240,7 +240,6 @@
     "People/Groups/Jaerian Pantheon/Gods/Nether Gods",
     "People/Groups/Jaerian Pantheon/Gods/Aescar Gods",
     "Images/Shanar.png",
-    "Untitled.canvas",
     "Untitled 1.canvas"
   ]
 }
