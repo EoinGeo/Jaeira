@@ -13,28 +13,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "People/Groups/Religions/Aescarite Legions/Caduntian Legion/Caduntian Legion.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f4a5ba34df02371b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "People/Groups/Religions/Aescarite Legions/Divrin's Legion.md",
+                "file": "Locations/Sundown Citadel.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -114,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "People/Groups/Religions/Aescarite Legions/Divrin's Legion.md",
+                "file": "Locations/Sundown Citadel.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "People/Groups/Religions/Aescarite Legions/Divrin's Legion.md",
+                "file": "Locations/Sundown Citadel.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -166,7 +152,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "People/Groups/Religions/Aescarite Legions/Divrin's Legion.md"
+                "file": "Locations/Sundown Citadel.md"
               }
             }
           },
@@ -214,34 +200,36 @@
       "fantasy-content-generator:Fantasy Generators": false
     }
   },
-  "active": "f4a5ba34df02371b",
+  "active": "20994ecb45818125",
   "lastOpenFiles": [
-    "People/Groups/Sundown Citadel/Guardian Knights of the Sundown Citadel/Guardian Knights of the Sundown Citadel.md",
-    "People/Groups/Religions/Aescarite Legions/Divrin's Legion.md",
-    "People/Groups/Jaerian Pantheon/Gods/Aescar Gods/Divrin.md",
-    "People/Groups/Jaerian Pantheon/Gods/Aescar Gods/Erevan.md",
-    "People/Groups/Jaerian Pantheon/Gods/Aescar Gods/Calliope.md",
-    "People/Groups/Jaerian Pantheon/Gods/Aescar Gods/Caladria.md",
-    "People/Groups/Sundown Citadel/Guardian Knights of the Sundown Citadel/Elysia Swiftwind.md",
-    "People/Groups/Sundown Citadel/Guardian Knights of the Sundown Citadel/Elara Moonshadow.md",
-    "People/Groups/Sundown Citadel/Guardian Knights of the Sundown Citadel/Brynden Ironclad.md",
-    "People/Groups/Sundown Citadel/Guardian Knights of the Sundown Citadel/Aeryn Stormshield.md",
-    "People/Aescar.md",
-    "Events/Aescar's Crusade.md",
-    "Events/The Foundation.md",
-    "Events/Second War of the Gods.md",
     "People/Groups/Religions/Aescarite Legions/Caduntian Legion/Caduntian Legion.md",
-    "People/Groups/Religions/Aescarite Civilian Worship/Order of Tranquil Waters.md",
-    "People/Groups/Religions/Celestial Worship/Seekers of Prophecy.md",
-    "People/Groups/Religions/Nether Worship/Shadowseekers.md",
-    "People/Groups/Religions/Celestial Worship/Vaelian Traders.md",
-    "People/Groups/Religions/Celestial Worship/Vaelinian Advocates.md",
-    "People/Groups/Religions/Nether Worship/Whisperers of Dreams.md",
     "People/Groups/Jaerian Pantheon/Gods/Aescar Gods/Morana.md",
-    "People/Groups/Jaerian Pantheon/Gods/Aescar Gods/Selendra.md",
+    "items/Red Wizard Dagger.md",
+    "People/Groups/Religions/Aescarite Legions/Aescarite Legion.md",
+    "Quests/A young adult wants you to participate in a magic show..md",
+    "Quests/A vedalken needs help relocating a cursed relic to escape a scorned lover..md",
+    "Quests/A pack of familiars wants you to look into a temple..md",
+    "Quests/A kenku wants you to participate in a chariot race..md",
+    "Quests/A halfling needs help retreiving clothing inside an amulet..md",
+    "Quests/A goliath wants you to capture a construct..md",
+    "Quests/Resources/Construct.md",
+    "People/Non Player Characters.md",
+    "People/Boblin the Goblin.md",
+    "People/Major Plot Characters/Aescar.md",
+    "People/Groups/Jaerian Pantheon/Groups of Gods/The Aescar Endless Conflict/The Celestial Gods.md",
+    "Aescar Endless Conflict.md",
+    "People/Groups/Jaerian Pantheon/Gods/Nether Gods/Vorenthar.md",
+    "People/Groups/Jaerian Pantheon/Gods/Nether Gods/Rellivvra.md",
+    "People/Groups/Jaerian Pantheon/Gods/Nether Gods/Neldrath.md",
+    "People/Groups/Jaerian Pantheon/Gods/Nether Gods/Lyssara.md",
+    "People/Groups/Jaerian Pantheon/Gods/Nether Gods/Kelthar.md",
+    "People/Groups/Jaerian Pantheon/Gods/Nether Gods/Faelindra.md",
+    "People/Groups/Jaerian Pantheon/Gods/Nether Gods/Drakaroth.md",
+    "People/Groups/Jaerian Pantheon/Gods/Nether Gods/Calindra.md",
     "People/Groups/Jaerian Pantheon/Gods/Celestial Gods/Vaelis.md",
-    "People/Groups/Religions/Nether Worship/Neldranthian Reflection.md",
-    "People/Groups/Jaerian Pantheon/Gods/Aescar Gods/Luminara.md",
+    "People/Groups/Jaerian Pantheon/Gods/Celestial Gods/Vaelina.md",
+    "Images/sundown_citadel (2).png",
+    "People/Major Plot Characters",
     "People/Groups/Religions/Aescarite Civilian Worship",
     "People/Groups/Religions/Aescarite Legions",
     "People/Groups/Religions/Nether Worship",
@@ -251,9 +239,7 @@
     "People/Groups/Jaerian Pantheon/Gods/Celestial Gods",
     "People/Groups/Jaerian Pantheon/Gods/Nether Gods",
     "People/Groups/Jaerian Pantheon/Gods/Aescar Gods",
-    "Images/sundown_citadel (2).png",
     "Images/Shanar.png",
-    "Images/boblin the goblin.pdf",
     "Untitled.canvas",
     "Untitled 1.canvas"
   ]
