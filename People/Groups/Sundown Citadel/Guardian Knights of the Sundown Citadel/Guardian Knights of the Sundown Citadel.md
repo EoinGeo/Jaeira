@@ -1,4 +1,6 @@
 The main castle is also home to the Guardian Knights of the [[Sundown Citadel]], a dedicated group of skilled warriors chosen for their bravery and loyalty. These knights form the elite guard that protects the Lord Protector, Lady Isabella, and the castle itself. They are trained in combating the [[shadow]] beasts and are equipped with [[weapons]] specially crafted to repel their attacks. The Guardian Knights have quarters within the castle and maintain a constant vigilance against potential threats.
+They are a branch of [[Divrin's Legion]]
+
 
 
 **Training and Recruitment:**

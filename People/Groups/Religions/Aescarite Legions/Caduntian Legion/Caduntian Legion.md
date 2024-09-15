@@ -6,7 +6,7 @@ For a true Caduntian has but one goal in life. Give all their love to all that a
 -------------------------------------------------
 
 The Caduntian legion are paladins of the Twin Gods, [[Selendra | Selendra,Goddess of Love]]
-and [[Morana | Morana, Goddess of Natural Balance]], well regarded in all realms of the continent, to deny a Caduntian Pair entry, is to invite bad omen upon all that which is in your domain or possession.
+and [[Morana | Morana, Goddess of Natural Balance]], well regarded in all realms of the continent, to deny a Caduntian Pair entry, is to invite bad omen upon all that which is in your domain or possession. The Caduntian Legion were the original [[Aescarite Legion]], before [[The Foundation]]
 
 
 ## Caduntian training

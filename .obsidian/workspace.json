@@ -13,14 +13,28 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "People/Non Player Characters.md",
+                "file": "People/Groups/Religions/Aescarite Legions/Caduntian Legion/Caduntian Legion.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f4a5ba34df02371b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "People/Groups/Religions/Aescarite Legions/Divrin's Legion.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -72,7 +86,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "People/Groups/Jaerian Pantheon/Groups of Gods/Nether Enclave.md",
+                "file": "People/Groups/Jaerian Pantheon/Groups of Gods/Second War of the Gods/Nether Enclave.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -100,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "People/Non Player Characters.md",
+                "file": "People/Groups/Religions/Aescarite Legions/Divrin's Legion.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "People/Non Player Characters.md",
+                "file": "People/Groups/Religions/Aescarite Legions/Divrin's Legion.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -152,7 +166,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "People/Non Player Characters.md"
+                "file": "People/Groups/Religions/Aescarite Legions/Divrin's Legion.md"
               }
             }
           },
@@ -200,46 +214,46 @@
       "fantasy-content-generator:Fantasy Generators": false
     }
   },
-  "active": "0f891f4967d714dd",
+  "active": "f4a5ba34df02371b",
   "lastOpenFiles": [
-    "Quests/A halfling needs help retreiving clothing inside an amulet..md",
-    "Quests/A kenku wants you to participate in a chariot race..md",
-    "Quests/A vedalken needs help relocating a cursed relic to escape a scorned lover..md",
-    "Quests/A young adult wants you to participate in a magic show..md",
-    "Quests/A young man needs you to build a mansion.md",
-    "Quests/A goliath wants you to capture a construct..md",
-    "People/Groups/Shopkeeps/Isolde Nightbloom.md",
-    "People/Groups/Shopkeeps/Pip Willowbrook.md",
-    "People/Groups/Shopkeeps/Thalwyn Starforge.md",
-    "People/Groups/Shopkeeps/Seraphina Astralynn.md",
-    "People/Groups/Shopkeeps/Selene Moonshadow.md",
-    "People/Groups/Shopkeeps/Aurora Stardust.md",
-    "People/Groups/Religions/Vaelinian Advocates.md",
-    "People/Groups/Religions/Whisperers of Dreams.md",
-    "People/Groups/Religions/Vaelian Traders.md",
-    "People/Groups/Religions/Shadowseekers.md",
-    "People/Groups/Religions/Seekers of Prophecy.md",
-    "People/Groups/Religions/Order of Tranquil Waters.md",
-    "People/Groups/Religions/Neldranthian Reflection.md",
-    "People/Groups/Religions/Luminaran Healers.md",
-    "People/Groups/Religions/Circle of Natural Harmony.md",
-    "People/Groups/Religions/Children of the Eternal Flame.md",
-    "People/Groups/Religions/Calindrana Sages.md",
-    "People/Groups/Religions/Rellivvra/The Curséd Folk.md",
-    "People/Groups/Religions/Imlivil/The Red Wizards.md",
-    "People/Groups/Religions/Groupings/Religions.md",
+    "People/Groups/Sundown Citadel/Guardian Knights of the Sundown Citadel/Guardian Knights of the Sundown Citadel.md",
+    "People/Groups/Religions/Aescarite Legions/Divrin's Legion.md",
+    "People/Groups/Jaerian Pantheon/Gods/Aescar Gods/Divrin.md",
+    "People/Groups/Jaerian Pantheon/Gods/Aescar Gods/Erevan.md",
+    "People/Groups/Jaerian Pantheon/Gods/Aescar Gods/Calliope.md",
+    "People/Groups/Jaerian Pantheon/Gods/Aescar Gods/Caladria.md",
+    "People/Groups/Sundown Citadel/Guardian Knights of the Sundown Citadel/Elysia Swiftwind.md",
+    "People/Groups/Sundown Citadel/Guardian Knights of the Sundown Citadel/Elara Moonshadow.md",
+    "People/Groups/Sundown Citadel/Guardian Knights of the Sundown Citadel/Brynden Ironclad.md",
+    "People/Groups/Sundown Citadel/Guardian Knights of the Sundown Citadel/Aeryn Stormshield.md",
+    "People/Aescar.md",
+    "Events/Aescar's Crusade.md",
+    "Events/The Foundation.md",
+    "Events/Second War of the Gods.md",
+    "People/Groups/Religions/Aescarite Legions/Caduntian Legion/Caduntian Legion.md",
+    "People/Groups/Religions/Aescarite Civilian Worship/Order of Tranquil Waters.md",
+    "People/Groups/Religions/Celestial Worship/Seekers of Prophecy.md",
+    "People/Groups/Religions/Nether Worship/Shadowseekers.md",
+    "People/Groups/Religions/Celestial Worship/Vaelian Traders.md",
+    "People/Groups/Religions/Celestial Worship/Vaelinian Advocates.md",
+    "People/Groups/Religions/Nether Worship/Whisperers of Dreams.md",
+    "People/Groups/Jaerian Pantheon/Gods/Aescar Gods/Morana.md",
+    "People/Groups/Jaerian Pantheon/Gods/Aescar Gods/Selendra.md",
+    "People/Groups/Jaerian Pantheon/Gods/Celestial Gods/Vaelis.md",
+    "People/Groups/Religions/Nether Worship/Neldranthian Reflection.md",
+    "People/Groups/Jaerian Pantheon/Gods/Aescar Gods/Luminara.md",
+    "People/Groups/Religions/Aescarite Civilian Worship",
+    "People/Groups/Religions/Aescarite Legions",
+    "People/Groups/Religions/Nether Worship",
+    "People/Groups/Religions/Celestial Worship",
+    "People/Groups/Jaerian Pantheon/Groups of Gods/The Aescar Endless Conflict",
+    "People/Groups/Jaerian Pantheon/Groups of Gods/Second War of the Gods",
+    "People/Groups/Jaerian Pantheon/Gods/Celestial Gods",
+    "People/Groups/Jaerian Pantheon/Gods/Nether Gods",
+    "People/Groups/Jaerian Pantheon/Gods/Aescar Gods",
     "Images/sundown_citadel (2).png",
     "Images/Shanar.png",
     "Images/boblin the goblin.pdf",
-    "People/Groups/Religions/Groupings",
-    "People/Groups/Caduntian Legion",
-    "People/Groups/Sundown Citadel",
-    "People/Groups/Sundown Citadel/Duskborne",
-    "People/Groups/Shopkeeps",
-    "People/Groups/Sundown Citadel/Guardian Knights of the Sundown Citadel",
-    "Quests/Resources",
-    "Quests",
-    "People/Groups",
     "Untitled.canvas",
     "Untitled 1.canvas"
   ]
