@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Quests/A kenku wants you to participate in a chariot race..md",
+                "file": "People/Non Player Characters.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -100,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Quests/A kenku wants you to participate in a chariot race..md",
+                "file": "People/Non Player Characters.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Quests/A kenku wants you to participate in a chariot race..md",
+                "file": "People/Non Player Characters.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -152,7 +152,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Quests/A kenku wants you to participate in a chariot race..md"
+                "file": "People/Non Player Characters.md"
               }
             }
           },
@@ -200,11 +200,14 @@
       "fantasy-content-generator:Fantasy Generators": false
     }
   },
-  "active": "20994ecb45818125",
+  "active": "0f891f4967d714dd",
   "lastOpenFiles": [
     "Quests/A halfling needs help retreiving clothing inside an amulet..md",
-    "Quests/A goliath wants you to capture a construct..md",
     "Quests/A kenku wants you to participate in a chariot race..md",
+    "Quests/A vedalken needs help relocating a cursed relic to escape a scorned lover..md",
+    "Quests/A young adult wants you to participate in a magic show..md",
+    "Quests/A young man needs you to build a mansion.md",
+    "Quests/A goliath wants you to capture a construct..md",
     "People/Groups/Shopkeeps/Isolde Nightbloom.md",
     "People/Groups/Shopkeeps/Pip Willowbrook.md",
     "People/Groups/Shopkeeps/Thalwyn Starforge.md",
@@ -225,9 +228,6 @@
     "People/Groups/Religions/Rellivvra/The Curséd Folk.md",
     "People/Groups/Religions/Imlivil/The Red Wizards.md",
     "People/Groups/Religions/Groupings/Religions.md",
-    "People/Groups/Religions/Groupings/Cults.md",
-    "People/Groups/Religions/Aeloria/Society of Balanced Harmony.md",
-    "People/Groups/Jaerian Pantheon/Gods/Vaelis.md",
     "Images/sundown_citadel (2).png",
     "Images/Shanar.png",
     "Images/boblin the goblin.pdf",
