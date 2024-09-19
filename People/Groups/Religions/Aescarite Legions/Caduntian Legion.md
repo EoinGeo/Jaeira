@@ -39,6 +39,7 @@ You master fighting with two weapons, gaining the following benefits:
 A Caduntian cannot adventure alone, and to see a lone Caduntian is either a tragedy or a danger.  Upon the death of their battle brother /pair, a Caduntian is expected to return to their home school or to the nearest school and adopt a younger pair and teach them the ways.
 
 # The Hidden Schools
+
 Some Caduntians on rare occasions may be granted a special boon after years of service, and are deemed as the highest rank in their legions, earning the emblem of the god whomst chose them on their Left Pauldron which grants them not only a higher level of respect.
 
 

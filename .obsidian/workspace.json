@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "5a55a04fc56c61d7",
+        "id": "e29a6a424327de73",
         "type": "tabs",
         "children": [
           {
-            "id": "fc417559aae37832",
+            "id": "cad79a8621398771",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "People/Major Plot Characters/Aescar.md",
+                "file": "Events/Second War of the Gods.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -49,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "[\"aliases\"]",
+                "query": "TLDR",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -100,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "People/Major Plot Characters/Aescar.md",
+                "file": "Events/Second War of the Gods.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "People/Major Plot Characters/Aescar.md",
+                "file": "Events/Second War of the Gods.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -152,7 +152,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "People/Major Plot Characters/Aescar.md"
+                "file": "Events/Second War of the Gods.md"
               }
             }
           },
@@ -200,34 +200,35 @@
       "fantasy-content-generator:Fantasy Generators": false
     }
   },
-  "active": "fc417559aae37832",
+  "active": "cad79a8621398771",
   "lastOpenFiles": [
-    "People/Groups/Jaerian Pantheon/Groups of Gods/Second War of the Gods/Nether Enclave.md",
-    "Untitled.canvas",
+    "People/Groups/Sundown Citadel/Duskborne/Mirielle Nightshade.md",
+    "Locations/Sundown Citadel/Shadow's Respite Inn.md",
+    "People/Groups/Sundown Citadel/Duskborne/Isabella Nightshade.md",
+    "People/Groups/Sundown Citadel/Duskborne/Eleanor Duskborne.md",
+    "People/Major Plot Characters/Harkan Nightshade.md",
+    "People/Major Plot Characters/Aescar Duskborne.md",
+    "People/Groups/Sundown Citadel/Duskborne/Valerius Duskborne.md",
+    "People/Groups/Sundown Citadel/Duskborne/Lady Seraphina Duskborne.md",
+    "People/Groups/Sundown Citadel/Duskborne/Duskborne.md",
     "Locations/Sundown Citadel.md",
-    "People/Groups/Religions/Aescarite Legions/Caduntian Legion/Caduntian Legion.md",
-    "People/Groups/Jaerian Pantheon/Gods/Aescar Gods/Morana.md",
-    "items/Red Wizard Dagger.md",
-    "People/Groups/Religions/Aescarite Legions/Aescarite Legion.md",
-    "Quests/A young adult wants you to participate in a magic show..md",
-    "Quests/A vedalken needs help relocating a cursed relic to escape a scorned lover..md",
-    "Quests/A pack of familiars wants you to look into a temple..md",
-    "Quests/A kenku wants you to participate in a chariot race..md",
-    "Quests/A halfling needs help retreiving clothing inside an amulet..md",
-    "Quests/A goliath wants you to capture a construct..md",
-    "Quests/Resources/Construct.md",
-    "People/Non Player Characters.md",
-    "People/Boblin the Goblin.md",
-    "People/Major Plot Characters/Aescar.md",
-    "People/Groups/Jaerian Pantheon/Groups of Gods/The Aescar Endless Conflict/The Celestial Gods.md",
-    "Aescar Endless Conflict.md",
-    "People/Groups/Jaerian Pantheon/Gods/Nether Gods/Vorenthar.md",
-    "People/Groups/Jaerian Pantheon/Gods/Nether Gods/Rellivvra.md",
-    "People/Groups/Jaerian Pantheon/Gods/Nether Gods/Neldrath.md",
+    "People/Groups/Jaerian Pantheon/Gods/Celestial Gods/Imlivil.md",
+    "People/Groups/Jaerian Pantheon/Gods/Celestial Gods/Shanar.md",
+    "People/Groups/Jaerian Pantheon/Gods/Celestial Gods/Vaelina.md",
+    "People/Groups/Jaerian Pantheon/Gods/Celestial Gods/Malina.md",
+    "People/Groups/Jaerian Pantheon/Gods/Celestial Gods/Kaladran.md",
+    "People/Groups/Jaerian Pantheon/Gods/Celestial Gods/Celestia.md",
     "People/Groups/Jaerian Pantheon/Gods/Nether Gods/Lyssara.md",
-    "People/Groups/Jaerian Pantheon/Gods/Nether Gods/Kelthar.md",
-    "People/Groups/Jaerian Pantheon/Gods/Nether Gods/Faelindra.md",
-    "People/Groups/Jaerian Pantheon/Gods/Nether Gods/Drakaroth.md",
+    "Events/Second War of the Gods.md",
+    "People/Groups/Jaerian Pantheon/Groups of Gods/Jaerian Pantheon.md",
+    "5e Reference Data/Planes.md",
+    "People/Groups/Jaerian Pantheon/Groups of Gods/The Aescar Endless Conflict/The Nether Gods.md",
+    "People/Groups/Jaerian Pantheon/Groups of Gods/The Aescar Endless Conflict/The Aescar Gods.md",
+    "People/Groups/Religions/Aescarite Legions/Aescarite Legion.md",
+    "People/Groups/Religions/Aescarite Legions/Caduntian Legion.md",
+    "People/Groups/Religions/Aescarite Legions/Luminara Legion to be renamed.md",
+    "People/Groups/Religions/Aescarite Legions/Erevan Legion to be renamed.md",
+    "Untitled.canvas",
     "Images/sundown_citadel (2).png",
     "People/Major Plot Characters",
     "People/Groups/Religions/Aescarite Civilian Worship",

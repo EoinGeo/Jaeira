@@ -22,13 +22,6 @@
       }
     },
     {
-      "query": "tag:#Races",
-      "color": {
-        "a": 1,
-        "rgb": 11733390
-      }
-    },
-    {
       "query": "path:\"5e Reference Data\"",
       "color": {
         "a": 1,
@@ -40,27 +33,6 @@
       "color": {
         "a": 1,
         "rgb": 5431432
-      }
-    },
-    {
-      "query": "path:Locations",
-      "color": {
-        "a": 1,
-        "rgb": 9568475
-      }
-    },
-    {
-      "query": "tag:#Religions",
-      "color": {
-        "a": 1,
-        "rgb": 225676
-      }
-    },
-    {
-      "query": "tag:#Cult",
-      "color": {
-        "a": 1,
-        "rgb": 14701233
       }
     },
     {
@@ -78,10 +50,10 @@
       }
     },
     {
-      "query": "path:People",
+      "query": "path:People  ",
       "color": {
         "a": 1,
-        "rgb": 11014292
+        "rgb": 7667718
       }
     }
   ],
@@ -90,7 +62,7 @@
   "textFadeMultiplier": 0,
   "nodeSizeMultiplier": 1.41432291666667,
   "lineSizeMultiplier": 1.87369791666667,
-  "collapse-forces": false,
+  "collapse-forces": true,
   "centerStrength": 0.0078125,
   "repelStrength": 15.9895833333333,
   "linkStrength": 1,
