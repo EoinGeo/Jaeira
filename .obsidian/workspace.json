@@ -4,32 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "e29a6a424327de73",
+        "id": "e5fb3eb02bbd8e55",
         "type": "tabs",
         "children": [
           {
-            "id": "cad79a8621398771",
+            "id": "7a36a1d05294febe",
             "type": "leaf",
             "state": {
-              "type": "FANTASY_CALENDAR",
-              "state": {}
-            }
-          },
-          {
-            "id": "2e85aafd4fdba30a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "People/Groups/Jaerian Pantheon/Gods/Aescar Gods/Divrin.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
+                "file": "Images/sundown_citadel (2).png"
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -109,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "People/Groups/Jaerian Pantheon/Gods/Aescar Gods/Divrin.md",
+                "file": "Images/sundown_citadel (2).png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "People/Groups/Jaerian Pantheon/Gods/Aescar Gods/Divrin.md",
+                "file": "Images/sundown_citadel (2).png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -161,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "People/Groups/Jaerian Pantheon/Gods/Aescar Gods/Divrin.md"
+                "file": "Images/sundown_citadel (2).png"
               }
             }
           },
@@ -209,11 +197,23 @@
       "fantasy-content-generator:Fantasy Generators": false
     }
   },
-  "active": "2e85aafd4fdba30a",
+  "active": "7a36a1d05294febe",
   "lastOpenFiles": [
+    "Quests/Mirelle needs help retreiving a ring inside an amulet..md",
+    "People/Groups/Sundown Citadel/Shopkeeps/Selene Moonshadow.md",
+    "People/Groups/Sundown Citadel/Shopkeeps/Pip Willowbrook.md",
+    "People/Groups/Sundown Citadel/Shopkeeps/Isolde Nightbloom.md",
+    "People/Boblin the Goblin.md",
+    "People/Major Plot Characters/Aescar Duskborne.md",
+    "People/Groups/Religions/Groupings/Religions.md",
+    "People/Groups/Religions/Groupings/Cults.md",
+    "People/Groups/Jaerian Pantheon/Groups of Gods/Second War of the Gods/Nether Enclave.md",
+    "5e Reference Data/monsters/Shadow.md",
+    "People/Groups/Jaerian Pantheon/Groups of Gods/Jaerian Pantheon.md",
+    "Locations/Sundown Citadel.md",
+    "People/Groups/Jaerian Pantheon/Gods/Aescar Gods/Divrin.md",
     "People/Groups/Jaerian Pantheon/Groups of Gods/The Aescar Endless Conflict/The Aescar Gods.md",
     "People/Groups/Religions/Imlivil/The Red Wizards.md",
-    "People/Major Plot Characters/Aescar Duskborne.md",
     "People/Groups/Sundown Citadel/Duskborne/Mirielle Nightshade.md",
     "People/Groups/Religions/Nether Worship/Rellivvra/The Curséd Folk.md",
     "People/Groups/Religions/Nether Worship/Rellivvra/Curse of Rellivvra.md",
@@ -221,22 +221,10 @@
     "Locations/Goblina on the Sea.md",
     "People/Major Plot Characters/Harkan Nightshade.md",
     "People/Groups/Religions/Aescarite Legions/Caduntian Legion.md",
-    "People/Groups/Jaerian Pantheon/Groups of Gods/Second War of the Gods/Nether Enclave.md",
     "Events/Second War of the Gods.md",
     "Quests/An old man needs help traveling to a haunted cabin without any violence..md",
     "Quests/A young man needs you to build a mansion.md",
     "Quests/A young adult wants you to participate in a magic show..md",
-    "Quests/A vedalken needs help relocating a cursed relic to escape a scorned lover..md",
-    "Quests/A pack of familiars wants you to look into a temple..md",
-    "Quests/A kenku wants you to participate in a chariot race..md",
-    "Locations/Sundown Citadel/Shadow's Respite Inn.md",
-    "People/Groups/Sundown Citadel/Duskborne/Isabella Nightshade.md",
-    "People/Groups/Sundown Citadel/Duskborne/Eleanor Duskborne.md",
-    "People/Groups/Sundown Citadel/Duskborne/Valerius Duskborne.md",
-    "People/Groups/Sundown Citadel/Duskborne/Lady Seraphina Duskborne.md",
-    "People/Groups/Sundown Citadel/Duskborne/Duskborne.md",
-    "Locations/Sundown Citadel.md",
-    "People/Groups/Jaerian Pantheon/Gods/Celestial Gods/Imlivil.md",
     "Untitled.canvas",
     "Images/sundown_citadel (2).png",
     "People/Major Plot Characters",

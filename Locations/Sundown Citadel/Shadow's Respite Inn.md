@@ -26,5 +26,5 @@ Description: Shadow's Respite Inn has an air of mystery about it, with dimly lit
 
 Transport	[[An old man needs help traveling to a haunted cabin without any violence.	]]		
 Community Service	[[A young adult wants you to participate in a magic show.]]			
-Gathering	[[A halfling needs help retreiving clothing inside an amulet.	]]		
+Gathering	[[Mirelle needs help retreiving a ring inside an amulet.]]		
 
