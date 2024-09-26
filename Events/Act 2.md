@@ -1,0 +1,1 @@
+Act 2 will take place after the characters meet (re-meet?) [[Harkan Nightshade]]  and are cured of the [[Curse of Rellivvra]] in return for their service to the [[Aescar Infinite]] as [[Harkan Nightshade]]'s elite unit, liberating islands and retrieving godly artifacts.

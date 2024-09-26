@@ -1,0 +1,3 @@
+The prolouge takes place in the year **-1** ( i.e the year before [[The Foundation]]) where you meet [[Caduntian Legion]] brothers [[Aescar Duskborne]] and [[Harkan Nightshade]], two elite brothers who have agreed to take upon the suicide mission to gather the ingredients to cure the [[Curse of Rellivvra]], in order to save the children of the population of an early [[Sundown Citadel]] (at this point its little more than a large town with weak and damaged walls.) 
+
+The [[Children of the Eternal Flame]], a religious order of the flame god [[are holding the wall and key buildings in the city as the [[The Curséd Folk]] and [[Shadow]] of [[Vorenthar]] launch constant attacks on the city. The players have been recruited from adventurers 

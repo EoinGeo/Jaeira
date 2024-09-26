@@ -27,4 +27,4 @@ Kelthar's influence during the aftermath of the [[Second War of the Gods]] was f
 Kelthar's dual nature of creation and destruction, as well as his role in kindling the inner flames of ambition, make him an integral figure in the pantheon. He represents the eternal cycle of change and the potential for rebirth that fire symbolizes.
 
 **Influence during the [[Aescar Crusade]]**
-Despite the actions of [[Children of the Eternal Flame]] before [[The Foundation]] 
+Despite the actions of [[Children of the Eternal Flame]] before [[The Foundation]] and [[Aescar Crusade]] Kelthar himself doesn't actively influence the war, despite being branded a [[The Nether Gods| Nether God]] acts much more like a [[The Celestial Gods| Neutral God]], despite the claims of [[Harkan Nightshade]]

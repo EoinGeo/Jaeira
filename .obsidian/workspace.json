@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "People/Overarching Plot Characters/Jaerian Pantheon/Gods/Nether Gods/Kelthar.md",
+                "file": "Events/Prologue.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -100,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "People/Overarching Plot Characters/Jaerian Pantheon/Gods/Nether Gods/Kelthar.md",
+                "file": "Events/Prologue.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "People/Overarching Plot Characters/Jaerian Pantheon/Gods/Nether Gods/Kelthar.md",
+                "file": "Events/Prologue.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -152,7 +152,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "People/Overarching Plot Characters/Jaerian Pantheon/Gods/Nether Gods/Kelthar.md"
+                "file": "Events/Prologue.md"
               }
             }
           },
@@ -203,6 +203,13 @@
   "active": "79b139da8a56d0ec",
   "lastOpenFiles": [
     "People/Overarching Plot Characters/Religions/Nether Worship/Warrior Worshippers/Children of the Eternal Flame.md",
+    "Events/Prologue.md",
+    "Events/Act 2.md",
+    "Events/Act 1.md",
+    "Locations/Aescar Infinite/Cities~Towns/Sundown Citadel/People/Duskborne/Mirielle Nightshade.md",
+    "Events/Act 3.md",
+    "Events/Prolouge",
+    "People/Overarching Plot Characters/Jaerian Pantheon/Gods/Nether Gods/Kelthar.md",
     "People/Overarching Plot Characters/Religions/Nether Worship/Calindrana Sages.md",
     "People/Overarching Plot Characters/Religions/Nether Worship/Warrior Worshippers/Rellivvra/Curse of Rellivvra.md",
     "Locations/The Wilds/Goblina on the Sea/People/Toglikk.md",
@@ -212,7 +219,6 @@
     "People/Overarching Plot Characters/Religions/Nether Worship/Whisperers of Dreams.md",
     "People/Overarching Plot Characters/Jaerian Pantheon/Gods/Celestial Gods/Malina.md",
     "People/Overarching Plot Characters/Religions/Nether Worship/Warrior Worshippers/Rellivvra/The Curséd Folk.md",
-    "People/Overarching Plot Characters/Jaerian Pantheon/Gods/Nether Gods/Kelthar.md",
     "People/Overarching Plot Characters/Jaerian Pantheon/Gods/Nether Gods/Faelindra.md",
     "People/Overarching Plot Characters/Jaerian Pantheon/Gods/Nether Gods/Drakaroth.md",
     "People/Overarching Plot Characters/Jaerian Pantheon/Gods/Nether Gods/Calindra.md",
@@ -225,11 +231,6 @@
     "People/Overarching Plot Characters/Jaerian Pantheon/Gods/Celestial Gods/Celestia.md",
     "People/Overarching Plot Characters/Religions/Aescarite Legions/Aescarite Legion.md",
     "People/Overarching Plot Characters/Religions/Aescarite Legions/Divrin's Legion.md",
-    "People/Overarching Plot Characters/Religions/Aescarite Legions/Aeloria Legion To Be Renamed.md",
-    "People/Overarching Plot Characters/Religions/Celestial Worship/Seekers of Prophecy.md",
-    "People/Overarching Plot Characters/Religions/Celestial Worship/Vaelian Traders.md",
-    "People/Overarching Plot Characters/Religions/Celestial Worship/Vaelinian Advocates.md",
-    "Locations/The Wilds/Goblina on the Sea/Goblina on the Sea.md",
     "Locations/Aescar Infinite/Cities~Towns/Duilogford",
     "Locations/The Island Kingdom of TempName/Cities~Towns/TempCapitalName/People",
     "Locations/The Island Kingdom of TempName/Cities~Towns/TempCapitalName",
@@ -237,7 +238,6 @@
     "Locations/The Wilds/Goblina on the Sea/People",
     "Locations/The Wilds/Goblina on the Sea",
     "Locations/The Wilds",
-    "Locations/The Island Kingdom of TempName/Cities~Towns",
     "Images/sundown_citadel (2).png",
     "Untitled.canvas",
     "Images/Shanar.png",
