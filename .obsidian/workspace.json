@@ -11,9 +11,12 @@
             "id": "7a36a1d05294febe",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Images/sundown_citadel (2).png"
+                "file": "People/Groups/Jaerian Pantheon/Gods/Celestial Gods/Vaelis.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
               }
             }
           }
@@ -97,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Images/sundown_citadel (2).png",
+                "file": "People/Groups/Jaerian Pantheon/Gods/Celestial Gods/Vaelis.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Images/sundown_citadel (2).png",
+                "file": "People/Groups/Jaerian Pantheon/Gods/Celestial Gods/Vaelis.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -149,7 +152,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Images/sundown_citadel (2).png"
+                "file": "People/Groups/Jaerian Pantheon/Gods/Celestial Gods/Vaelis.md"
               }
             }
           },
@@ -199,6 +202,19 @@
   },
   "active": "7a36a1d05294febe",
   "lastOpenFiles": [
+    "People/Groups/Jaerian Pantheon/Gods/Celestial Gods/Vaelina.md",
+    "People/Groups/Jaerian Pantheon/Gods/Celestial Gods/Malina.md",
+    "People/Groups/Jaerian Pantheon/Gods/Celestial Gods/Kaladran.md",
+    "People/Groups/Jaerian Pantheon/Gods/Celestial Gods/Imlivil.md",
+    "People/Groups/Jaerian Pantheon/Gods/Celestial Gods/Celestia.md",
+    "People/Groups/Jaerian Pantheon/Gods/Nether Gods/Kelthar.md",
+    "People/Groups/Jaerian Pantheon/Gods/Nether Gods/Faelindra.md",
+    "People/Groups/Jaerian Pantheon/Gods/Nether Gods/Drakaroth.md",
+    "People/Groups/Jaerian Pantheon/Gods/Nether Gods/Calindra.md",
+    "People/Groups/Jaerian Pantheon/Gods/Celestial Gods/Vaelis.md",
+    "People/Groups/Jaerian Pantheon/Gods/Celestial Gods/Shanar.md",
+    "People/Groups/Jaerian Pantheon/Gods/Aescar Gods/Aeloria.md",
+    "Images/sundown_citadel (2).png",
     "Quests/Mirelle needs help retreiving a ring inside an amulet..md",
     "People/Groups/Sundown Citadel/Shopkeeps/Selene Moonshadow.md",
     "People/Groups/Sundown Citadel/Shopkeeps/Pip Willowbrook.md",
@@ -213,20 +229,7 @@
     "Locations/Sundown Citadel.md",
     "People/Groups/Jaerian Pantheon/Gods/Aescar Gods/Divrin.md",
     "People/Groups/Jaerian Pantheon/Groups of Gods/The Aescar Endless Conflict/The Aescar Gods.md",
-    "People/Groups/Religions/Imlivil/The Red Wizards.md",
-    "People/Groups/Sundown Citadel/Duskborne/Mirielle Nightshade.md",
-    "People/Groups/Religions/Nether Worship/Rellivvra/The Curséd Folk.md",
-    "People/Groups/Religions/Nether Worship/Rellivvra/Curse of Rellivvra.md",
-    "People/Groups/Jaerian Pantheon/Groups of Gods/Trio of War.md",
-    "Locations/Goblina on the Sea.md",
-    "People/Major Plot Characters/Harkan Nightshade.md",
-    "People/Groups/Religions/Aescarite Legions/Caduntian Legion.md",
-    "Events/Second War of the Gods.md",
-    "Quests/An old man needs help traveling to a haunted cabin without any violence..md",
-    "Quests/A young man needs you to build a mansion.md",
-    "Quests/A young adult wants you to participate in a magic show..md",
     "Untitled.canvas",
-    "Images/sundown_citadel (2).png",
     "People/Major Plot Characters",
     "People/Groups/Religions/Aescarite Civilian Worship",
     "People/Groups/Religions/Aescarite Legions",
