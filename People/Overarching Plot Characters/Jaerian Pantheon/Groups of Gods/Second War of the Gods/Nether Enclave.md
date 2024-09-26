@@ -1,4 +1,4 @@
-Certainly, let's delve deeper into the motives of the Nether Enclave and some of its key members in the context of the [[Second War of the Gods]].
+The Nether Enclave and some of its key members in the context of the [[Second War of the Gods]].
 
 **Motives of the Nether Enclave:**
 

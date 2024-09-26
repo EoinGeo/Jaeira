@@ -11,13 +11,8 @@
             "id": "79b139da8a56d0ec",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Events/Prologue.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -49,7 +44,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "jaeria",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -79,7 +74,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -100,7 +96,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Events/Prologue.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +112,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Events/Prologue.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -151,9 +145,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Events/Prologue.md"
-              }
+              "state": {}
             }
           },
           {
@@ -200,37 +192,37 @@
       "fantasy-content-generator:Fantasy Generators": false
     }
   },
-  "active": "79b139da8a56d0ec",
+  "active": "c49a41d55691c409",
   "lastOpenFiles": [
-    "People/Overarching Plot Characters/Religions/Nether Worship/Warrior Worshippers/Children of the Eternal Flame.md",
-    "Events/Prologue.md",
-    "Events/Act 2.md",
-    "Events/Act 1.md",
-    "Locations/Aescar Infinite/Cities~Towns/Sundown Citadel/People/Duskborne/Mirielle Nightshade.md",
-    "Events/Act 3.md",
-    "Events/Prolouge",
-    "People/Overarching Plot Characters/Jaerian Pantheon/Gods/Nether Gods/Kelthar.md",
-    "People/Overarching Plot Characters/Religions/Nether Worship/Calindrana Sages.md",
-    "People/Overarching Plot Characters/Religions/Nether Worship/Warrior Worshippers/Rellivvra/Curse of Rellivvra.md",
-    "Locations/The Wilds/Goblina on the Sea/People/Toglikk.md",
-    "People/Overarching Plot Characters/Religions/Nether Worship/Warrior Worshippers",
-    "People/Overarching Plot Characters/Religions/Nether Worship/Neldranthian Reflection.md",
-    "People/Overarching Plot Characters/Religions/Nether Worship/Shadowseekers.md",
-    "People/Overarching Plot Characters/Religions/Nether Worship/Whisperers of Dreams.md",
-    "People/Overarching Plot Characters/Jaerian Pantheon/Gods/Celestial Gods/Malina.md",
-    "People/Overarching Plot Characters/Religions/Nether Worship/Warrior Worshippers/Rellivvra/The Curséd Folk.md",
-    "People/Overarching Plot Characters/Jaerian Pantheon/Gods/Nether Gods/Faelindra.md",
-    "People/Overarching Plot Characters/Jaerian Pantheon/Gods/Nether Gods/Drakaroth.md",
-    "People/Overarching Plot Characters/Jaerian Pantheon/Gods/Nether Gods/Calindra.md",
-    "People/Overarching Plot Characters/Jaerian Pantheon/Groups of Gods/The Aescar Endless Conflict/The Aescar Gods.md",
-    "Events/World Events Pre-Campaign/The Foundation.md",
-    "Locations/The Island Kingdom of TempName/The Island Kingdom of TempName.md",
-    "Events/World Events Pre-Campaign",
-    "Locations/The Island Kingdom of TempName/Cities~Towns/TempCapitalName/TempCapitalName.md",
-    "Locations/The Island Kingdom of TempName/People/KingName.md",
-    "People/Overarching Plot Characters/Jaerian Pantheon/Gods/Celestial Gods/Celestia.md",
-    "People/Overarching Plot Characters/Religions/Aescarite Legions/Aescarite Legion.md",
+    "Locations/Aescar Infinite/Cities~Towns/Sundown Citadel/Locations/The Lost Way.md",
+    "Locations/Aescar Infinite/Cities~Towns/Sundown Citadel/Sidequests/A pack of familiars wants you to look into a temple..md",
     "People/Overarching Plot Characters/Religions/Aescarite Legions/Divrin's Legion.md",
+    "People/Overarching Plot Characters/Religions/Nether Worship/Warrior Worshippers/Children of the Eternal Flame.md",
+    "Locations/The Island Kingdom of TempName/People/KingName.md",
+    "People/Overarching Plot Characters/Religions/Aescarite Legions/Lorelei Legion to be renamed.md",
+    "People/Overarching Plot Characters/Religions/Aescarite Legions/Luminara Legion to be renamed.md",
+    "Locations/The Island Kingdom of TempName/Cities~Towns/TempCapitalName/TempCapitalName.md",
+    "People/Overarching Plot Characters/Jaerian Pantheon/Groups of Gods/The Aescar Endless Conflict/The Aescar Gods.md",
+    "People/Overarching Plot Characters/Jaerian Pantheon/Groups of Gods/The Aescar Endless Conflict/The Nether Gods.md",
+    "Events/World Events Pre-Campaign/Aescar's Crusade.md",
+    "Locations/Aescar Infinite/Aescar Infinite.md",
+    "People/Overarching Plot Characters/Aescar Duskborne.md",
+    "People/Overarching Plot Characters/Religions/Aescarite Legions/Aeloria Legion To Be Renamed.md",
+    "Locations/Aescar Infinite/Cities~Towns/Sundown Citadel/Sidequests/A young man needs you to build a mansion.md",
+    "Locations/Aescar Infinite/Cities~Towns/Sundown Citadel/Sidequests/A young adult wants you to participate in a magic show..md",
+    "Locations/Aescar Infinite/Cities~Towns/Sundown Citadel/Sidequests/A vedalken needs help relocating a cursed relic to escape a scorned lover..md",
+    "Events/Prologue.md",
+    "People/Overarching Plot Characters/Jaerian Pantheon/Groups of Gods/Second War of the Gods/Nether Enclave.md",
+    "Events/World Events Pre-Campaign/Second War of the Gods.md",
+    "Locations/Aescar Infinite/Cities~Towns/Sundown Citadel/Sundown Citadel.md",
+    "People/Overarching Plot Characters/Jaerian Pantheon/Groups of Gods/Second War of the Gods/Luminal Accord.md",
+    "items/The Sundering.md",
+    "People/Overarching Plot Characters/Jaerian Pantheon/Gods/Nether Gods/Vorenthar.md",
+    "Events/Act 3.md",
+    "Events/Act 1.md",
+    "Events/Prolouge",
+    "People/Overarching Plot Characters/Religions/Nether Worship/Warrior Worshippers",
+    "Events/World Events Pre-Campaign",
     "Locations/Aescar Infinite/Cities~Towns/Duilogford",
     "Locations/The Island Kingdom of TempName/Cities~Towns/TempCapitalName/People",
     "Locations/The Island Kingdom of TempName/Cities~Towns/TempCapitalName",

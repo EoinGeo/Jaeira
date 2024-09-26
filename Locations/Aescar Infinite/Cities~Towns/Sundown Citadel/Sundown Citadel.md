@@ -93,7 +93,6 @@ Owner - [[Aurora Stardust]]: Aurora, a [[half-elf]] with a bright disposition, i
 
 ## Taverns
 
-Certainly! Here are three taverns and their owners in the city, sorted by district:
 
 **Sunrise Ward:**
 

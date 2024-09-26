@@ -1,4 +1,4 @@
-Certainly, let's explore the motives and some key members of the Luminal Accord within the context of the [[Second War of the Gods]].
+The Luminal Accord within the context of the [[Second War of the Gods]].
 
 **Motives of the Luminal Accord:**
 

@@ -56,7 +56,6 @@ Ultimately, the Second War of the Gods concluded with a fragile truce rather tha
 The Second War of the Gods served as a reminder of the immense power the divine beings wielded and the profound impact their conflicts could have on the mortal realm. Mortals, having witnessed the devastation caused by the war, became more cautious in their dealings with the gods, striving to forge their own destinies amidst the chaos left in the wake of the conflict.
 
 **Deaths in the Second War of the Gods**
-Certainly, here's the updated list of gods and goddesses who met their fate in the Second War of the Gods, with the renamed deities:
 
 1. **[[Veridia]], the Goddess of Nature:**
    - Domain: Nature

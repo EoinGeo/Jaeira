@@ -1,5 +1,5 @@
 TLDR
-
+King of [[The Island Kingdom of TempName]], Residing in [[TempCapitalName]]
 King whos infamous for bringing his many husbands into the elected councils. Has a thing for intelligent/capable men, ending up that he just has a tonne of really experienced advice in each council from his scantily dressed advisors.
 
 

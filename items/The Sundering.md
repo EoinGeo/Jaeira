@@ -1,4 +1,4 @@
-Certainly! The Sundering is a powerful artifact that played a pivotal role in the [[Second War of the Gods]]. It possesses the ability to manipulate reality itself and was a significant catalyst for the conflict between the [[Luminal Accord]] and the [[Nether Enclave]].
+The Sundering is a powerful artifact that played a pivotal role in the [[Second War of the Gods]]. It possesses the ability to manipulate reality itself and was a significant catalyst for the conflict between the [[Luminal Accord]] and the [[Nether Enclave]].
 
 **Appearance:**
 The Sundering is an intricately crafted crystal of immense size, radiating a brilliant, multi-dimensional glow that shifts and changes colors as if reflecting the essence of the universe. Its surface is covered with intricate patterns resembling constellations and celestial phenomena, giving it an otherworldly and cosmic appearance. When held, the crystal emits a faint, harmonic hum that resonates with the very fabric of reality.
