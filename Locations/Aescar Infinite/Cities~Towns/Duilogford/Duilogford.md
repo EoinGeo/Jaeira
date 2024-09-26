@@ -1,0 +1,1 @@
+A city upon the [[River Duilogford]] that recieves travel from those heading further northbound to [[Sundown Citadel]] but faces constant raids from the Goblins to the south in the goblin territories {i.e [[Goblina on the Sea]]}

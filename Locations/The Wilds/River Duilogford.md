@@ -1,1 +1,1 @@
-A river that just a days travel out southwards from the mouth of the river is the [[The Island Kingdom of TempName]], a couple days northbound by foot you reach the city of [[Duil]]
+A river that just a days travel out southwards from the mouth of the river is the [[The Island Kingdom of TempName]], a couple days northbound by foot you reach the city of [[Duilogford]] a city in the [[Aescar Infinite]]

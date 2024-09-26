@@ -25,3 +25,6 @@ Kelthar is often depicted as a figure wreathed in flames, his form shifting and 
 Kelthar's influence during the aftermath of the [[Second War of the Gods]] was focused on aiding in the rebuilding process. He inspired the forging of new paths, helping both mortals and gods channel their passions into constructive endeavors.
 
 Kelthar's dual nature of creation and destruction, as well as his role in kindling the inner flames of ambition, make him an integral figure in the pantheon. He represents the eternal cycle of change and the potential for rebirth that fire symbolizes.
+
+**Influence during the [[Aescar Crusade]]**
+Despite the actions of [[Children of the Eternal Flame]] before [[The Foundation]] 
