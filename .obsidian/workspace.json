@@ -13,14 +13,28 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "People/Groups/Jaerian Pantheon/Gods/Celestial Gods/Vaelis.md",
+                "file": "Locations/The Island Kingdom of TempName/The Island Kingdom of TempName.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "98c2a41c0e854280",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Locations/The Wilds/River Duilogford.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -72,7 +86,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "People/Groups/Jaerian Pantheon/Groups of Gods/Second War of the Gods/Nether Enclave.md",
+                "file": "People/Overarching Plot Characters/Jaerian Pantheon/Groups of Gods/Second War of the Gods/Nether Enclave.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -100,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "People/Groups/Jaerian Pantheon/Gods/Celestial Gods/Vaelis.md",
+                "file": "Locations/The Wilds/River Duilogford.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "People/Groups/Jaerian Pantheon/Gods/Celestial Gods/Vaelis.md",
+                "file": "Locations/The Wilds/River Duilogford.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -152,7 +166,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "People/Groups/Jaerian Pantheon/Gods/Celestial Gods/Vaelis.md"
+                "file": "Locations/The Wilds/River Duilogford.md"
               }
             }
           },
@@ -200,46 +214,46 @@
       "fantasy-content-generator:Fantasy Generators": false
     }
   },
-  "active": "7a36a1d05294febe",
+  "active": "98c2a41c0e854280",
   "lastOpenFiles": [
-    "People/Groups/Jaerian Pantheon/Gods/Celestial Gods/Vaelina.md",
-    "People/Groups/Jaerian Pantheon/Gods/Celestial Gods/Malina.md",
-    "People/Groups/Jaerian Pantheon/Gods/Celestial Gods/Kaladran.md",
-    "People/Groups/Jaerian Pantheon/Gods/Celestial Gods/Imlivil.md",
-    "People/Groups/Jaerian Pantheon/Gods/Celestial Gods/Celestia.md",
-    "People/Groups/Jaerian Pantheon/Gods/Nether Gods/Kelthar.md",
-    "People/Groups/Jaerian Pantheon/Gods/Nether Gods/Faelindra.md",
-    "People/Groups/Jaerian Pantheon/Gods/Nether Gods/Drakaroth.md",
-    "People/Groups/Jaerian Pantheon/Gods/Nether Gods/Calindra.md",
-    "People/Groups/Jaerian Pantheon/Gods/Celestial Gods/Vaelis.md",
-    "People/Groups/Jaerian Pantheon/Gods/Celestial Gods/Shanar.md",
-    "People/Groups/Jaerian Pantheon/Gods/Aescar Gods/Aeloria.md",
+    "Locations/The Island Kingdom of TempName/The Island Kingdom of TempName.md",
+    "Locations/Locations.md",
+    "Locations/The Wilds/River Duilogford.md",
+    "Locations/The Wilds/Goblina on the Sea/Goblina on the Sea.md",
+    "Locations/Aescar Infinite/Cities~Towns/Sundown Citadel/Sundown Citadel.md",
+    "Locations/The Island Kingdom of TempName/Cities~Towns/TempCapitalName/People",
+    "Locations/The Island Kingdom of TempName/Cities~Towns/TempCapitalName",
+    "Locations/The Island Kingdom of TempName/People",
+    "Locations/The Wilds/Goblina on the Sea/People",
+    "Locations/The Wilds/Goblina on the Sea",
+    "Locations/The Wilds/Goblina on the Sea/People/Boblin the Goblin.md",
+    "Locations/The Wilds",
+    "Locations/The Island Kingdom of TempName/Cities~Towns",
+    "Locations/Aescar Infinite",
+    "Locations/The Island Kingdom of TempName",
+    "Locations/Aescar Infinite/Cities~Towns/Sundown Citadel/Sidequests/A goliath wants you to capture a construct..md",
+    "Locations/Aescar Infinite/Cities~Towns/Sundown Citadel/Locations/Alaric's repository.md",
+    "Locations/Aescar Infinite/Cities~Towns/Sundown Citadel/Sidequests",
+    "Untitled.md",
+    "Locations/Aescar Infinite/Aescar Infinite.md",
+    "People/Overarching Plot Characters/Jaerian Pantheon/Gods/Celestial Gods/Vaelis.md",
+    "People/Overarching Plot Characters/Jaerian Pantheon/Gods/Celestial Gods/Vaelina.md",
+    "People/Overarching Plot Characters/Jaerian Pantheon/Gods/Celestial Gods/Malina.md",
+    "People/Overarching Plot Characters/Jaerian Pantheon/Gods/Celestial Gods/Kaladran.md",
+    "People/Overarching Plot Characters/Jaerian Pantheon/Gods/Celestial Gods/Imlivil.md",
+    "People/Overarching Plot Characters/Jaerian Pantheon/Gods/Celestial Gods/Celestia.md",
+    "People/Overarching Plot Characters/Jaerian Pantheon/Gods/Nether Gods/Kelthar.md",
+    "People/Overarching Plot Characters/Jaerian Pantheon/Gods/Nether Gods/Faelindra.md",
+    "People/Overarching Plot Characters/Jaerian Pantheon/Gods/Nether Gods/Drakaroth.md",
+    "People/Overarching Plot Characters/Jaerian Pantheon/Gods/Nether Gods/Calindra.md",
+    "People/Overarching Plot Characters/Jaerian Pantheon/Gods/Celestial Gods/Shanar.md",
+    "People/Overarching Plot Characters/Jaerian Pantheon/Gods/Aescar Gods/Aeloria.md",
     "Images/sundown_citadel (2).png",
-    "Quests/Mirelle needs help retreiving a ring inside an amulet..md",
-    "People/Groups/Sundown Citadel/Shopkeeps/Selene Moonshadow.md",
-    "People/Groups/Sundown Citadel/Shopkeeps/Pip Willowbrook.md",
-    "People/Groups/Sundown Citadel/Shopkeeps/Isolde Nightbloom.md",
-    "People/Boblin the Goblin.md",
-    "People/Major Plot Characters/Aescar Duskborne.md",
-    "People/Groups/Religions/Groupings/Religions.md",
-    "People/Groups/Religions/Groupings/Cults.md",
-    "People/Groups/Jaerian Pantheon/Groups of Gods/Second War of the Gods/Nether Enclave.md",
-    "5e Reference Data/monsters/Shadow.md",
-    "People/Groups/Jaerian Pantheon/Groups of Gods/Jaerian Pantheon.md",
-    "Locations/Sundown Citadel.md",
-    "People/Groups/Jaerian Pantheon/Gods/Aescar Gods/Divrin.md",
-    "People/Groups/Jaerian Pantheon/Groups of Gods/The Aescar Endless Conflict/The Aescar Gods.md",
+    "Locations/Aescar Infinite/Cities~Towns/Sundown Citadel/Sidequests/Mirelle needs help retreiving a ring inside an amulet..md",
+    "Locations/Aescar Infinite/Cities~Towns/Sundown Citadel/People/Shopkeeps/Selene Moonshadow.md",
+    "Locations/Aescar Infinite/Cities~Towns/Sundown Citadel/People/Shopkeeps/Pip Willowbrook.md",
+    "Locations/Aescar Infinite/Cities~Towns/Sundown Citadel/People/Shopkeeps/Isolde Nightbloom.md",
     "Untitled.canvas",
-    "People/Major Plot Characters",
-    "People/Groups/Religions/Aescarite Civilian Worship",
-    "People/Groups/Religions/Aescarite Legions",
-    "People/Groups/Religions/Nether Worship",
-    "People/Groups/Religions/Celestial Worship",
-    "People/Groups/Jaerian Pantheon/Groups of Gods/The Aescar Endless Conflict",
-    "People/Groups/Jaerian Pantheon/Groups of Gods/Second War of the Gods",
-    "People/Groups/Jaerian Pantheon/Gods/Celestial Gods",
-    "People/Groups/Jaerian Pantheon/Gods/Nether Gods",
-    "People/Groups/Jaerian Pantheon/Gods/Aescar Gods",
     "Images/Shanar.png",
     "Untitled 1.canvas"
   ]
