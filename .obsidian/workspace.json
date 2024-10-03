@@ -11,13 +11,8 @@
             "id": "83fb485018f1e650",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Locations/Aescar Infinite/Cities~Towns/Sundown Citadel/Sundown Citadel.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -100,7 +95,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Locations/Aescar Infinite/Cities~Towns/Sundown Citadel/Sundown Citadel.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +111,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Locations/Aescar Infinite/Cities~Towns/Sundown Citadel/Sundown Citadel.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -151,9 +144,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Locations/Aescar Infinite/Cities~Towns/Sundown Citadel/Sundown Citadel.md"
-              }
+              "state": {}
             }
           },
           {
@@ -202,7 +193,16 @@
   },
   "active": "83fb485018f1e650",
   "lastOpenFiles": [
+    "People/Overarching Plot Characters/Harkan Nightshade.md",
+    "Events/Act 3.md",
+    "People/Overarching Plot Characters/Jaerian Pantheon/Gods/Celestial Gods/Celestia.md",
+    "Events/Prologue.md",
     "People/Overarching Plot Characters/Aescar Duskborne.md",
+    "Locations/Aescar Infinite/Cities~Towns/Sundown Citadel/People/Duskborne/Valerius Duskborne.md",
+    "Locations/Aescar Infinite/Cities~Towns/Sundown Citadel/People/Council of Elders of the Sundown Citadel.md",
+    "Locations/Aescar Infinite/Cities~Towns/Sundown Citadel/People/Guardian Knights of the Sundown Citadel/Guardian Knights of the Sundown Citadel.md",
+    "items/Sundown Clock.md",
+    "Locations/Aescar Infinite/Cities~Towns/Sundown Citadel/Sundown Citadel.md",
     "People/Overarching Plot Characters/Religions/Aescarite Legions/Caduntian Legion.md",
     "People/Overarching Plot Characters/Jaerian Pantheon/Groups of Gods/The Aescar Endless Conflict/The Aescar Gods.md",
     "People/Overarching Plot Characters/Religions/Aescarite Legions/Legion of Compassion.md",
@@ -219,15 +219,6 @@
     "Locations/The Wilds/Goblina on the Sea/Goblina on the Sea.md",
     "People/Overarching Plot Characters/Jaerian Pantheon/Groups of Gods/The Aescar Endless Conflict/The Nether Gods.md",
     "People/Overarching Plot Characters/Jaerian Pantheon/Groups of Gods/The Aescar Endless Conflict/The Celestial Gods.md",
-    "People/Overarching Plot Characters/Religions/Nether Worship/Warrior Worshippers/Children of the Eternal Flame.md",
-    "People/Overarching Plot Characters/Harkan Nightshade.md",
-    "Locations/The Island Kingdom of Jar Celestia/The Island Kingdom of Jar Celestia.md",
-    "Locations/The Island Kingdom of Jar Celestia/People/Karther Jarborn.md",
-    "People/Overarching Plot Characters/Religions/Nether Worship/Warrior Worshippers/Rellivvra/Curse of Rellivvra.md",
-    "People/Overarching Plot Characters/Religions/Nether Worship/Warrior Worshippers/Rellivvra/The Curséd Folk.md",
-    "People/Overarching Plot Characters/Religions/Nether Worship/Calindrana Sages.md",
-    "People/Overarching Plot Characters/Religions/Nether Worship/Neldranthian Reflection.md",
-    "People/Overarching Plot Characters/Religions/Nether Worship/Shadowseekers.md",
     "Events/Prolouge",
     "People/Overarching Plot Characters/Religions/Nether Worship/Warrior Worshippers",
     "Events/World Events Pre-Campaign",
