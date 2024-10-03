@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "68fe1c057f6b0ac2",
+        "id": "59ca74aaff6d1c7d",
         "type": "tabs",
         "children": [
           {
-            "id": "79b139da8a56d0ec",
+            "id": "83fb485018f1e650",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Locations/Aescar Infinite/Cities~Towns/Sundown Citadel/Sidequests/A young adult wants you to participate in a magic show..md",
+                "file": "Locations/Aescar Infinite/Aescar Infinite.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -79,8 +79,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -101,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Locations/Aescar Infinite/Cities~Towns/Sundown Citadel/Sidequests/A young adult wants you to participate in a magic show..md",
+                "file": "Locations/Aescar Infinite/Aescar Infinite.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Locations/Aescar Infinite/Cities~Towns/Sundown Citadel/Sidequests/A young adult wants you to participate in a magic show..md",
+                "file": "Locations/Aescar Infinite/Aescar Infinite.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -153,7 +152,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Locations/Aescar Infinite/Cities~Towns/Sundown Citadel/Sidequests/A young adult wants you to participate in a magic show..md"
+                "file": "Locations/Aescar Infinite/Aescar Infinite.md"
               }
             }
           },
@@ -201,41 +200,41 @@
       "fantasy-content-generator:Fantasy Generators": false
     }
   },
-  "active": "79b139da8a56d0ec",
+  "active": "83fb485018f1e650",
   "lastOpenFiles": [
+    "People/Overarching Plot Characters/Religions/Nether Worship/Warrior Worshippers/Rellivvra/Curse of Rellivvra.md",
+    "People/Overarching Plot Characters/Religions/Nether Worship/Warrior Worshippers/Rellivvra/The Curséd Folk.md",
+    "People/Overarching Plot Characters/Religions/Nether Worship/Warrior Worshippers/Children of the Eternal Flame.md",
+    "People/Overarching Plot Characters/Religions/Nether Worship/Calindrana Sages.md",
+    "People/Overarching Plot Characters/Religions/Nether Worship/Neldranthian Reflection.md",
+    "People/Overarching Plot Characters/Religions/Nether Worship/Shadowseekers.md",
+    "Aescar Crusade.md",
+    "Events/Prologue.md",
+    "People/Overarching Plot Characters/Aescar Duskborne.md",
+    "People/Overarching Plot Characters/Harkan Nightshade.md",
+    "People/Overarching Plot Characters/Jaerian Pantheon/Gods/Aescar Gods/Aeloria.md",
+    "People/Overarching Plot Characters/Jaerian Pantheon/Gods/Celestial Gods/Celestia.md",
+    "Locations/The Island Kingdom of Jar Celestia/The Island Kingdom of Jar Celestia.md",
+    "Locations/The Island Kingdom of Jar Celestia/People/Karther Jarborn.md",
+    "Locations/The Island Kingdom of Jar Celestia/Cities~Towns/Fahruns Keep/Fahrun's Keep.md",
+    "Locations/Aescar Infinite/Cities~Towns/Sundown Citadel/Sidequests/A young adult wants you to participate in a magic show..md",
     "Locations/Aescar Infinite/Cities~Towns/Sundown Citadel/Sidequests/A vedalken needs help relocating a cursed relic to escape a scorned lover..md",
     "Locations/Aescar Infinite/Cities~Towns/Sundown Citadel/Sidequests/A pack of familiars wants you to look into a temple..md",
     "Events/Act 2.md",
     "Locations/Aescar Infinite/Cities~Towns/Sundown Citadel/Locations/The Lost Way.md",
     "People/Overarching Plot Characters/Religions/Aescarite Legions/Divrin's Legion.md",
-    "People/Overarching Plot Characters/Religions/Nether Worship/Warrior Worshippers/Children of the Eternal Flame.md",
-    "Locations/The Island Kingdom of TempName/People/KingName.md",
     "People/Overarching Plot Characters/Religions/Aescarite Legions/Lorelei Legion to be renamed.md",
     "People/Overarching Plot Characters/Religions/Aescarite Legions/Luminara Legion to be renamed.md",
-    "Locations/The Island Kingdom of TempName/Cities~Towns/TempCapitalName/TempCapitalName.md",
     "People/Overarching Plot Characters/Jaerian Pantheon/Groups of Gods/The Aescar Endless Conflict/The Aescar Gods.md",
     "People/Overarching Plot Characters/Jaerian Pantheon/Groups of Gods/The Aescar Endless Conflict/The Nether Gods.md",
     "Events/World Events Pre-Campaign/Aescar's Crusade.md",
-    "Locations/Aescar Infinite/Aescar Infinite.md",
-    "People/Overarching Plot Characters/Aescar Duskborne.md",
-    "People/Overarching Plot Characters/Religions/Aescarite Legions/Aeloria Legion To Be Renamed.md",
-    "Locations/Aescar Infinite/Cities~Towns/Sundown Citadel/Sidequests/A young man needs you to build a mansion.md",
-    "Locations/Aescar Infinite/Cities~Towns/Sundown Citadel/Sidequests/A young adult wants you to participate in a magic show..md",
-    "Events/Prologue.md",
-    "People/Overarching Plot Characters/Jaerian Pantheon/Groups of Gods/Second War of the Gods/Nether Enclave.md",
-    "Events/World Events Pre-Campaign/Second War of the Gods.md",
-    "Locations/Aescar Infinite/Cities~Towns/Sundown Citadel/Sundown Citadel.md",
-    "People/Overarching Plot Characters/Jaerian Pantheon/Groups of Gods/Second War of the Gods/Luminal Accord.md",
-    "items/The Sundering.md",
-    "People/Overarching Plot Characters/Jaerian Pantheon/Gods/Nether Gods/Vorenthar.md",
-    "Events/Act 3.md",
     "Events/Prolouge",
     "People/Overarching Plot Characters/Religions/Nether Worship/Warrior Worshippers",
     "Events/World Events Pre-Campaign",
     "Locations/Aescar Infinite/Cities~Towns/Duilogford",
-    "Locations/The Island Kingdom of TempName/Cities~Towns/TempCapitalName/People",
-    "Locations/The Island Kingdom of TempName/Cities~Towns/TempCapitalName",
-    "Locations/The Island Kingdom of TempName/People",
+    "Locations/The Island Kingdom of Jar Celestia/Cities~Towns/Fahruns Keep/People",
+    "Locations/The Island Kingdom of Jar Celestia/Cities~Towns/Fahruns Keep",
+    "Locations/The Island Kingdom of Jar Celestia/People",
     "Locations/The Wilds/Goblina on the Sea/People",
     "Locations/The Wilds/Goblina on the Sea",
     "Locations/The Wilds",

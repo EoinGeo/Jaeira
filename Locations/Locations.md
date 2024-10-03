@@ -1,7 +1,7 @@
 Act 1
 
 - [[Goblina on the Sea]]
-- [[The Island Kingdom of TempName]]
+- [[The Island Kingdom of Jar Celestia]]
 - [[River Duilogford]]
 - [[Sundown Citadel]]
 
