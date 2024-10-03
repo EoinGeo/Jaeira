@@ -11,8 +11,13 @@
             "id": "79b139da8a56d0ec",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Events/Act 2.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
             }
           }
         ]
@@ -96,6 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Events/Act 2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,6 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Events/Act 2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -145,7 +152,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Events/Act 2.md"
+              }
             }
           },
           {
@@ -192,7 +201,7 @@
       "fantasy-content-generator:Fantasy Generators": false
     }
   },
-  "active": "c49a41d55691c409",
+  "active": "79b139da8a56d0ec",
   "lastOpenFiles": [
     "Locations/Aescar Infinite/Cities~Towns/Sundown Citadel/Locations/The Lost Way.md",
     "Locations/Aescar Infinite/Cities~Towns/Sundown Citadel/Sidequests/A pack of familiars wants you to look into a temple..md",
