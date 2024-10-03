@@ -1,2 +1,5 @@
-TLDR 
-[[Aescar Duskborne]] began a war after pleading with the twin gods to allow him to deal with those still loyal to [[Vorenthar]]
+**[[Aescar Duskborne]]** initiated **Aescar's Crusade** following a fervent appeal to the twin gods, **[[Selendra]]** and **[[Morana]]**, seeking their blessing and guidance in his mission to eradicate the remaining loyalists to **[[Vorenthar]]**, the God of Shadows. This war, fueled by his unyielding sense of justice and vengeance, aims to cleanse the realm of the taint left by the **Nether Gods** and their followers.
+
+Driven by a desire to protect the innocent and restore balance, Aescar rallied the **[[Caduntian Legion]]** and allied himself with other deities who shared his vision. Despite being branded a hero by some and a zealot by others, Aescar remains unwavering in his commitment to purging the darkness and ensuring that the atrocities of the past do not repeat themselves.
+
+**Aescar's Crusade** is characterized by fierce battles, strategic maneuvers against the forces of the **Nether Gods**, and an unyielding resolve to forge a new era of light and justice. As Aescar leads this relentless pursuit, he becomes a symbol of hope for some and a target of hatred for those who refuse to renounce their allegiance to [[Vorenthar]] and the darkness he represents.

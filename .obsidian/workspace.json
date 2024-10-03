@@ -4,15 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "59ca74aaff6d1c7d",
+        "id": "659ea75294db2e36",
         "type": "tabs",
         "children": [
           {
-            "id": "83fb485018f1e650",
+            "id": "a893d2173a5cb82a",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "People/Overarching Plot Characters/Religions/Nether Worship/Warrior Worshippers/Children of the Eternal Flame.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
             }
           }
         ]
@@ -74,7 +79,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -95,6 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "People/Overarching Plot Characters/Religions/Nether Worship/Warrior Worshippers/Children of the Eternal Flame.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,6 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "People/Overarching Plot Characters/Religions/Nether Worship/Warrior Worshippers/Children of the Eternal Flame.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -144,7 +152,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "People/Overarching Plot Characters/Religions/Nether Worship/Warrior Worshippers/Children of the Eternal Flame.md"
+              }
             }
           },
           {
@@ -191,34 +201,34 @@
       "fantasy-content-generator:Fantasy Generators": false
     }
   },
-  "active": "83fb485018f1e650",
+  "active": "a893d2173a5cb82a",
   "lastOpenFiles": [
+    "Locations/Aescar Infinite/Cities~Towns/Sundown Citadel/Sidequests/A vedalken needs help relocating a cursed relic to escape a scorned lover..md",
+    "Locations/Aescar Infinite/Cities~Towns/Sundown Citadel/Sidequests/A pack of familiars wants you to look into a temple..md",
+    "People/Overarching Plot Characters/Religions/Aescarite Legions/Divrin's Legion.md",
+    "People/Overarching Plot Characters/Religions/Nether Worship/Warrior Worshippers/Children of the Eternal Flame.md",
+    "Events/World Events Pre-Campaign/Aescar's Crusade.md",
+    "People/Overarching Plot Characters/Aescar Duskborne.md",
+    "People/Overarching Plot Characters/Jaerian Pantheon/Gods/Nether Gods/Calindra.md",
+    "People/Overarching Plot Characters/Jaerian Pantheon/Groups of Gods/The Aescar Endless Conflict/The Celestial Gods.md",
+    "People/Overarching Plot Characters/Jaerian Pantheon/Groups of Gods/The Aescar Endless Conflict/The Nether Gods.md",
+    "People/Overarching Plot Characters/Jaerian Pantheon/Groups of Gods/Jaerian Pantheon.md",
+    "People/Overarching Plot Characters/Jaerian Pantheon/Groups of Gods/Trio of War.md",
+    "Locations/Aescar Infinite/Cities~Towns/Sundown Citadel/Sundown Citadel.md",
+    "People/Overarching Plot Characters/Jaerian Pantheon/Gods/Celestial Gods/Imlivil.md",
+    "People/Overarching Plot Characters/Jaerian Pantheon/Groups of Gods/Second War of the Gods/Nether Enclave.md",
+    "People/Overarching Plot Characters/Jaerian Pantheon/Gods/Nether Gods/Kelthar.md",
     "People/Overarching Plot Characters/Harkan Nightshade.md",
     "Events/Act 3.md",
     "People/Overarching Plot Characters/Jaerian Pantheon/Gods/Celestial Gods/Celestia.md",
     "Events/Prologue.md",
-    "People/Overarching Plot Characters/Aescar Duskborne.md",
     "Locations/Aescar Infinite/Cities~Towns/Sundown Citadel/People/Duskborne/Valerius Duskborne.md",
     "Locations/Aescar Infinite/Cities~Towns/Sundown Citadel/People/Council of Elders of the Sundown Citadel.md",
     "Locations/Aescar Infinite/Cities~Towns/Sundown Citadel/People/Guardian Knights of the Sundown Citadel/Guardian Knights of the Sundown Citadel.md",
     "items/Sundown Clock.md",
-    "Locations/Aescar Infinite/Cities~Towns/Sundown Citadel/Sundown Citadel.md",
     "People/Overarching Plot Characters/Religions/Aescarite Legions/Caduntian Legion.md",
     "People/Overarching Plot Characters/Jaerian Pantheon/Groups of Gods/The Aescar Endless Conflict/The Aescar Gods.md",
     "People/Overarching Plot Characters/Religions/Aescarite Legions/Legion of Compassion.md",
-    "People/Overarching Plot Characters/Religions/Aescarite Legions/Divrin's Legion.md",
-    "People/Overarching Plot Characters/Religions/Aescarite Legions/Legion of Arts.md",
-    "People/Overarching Plot Characters/Religions/Aescarite Legions/Legion of Explorers.md",
-    "People/Overarching Plot Characters/Religions/Aescarite Legions/Legion of Knowledge.md",
-    "People/Overarching Plot Characters/Religions/Aescarite Legions/Legion of Harmony.md",
-    "People/Overarching Plot Characters/Religions/Aescarite Legions/Legion of Radiance.md",
-    "People/Overarching Plot Characters/Religions/Aescarite Legions/Aescarite Legion.md",
-    "Locations/Aescar Infinite/Aescar Infinite.md",
-    "Events/Act 2.md",
-    "Events/Act 1.md",
-    "Locations/The Wilds/Goblina on the Sea/Goblina on the Sea.md",
-    "People/Overarching Plot Characters/Jaerian Pantheon/Groups of Gods/The Aescar Endless Conflict/The Nether Gods.md",
-    "People/Overarching Plot Characters/Jaerian Pantheon/Groups of Gods/The Aescar Endless Conflict/The Celestial Gods.md",
     "Events/Prolouge",
     "People/Overarching Plot Characters/Religions/Nether Worship/Warrior Worshippers",
     "Events/World Events Pre-Campaign",
