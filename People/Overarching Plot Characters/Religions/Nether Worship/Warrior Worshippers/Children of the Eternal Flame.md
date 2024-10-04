@@ -3,7 +3,7 @@
 ---
 
 **Overview:**
-The **Children of the Eternal Flame** are a fanatical cult dedicated to **[[Kelthar]]**, the God of Fire, who have corrupted his teachings on transformation and purification. Once protectors of the **[[Sundown Citadel]]**, their zealotry has turned them into the primary antagonists in the **Prologue** and **Act 2** of the story.
+The **Children of the Eternal Flame** are a fanatical cult dedicated to **[[Kelthar]]**, the God of Fire, who have corrupted his teachings on transformation and purification. Once protectors of the **[[Sundown Citadel]]**, their zealotry has turned them into the primary antagonists in the **[[Prologue]]** and **[[Act 2]]** of the story.
 
 ---
 
@@ -15,32 +15,32 @@ The **Children of the Eternal Flame** are a fanatical cult dedicated to **[[Kelt
 ---
 
 **Rituals and Practices:**
-- **Fire Dances:** Ceremonial dances around bonfires invoke Kelthar's presence and blessings, often becoming frenzied displays.
+- **Fire Dances:** Ceremonial dances around bonfires invoke [[Kelthar]]'s presence and blessings, often becoming frenzied displays.
 - **Fire-Walking Ceremonies:** Initiates walk across hot coals as a rite of passage, earning special status within the cult.
 - **Cleansing Fires:** They burn effigies or items representing societal impurities, culminating in horrific acts against children.
 
 ---
 
 **Leadership:**
-- Led by the **Flame Prophet**, who claims to be Kelthar's chosen voice, responsible for guiding the cult's actions and interpreting divine will.
+- Led by the **Flame Prophet**, who claims to be [[Kelthar]]'s chosen voice, responsible for guiding the cult's actions and interpreting divine will.
 
 ---
 
 **Goals:**
-- **Elimination of the Cursed:** To rid the **Sundown Citadel** of all **Curséd Folk** and establish a new societal order guided by their beliefs.
+- **Elimination of the Cursed:** To rid the **[[Sundown Citadel]]** of all **Curséd Folk** and establish a new societal order guided by their beliefs.
 - **Expansion of Influence:** They seek power within the citadel, manipulating fear to recruit followers.
 
 ---
 
 **Conflict in the Narrative:**
-In the **Prologue**, their heinous acts against children lead to confrontations with **Aescar Duskborne** and his allies, setting the stage for ongoing conflict in **Act 2**. They embody the dangers of misinterpreted faith and unchecked zealotry.
+In the **[[Prologue]]**, their heinous acts against children lead to confrontations with **[[Aescar Duskborne]]** and his allies, setting the stage for ongoing conflict in **[[Act 2]]**. They embody the dangers of misinterpreted faith and unchecked zealotry.
 
 ---
 
 ### **Combat Strategies and Tactics**
 
 1. **Zealot Fury:** 
-   - Fanatical charges and increased damage from their fervent belief in Kelthar.
+   - Fanatical charges and increased damage from their fervent belief in [[Kelthar]].
   
 2. **Fire-Based Combat:** 
    - Use of flame spells like _Firebolt_ and traps to control the battlefield.
@@ -55,7 +55,7 @@ In the **Prologue**, their heinous acts against children lead to confrontations 
    - Leverage their brutality to instill fear and create illusions to confuse enemies.
 
 6. **Utilization of Fire-Elementals:** 
-   - Summoning fire elementals and gaining insights from Kelthar’s spirit to counteract opponents.
+   - Summoning fire elementals and gaining insights from [[Kelthar]]’s spirit to counteract opponents.
 
 7. **Exploiting Terrain:** 
    - Manipulating the battlefield with fire to create barriers and ambush opportunities.
@@ -63,4 +63,4 @@ In the **Prologue**, their heinous acts against children lead to confrontations 
 ---
 
 ### **Conclusion**
-The **Children of the Eternal Flame** represent the extreme consequences of fanaticism, utilizing aggressive fire-based tactics and psychological manipulation in combat. Their zeal for **Kelthar** drives their violence against the **Aescar Legions**, setting the stage for dramatic conflicts against **Aescar Duskborne** and his allies.
+The **Children of the Eternal Flame** represent the extreme consequences of fanaticism, utilizing aggressive fire-based tactics and psychological manipulation in combat. Their zeal for **[[Kelthar]]** drives their violence against the **[[Aescarite Legion]]**, setting the stage for dramatic conflicts against **[[Aescar Duskborne]]** and his allies.
