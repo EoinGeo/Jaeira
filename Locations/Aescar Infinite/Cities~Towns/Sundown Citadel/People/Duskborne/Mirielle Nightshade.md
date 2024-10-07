@@ -2,7 +2,7 @@
 **Age:** 35  
 **Race:** [[Elf]]  
 **Occupation:** Owner of [[Shadow's Respite Inn]]  
-**Important:** Is the retired god [[Shanar]] 
+### **Important:** Is the retired god [[Shanar]] 
 
 **Appearance:** Mirielle possesses an air of elegance that is typical of her elven heritage. She has long, dark hair that cascades in waves down her back and piercing green eyes that seem to hold secrets of their own. Her features are delicate, and her aura exudes a mix of mystery and quiet strength. Mirielle's attire often includes dark, flowing clothing that reflects the enigmatic nature of her establishment.
 

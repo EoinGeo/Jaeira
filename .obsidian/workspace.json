@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "People/Overarching Plot Characters/Religions/Aescarite Legions/Legion of Radiance.md",
+                "file": "Locations/Aescar Infinite/Cities~Towns/Sundown Citadel/Locations/Shadow's Respite Inn.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -79,8 +79,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -101,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "People/Overarching Plot Characters/Religions/Aescarite Legions/Legion of Radiance.md",
+                "file": "Locations/Aescar Infinite/Cities~Towns/Sundown Citadel/Locations/Shadow's Respite Inn.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "People/Overarching Plot Characters/Religions/Aescarite Legions/Legion of Radiance.md",
+                "file": "Locations/Aescar Infinite/Cities~Towns/Sundown Citadel/Locations/Shadow's Respite Inn.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -153,7 +152,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "People/Overarching Plot Characters/Religions/Aescarite Legions/Legion of Radiance.md"
+                "file": "Locations/Aescar Infinite/Cities~Towns/Sundown Citadel/Locations/Shadow's Respite Inn.md"
               }
             }
           },
@@ -203,10 +202,15 @@
   },
   "active": "0178341facdf5416",
   "lastOpenFiles": [
+    "Locations/Aescar Infinite/Cities~Towns/Sundown Citadel/People/Duskborne/Mirielle Nightshade.md",
+    "Locations/Aescar Infinite/Cities~Towns/Sundown Citadel/People/Duskborne/Isabella Nightshade.md",
+    "Locations/Aescar Infinite/Cities~Towns/Sundown Citadel/People/Duskborne/Eleanor Duskborne.md",
+    "Locations/Aescar Infinite/Cities~Towns/Sundown Citadel/People/Shopkeeps/Selene Moonshadow.md",
+    "Locations/The Island Kingdom of Jar Celestia/People/Karther Jarborn.md",
+    "People/Overarching Plot Characters/Religions/Aescarite Legions/Legion of Radiance.md",
     "People/Overarching Plot Characters/Religions/Aescarite Legions/Legion of Knowledge.md",
     "People/Overarching Plot Characters/Religions/Aescarite Legions/Legion of Compassion.md",
     "People/Overarching Plot Characters/Religions/Aescarite Legions/Legion of Arts.md",
-    "Locations/The Island Kingdom of Jar Celestia/People/Karther Jarborn.md",
     "Locations/The Island Kingdom of Jar Celestia/Cities~Towns/Fahruns Keep/Fahrun's Keep.md",
     "People/Overarching Plot Characters/Religions/Aescarite Legions/Divrin's Legion.md",
     "Locations/Aescar Infinite/Cities~Towns/Sundown Citadel/Sidequests/An old man needs help traveling to a haunted cabin without any violence..md",
@@ -234,13 +238,8 @@
     "Events/Arcs",
     "Locations/Aescar Infinite/Cities~Towns/Sundown Citadel/Sidequests/A kenku wants you to participate in a chariot race..md",
     "Locations/Aescar Infinite/Cities~Towns/Sundown Citadel/Sidequests/A goliath wants you to capture a construct..md",
-    "Events/World Events Pre-Campaign/Second War of the Gods.md",
-    "People/Overarching Plot Characters/Jaerian Pantheon/Groups of Gods/Second War of the Gods/Nether Enclave.md",
-    "Events/World Events Pre-Campaign/The Foundation.md",
-    "Events/World Events Pre-Campaign/Aescar's Crusade.md",
     "Untitled 1.canvas",
     "Untitled.canvas",
-    "People/Overarching Plot Characters/Religions/Aescarite Legions/Legion of Explorers.md",
     "Images/sundown_citadel (2).png",
     "Images/Shanar.png"
   ]

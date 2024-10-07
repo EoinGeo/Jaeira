@@ -5,7 +5,7 @@
   "showAttachments": true,
   "hideUnresolved": true,
   "showOrphans": true,
-  "collapse-color-groups": true,
+  "collapse-color-groups": false,
   "colorGroups": [
     {
       "query": "path:\"5e Reference Data/monsters\"",
@@ -74,6 +74,6 @@
   "repelStrength": 20,
   "linkStrength": 0.596354166666667,
   "linkDistance": 264,
-  "scale": 0.11660891579457434,
+  "scale": 0.05932617187500074,
   "close": false
 }

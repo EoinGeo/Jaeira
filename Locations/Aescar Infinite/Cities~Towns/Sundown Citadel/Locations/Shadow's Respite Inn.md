@@ -24,7 +24,7 @@ Description: Shadow's Respite Inn has an air of mystery about it, with dimly lit
 
 ## Quests
 
-Transport	[[An old man needs help traveling to a haunted cabin without any violence.	]]		
+Transport	[[An old man needs help traveling to a haunted cabin without any violence.	]]
 Community Service	[[A young adult wants you to participate in a magic show.]]			
 Gathering	[[Mirelle needs help retreiving a ring inside an amulet.]]		
 
