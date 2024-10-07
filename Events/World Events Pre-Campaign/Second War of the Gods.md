@@ -1,4 +1,4 @@
-#Gods 
+
 
 The Second War of the Gods was a cataclysmic event that shaped the fate of the entire universe. It occurred centuries after the First War of the Gods, a conflict that saw the downfall of the ancient pantheon and the rise of new deities.
 

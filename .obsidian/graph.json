@@ -1,11 +1,11 @@
 {
-  "collapse-filter": false,
+  "collapse-filter": true,
   "search": "",
   "showTags": false,
   "showAttachments": true,
   "hideUnresolved": true,
   "showOrphans": true,
-  "collapse-color-groups": false,
+  "collapse-color-groups": true,
   "colorGroups": [
     {
       "query": "path:\"5e Reference Data/monsters\"",
@@ -22,24 +22,10 @@
       }
     },
     {
-      "query": "path:\"5e Reference Data\"",
-      "color": {
-        "a": 1,
-        "rgb": 11841032
-      }
-    },
-    {
       "query": "path:items",
       "color": {
         "a": 1,
         "rgb": 5431432
-      }
-    },
-    {
-      "query": "path:\"People/Groups/Jaerian Pantheon\"",
-      "color": {
-        "a": 1,
-        "rgb": 1064344
       }
     },
     {
@@ -55,18 +41,39 @@
         "a": 1,
         "rgb": 7667718
       }
+    },
+    {
+      "query": "path:Events  ",
+      "color": {
+        "a": 1,
+        "rgb": 11621088
+      }
+    },
+    {
+      "query": "tag:#Quest  ",
+      "color": {
+        "a": 1,
+        "rgb": 64511
+      }
+    },
+    {
+      "query": "path:Locations  ",
+      "color": {
+        "a": 1,
+        "rgb": 16514816
+      }
     }
   ],
-  "collapse-display": false,
+  "collapse-display": true,
   "showArrow": false,
   "textFadeMultiplier": -3,
   "nodeSizeMultiplier": 2.00130208333333,
   "lineSizeMultiplier": 0.623177083333333,
-  "collapse-forces": false,
-  "centerStrength": 0,
+  "collapse-forces": true,
+  "centerStrength": 0.0911458333333333,
   "repelStrength": 20,
-  "linkStrength": 0.434895833333333,
-  "linkDistance": 30,
-  "scale": 0.03018289506732444,
+  "linkStrength": 0.596354166666667,
+  "linkDistance": 264,
+  "scale": 0.04231590268975957,
   "close": false
 }

@@ -4,14 +4,14 @@
     "type": "split",
     "children": [
       {
-        "id": "fb7a99c50d762a3c",
+        "id": "000c6340e6b8f273",
         "type": "tabs",
         "children": [
           {
-            "id": "7be85a23398a639c",
+            "id": "0178341facdf5416",
             "type": "leaf",
             "state": {
-              "type": "empty",
+              "type": "graph",
               "state": {}
             }
           }
@@ -156,7 +156,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 5
       },
       {
         "id": "15b1bdebc5e0caeb",
@@ -191,45 +191,46 @@
       "fantasy-content-generator:Fantasy Generators": false
     }
   },
-  "active": "0f891f4967d714dd",
+  "active": "0178341facdf5416",
   "lastOpenFiles": [
+    "Locations/The Island Kingdom of Jar Celestia/People/Karther Jarborn.md",
+    "Locations/The Island Kingdom of Jar Celestia/The Island Kingdom of Jar Celestia.md",
+    "Events/Arcs/Act 3.md",
+    "Locations/Aescar Infinite/Cities~Towns/Sundown Citadel/Sundown Citadel.md",
+    "People/Overarching Plot Characters/Jaerian Pantheon/Gods/Aescar Gods/Selendra.md",
+    "People/Overarching Plot Characters/Religions/Aescarite Legions/Caduntian Legion.md",
+    "Events/World Events Pre-Campaign/Prologue.md",
+    "Events/Arcs/Act 1.md",
+    "People/Player Characters/Act 3",
+    "People/Player Characters/Act 2",
+    "People/Player Characters/Act 1",
+    "People/Player Characters/Prologue",
+    "People/Player Characters",
+    "Events/Sessions (Act 3)",
+    "Events/Sessions (Act 2)",
+    "Events/Sessions (Act 1)",
+    "Events/Sessions (Prologue)",
+    "Events/Arcs",
+    "Locations/Aescar Infinite/Cities~Towns/Sundown Citadel/Sidequests/An old man needs help traveling to a haunted cabin without any violence..md",
+    "Locations/Aescar Infinite/Cities~Towns/Sundown Citadel/Sidequests/A young man needs you to build a mansion.md",
+    "Locations/Aescar Infinite/Cities~Towns/Sundown Citadel/Sidequests/A pack of familiars wants you to look into a temple..md",
+    "Locations/Aescar Infinite/Cities~Towns/Sundown Citadel/Sidequests/A kenku wants you to participate in a chariot race..md",
+    "Locations/Aescar Infinite/Cities~Towns/Sundown Citadel/Sidequests/A goliath wants you to capture a construct..md",
+    "Events/World Events Pre-Campaign/Second War of the Gods.md",
+    "People/Overarching Plot Characters/Jaerian Pantheon/Groups of Gods/Second War of the Gods/Nether Enclave.md",
+    "Events/World Events Pre-Campaign/The Foundation.md",
+    "Events/World Events Pre-Campaign/Aescar's Crusade.md",
     "Untitled 1.canvas",
     "Untitled.canvas",
-    "Events/Act 3.md",
     "Locations/The Island Kingdom of Jar Celestia/Cities~Towns/Fahruns Keep/Fahrun's Keep.md",
-    "Locations/The Island Kingdom of Jar Celestia/People/Karther Jarborn.md",
     "People/Overarching Plot Characters/Religions/Aescarite Legions/Legion of Arts.md",
     "People/Overarching Plot Characters/Religions/Aescarite Legions/Legion of Compassion.md",
     "People/Overarching Plot Characters/Religions/Aescarite Legions/Legion of Explorers.md",
     "People/Overarching Plot Characters/Religions/Aescarite Legions/Legion of Harmony.md",
     "People/Overarching Plot Characters/Religions/Aescarite Legions/Legion of Knowledge.md",
     "People/Overarching Plot Characters/Religions/Aescarite Legions/Legion of Radiance.md",
-    "Events/World Events Pre-Campaign/The Foundation.md",
     "Locations/Aescar Infinite/Aescar Infinite.md",
-    "Locations/Aescar Infinite/Cities~Towns/Sundown Citadel/Sidequests/An old man needs help traveling to a haunted cabin without any violence..md",
-    "Locations/Aescar Infinite/Cities~Towns/Sundown Citadel/Sidequests/A young man needs you to build a mansion.md",
     "Locations/Aescar Infinite/Cities~Towns/Sundown Citadel/Sidequests/A young adult wants you to participate in a magic show..md",
-    "Locations/Aescar Infinite/Cities~Towns/Sundown Citadel/Sidequests/A vedalken needs help relocating a cursed relic to escape a scorned lover..md",
-    "Locations/Aescar Infinite/Cities~Towns/Sundown Citadel/Sidequests/A pack of familiars wants you to look into a temple..md",
-    "People/Overarching Plot Characters/Religions/Nether Worship/Warrior Worshippers/Children of the Eternal Flame.md",
-    "People/Overarching Plot Characters/Religions/Aescarite Legions/Divrin's Legion.md",
-    "Events/World Events Pre-Campaign/Aescar's Crusade.md",
-    "People/Overarching Plot Characters/Aescar Duskborne.md",
-    "People/Overarching Plot Characters/Jaerian Pantheon/Gods/Nether Gods/Calindra.md",
-    "People/Overarching Plot Characters/Jaerian Pantheon/Groups of Gods/The Aescar Endless Conflict/The Celestial Gods.md",
-    "People/Overarching Plot Characters/Jaerian Pantheon/Groups of Gods/The Aescar Endless Conflict/The Nether Gods.md",
-    "People/Overarching Plot Characters/Jaerian Pantheon/Groups of Gods/Jaerian Pantheon.md",
-    "People/Overarching Plot Characters/Jaerian Pantheon/Groups of Gods/Trio of War.md",
-    "Events/Prolouge",
-    "People/Overarching Plot Characters/Religions/Nether Worship/Warrior Worshippers",
-    "Events/World Events Pre-Campaign",
-    "Locations/Aescar Infinite/Cities~Towns/Duilogford",
-    "Locations/The Island Kingdom of Jar Celestia/Cities~Towns/Fahruns Keep/People",
-    "Locations/The Island Kingdom of Jar Celestia/Cities~Towns/Fahruns Keep",
-    "Locations/The Island Kingdom of Jar Celestia/People",
-    "Locations/The Wilds/Goblina on the Sea/People",
-    "Locations/The Wilds/Goblina on the Sea",
-    "Locations/The Wilds",
     "Images/sundown_citadel (2).png",
     "Images/Shanar.png"
   ]
