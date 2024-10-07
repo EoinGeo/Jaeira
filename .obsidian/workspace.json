@@ -11,8 +11,13 @@
             "id": "0178341facdf5416",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "People/Overarching Plot Characters/Religions/Aescarite Legions/Legion of Radiance.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
             }
           }
         ]
@@ -74,7 +79,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -95,6 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "People/Overarching Plot Characters/Religions/Aescarite Legions/Legion of Radiance.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,6 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "People/Overarching Plot Characters/Religions/Aescarite Legions/Legion of Radiance.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -144,7 +152,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "People/Overarching Plot Characters/Religions/Aescarite Legions/Legion of Radiance.md"
+              }
             }
           },
           {
@@ -193,14 +203,25 @@
   },
   "active": "0178341facdf5416",
   "lastOpenFiles": [
+    "People/Overarching Plot Characters/Religions/Aescarite Legions/Legion of Knowledge.md",
+    "People/Overarching Plot Characters/Religions/Aescarite Legions/Legion of Compassion.md",
+    "People/Overarching Plot Characters/Religions/Aescarite Legions/Legion of Arts.md",
     "Locations/The Island Kingdom of Jar Celestia/People/Karther Jarborn.md",
+    "Locations/The Island Kingdom of Jar Celestia/Cities~Towns/Fahruns Keep/Fahrun's Keep.md",
+    "People/Overarching Plot Characters/Religions/Aescarite Legions/Divrin's Legion.md",
+    "Locations/Aescar Infinite/Cities~Towns/Sundown Citadel/Sidequests/An old man needs help traveling to a haunted cabin without any violence..md",
+    "Locations/Aescar Infinite/Aescar Infinite.md",
+    "Locations/Aescar Infinite/Cities~Towns/Sundown Citadel/Sidequests/A young man needs you to build a mansion.md",
+    "Locations/Aescar Infinite/Cities~Towns/Sundown Citadel/Sidequests/A young adult wants you to participate in a magic show..md",
+    "Locations/Aescar Infinite/Cities~Towns/Sundown Citadel/Sidequests/A vedalken needs help relocating a cursed relic to escape a scorned lover..md",
+    "Locations/Aescar Infinite/Cities~Towns/Sundown Citadel/Sidequests/A pack of familiars wants you to look into a temple..md",
     "Locations/The Island Kingdom of Jar Celestia/The Island Kingdom of Jar Celestia.md",
     "Events/Arcs/Act 3.md",
+    "Events/Arcs/Act 1.md",
     "Locations/Aescar Infinite/Cities~Towns/Sundown Citadel/Sundown Citadel.md",
     "People/Overarching Plot Characters/Jaerian Pantheon/Gods/Aescar Gods/Selendra.md",
     "People/Overarching Plot Characters/Religions/Aescarite Legions/Caduntian Legion.md",
     "Events/World Events Pre-Campaign/Prologue.md",
-    "Events/Arcs/Act 1.md",
     "People/Player Characters/Act 3",
     "People/Player Characters/Act 2",
     "People/Player Characters/Act 1",
@@ -211,9 +232,6 @@
     "Events/Sessions (Act 1)",
     "Events/Sessions (Prologue)",
     "Events/Arcs",
-    "Locations/Aescar Infinite/Cities~Towns/Sundown Citadel/Sidequests/An old man needs help traveling to a haunted cabin without any violence..md",
-    "Locations/Aescar Infinite/Cities~Towns/Sundown Citadel/Sidequests/A young man needs you to build a mansion.md",
-    "Locations/Aescar Infinite/Cities~Towns/Sundown Citadel/Sidequests/A pack of familiars wants you to look into a temple..md",
     "Locations/Aescar Infinite/Cities~Towns/Sundown Citadel/Sidequests/A kenku wants you to participate in a chariot race..md",
     "Locations/Aescar Infinite/Cities~Towns/Sundown Citadel/Sidequests/A goliath wants you to capture a construct..md",
     "Events/World Events Pre-Campaign/Second War of the Gods.md",
@@ -222,15 +240,7 @@
     "Events/World Events Pre-Campaign/Aescar's Crusade.md",
     "Untitled 1.canvas",
     "Untitled.canvas",
-    "Locations/The Island Kingdom of Jar Celestia/Cities~Towns/Fahruns Keep/Fahrun's Keep.md",
-    "People/Overarching Plot Characters/Religions/Aescarite Legions/Legion of Arts.md",
-    "People/Overarching Plot Characters/Religions/Aescarite Legions/Legion of Compassion.md",
     "People/Overarching Plot Characters/Religions/Aescarite Legions/Legion of Explorers.md",
-    "People/Overarching Plot Characters/Religions/Aescarite Legions/Legion of Harmony.md",
-    "People/Overarching Plot Characters/Religions/Aescarite Legions/Legion of Knowledge.md",
-    "People/Overarching Plot Characters/Religions/Aescarite Legions/Legion of Radiance.md",
-    "Locations/Aescar Infinite/Aescar Infinite.md",
-    "Locations/Aescar Infinite/Cities~Towns/Sundown Citadel/Sidequests/A young adult wants you to participate in a magic show..md",
     "Images/sundown_citadel (2).png",
     "Images/Shanar.png"
   ]
