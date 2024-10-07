@@ -4,20 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "659ea75294db2e36",
+        "id": "fb7a99c50d762a3c",
         "type": "tabs",
         "children": [
           {
-            "id": "a893d2173a5cb82a",
+            "id": "7be85a23398a639c",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Events/Act 3.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -79,8 +74,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -101,7 +95,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Events/Act 3.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +111,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Events/Act 3.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -152,9 +144,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Events/Act 3.md"
-              }
+              "state": {}
             }
           },
           {
@@ -201,8 +191,11 @@
       "fantasy-content-generator:Fantasy Generators": false
     }
   },
-  "active": "a893d2173a5cb82a",
+  "active": "0f891f4967d714dd",
   "lastOpenFiles": [
+    "Untitled 1.canvas",
+    "Untitled.canvas",
+    "Events/Act 3.md",
     "Locations/The Island Kingdom of Jar Celestia/Cities~Towns/Fahruns Keep/Fahrun's Keep.md",
     "Locations/The Island Kingdom of Jar Celestia/People/Karther Jarborn.md",
     "People/Overarching Plot Characters/Religions/Aescarite Legions/Legion of Arts.md",
@@ -227,8 +220,6 @@
     "People/Overarching Plot Characters/Jaerian Pantheon/Groups of Gods/The Aescar Endless Conflict/The Nether Gods.md",
     "People/Overarching Plot Characters/Jaerian Pantheon/Groups of Gods/Jaerian Pantheon.md",
     "People/Overarching Plot Characters/Jaerian Pantheon/Groups of Gods/Trio of War.md",
-    "Locations/Aescar Infinite/Cities~Towns/Sundown Citadel/Sundown Citadel.md",
-    "People/Overarching Plot Characters/Jaerian Pantheon/Gods/Celestial Gods/Imlivil.md",
     "Events/Prolouge",
     "People/Overarching Plot Characters/Religions/Nether Worship/Warrior Worshippers",
     "Events/World Events Pre-Campaign",
@@ -240,8 +231,6 @@
     "Locations/The Wilds/Goblina on the Sea",
     "Locations/The Wilds",
     "Images/sundown_citadel (2).png",
-    "Untitled.canvas",
-    "Images/Shanar.png",
-    "Untitled 1.canvas"
+    "Images/Shanar.png"
   ]
 }
