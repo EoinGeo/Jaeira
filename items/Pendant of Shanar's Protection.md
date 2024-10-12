@@ -1,0 +1,1 @@
+A small pendent in the form of a triangular prism with the image of a [[The Aescar Gods]] or [[The Celestial Gods]] on one face, the name of the player in some forgotten tongue and the name of the currently protected individual in their native tongue.

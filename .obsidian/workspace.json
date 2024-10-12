@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Locations/Aescar Infinite/Cities~Towns/Duilogford/Duilogford.md",
+                "file": "items/Magic Items.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -100,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Locations/Aescar Infinite/Cities~Towns/Duilogford/Duilogford.md",
+                "file": "items/Magic Items.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Locations/Aescar Infinite/Cities~Towns/Duilogford/Duilogford.md",
+                "file": "items/Magic Items.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -152,7 +152,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Locations/Aescar Infinite/Cities~Towns/Duilogford/Duilogford.md"
+                "file": "items/Magic Items.md"
               }
             }
           },
@@ -202,7 +202,11 @@
   },
   "active": "0178341facdf5416",
   "lastOpenFiles": [
+    "items/Pendant of Shanar's Protection.md",
+    "items/Magic Items.md",
     "Locations/Aescar Infinite/Cities~Towns/Sundown Citadel/Sundown Citadel.md",
+    "Events/Arcs/Act 1.md",
+    "Locations/Aescar Infinite/Cities~Towns/Duilogford/Duilogford.md",
     "Images/Shanar.png",
     "People/Non Player Characters.md",
     "Events/World Events Pre-Campaign/Prologue.md",
@@ -216,8 +220,6 @@
     "Locations/The Island Kingdom of Jar Celestia/Cities~Towns/Fahruns Keep/People/The Kings Harem",
     "Events/Arcs/Act 2.md",
     "Events/Arcs/Act 3.md",
-    "Events/Arcs/Act 1.md",
-    "Locations/Aescar Infinite/Cities~Towns/Duilogford/Duilogford.md",
     "Locations/Aescar Infinite/Cities~Towns/Sundown Citadel/Locations/Shadow's Respite Inn.md",
     "Locations/Aescar Infinite/Cities~Towns/Sundown Citadel/People/Duskborne/Mirielle Nightshade.md",
     "Locations/Aescar Infinite/Cities~Towns/Sundown Citadel/People/Duskborne/Isabella Nightshade.md",
@@ -228,8 +230,6 @@
     "People/Overarching Plot Characters/Religions/Aescarite Legions/Legion of Compassion.md",
     "People/Overarching Plot Characters/Religions/Aescarite Legions/Legion of Arts.md",
     "Locations/The Island Kingdom of Jar Celestia/Cities~Towns/Fahruns Keep/Fahrun's Keep.md",
-    "People/Overarching Plot Characters/Religions/Aescarite Legions/Divrin's Legion.md",
-    "Locations/Aescar Infinite/Cities~Towns/Sundown Citadel/Sidequests/An old man needs help traveling to a haunted cabin without any violence..md",
     "People/Player Characters/Act 3",
     "People/Player Characters/Act 2",
     "People/Player Characters/Act 1",

@@ -13,7 +13,9 @@ The players wake up in **[[Goblina on the Sea]]**, infected with the **[[Curse o
     
     - **Curse Awakening:** The players wake up in a small coastal town, ravaged by chaos. They soon realize they are infected with the **[[Curse of Rellivvra]]**, which is slowly deteriorating their health and sanity.
     - **Escape the Town:** Their first mission is to escape **Goblina**, which is overrun by the **Curséd Folk** and minions of **[[Vorenthar]]**. They may steal a boat or find an alternate route to escape.
-2. **[[The Island Kingdom of Jar Celestia]]**:
+    - While stealing the boat they will see a woman [[Mirielle Nightshade]] with long silver hair with a ponytail and two fringes loose waving at them from a heavily damaged Goblin ship. Onboard that goblin ship there will be a skeleton for each party member, each with a [[Pendant of Shanar's Protection]]
+    - 
+1. **[[The Island Kingdom of Jar Celestia]]**:
     
     - Upon escaping, they arrive at **Jar [[Celestia]]**, a tranquil island kingdom that worships **[[Celestia]]**, the Goddess of Balance and Order.
     - **Seeking Answers:** Here, they learn more about the curse and its deadly nature. Scholars or clerics of **[[Celestia]]** offer clues about a cure, suggesting they travel north to **[[Sundown Citadel]]**, where the **[[Duskborne]]** bloodline may hold ancient knowledge about breaking such a curse.
