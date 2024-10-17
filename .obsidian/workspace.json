@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "items/Pendant of Shanar's Protection.md",
+                "file": "Locations/The Island Kingdom of Jar Celestia/People/Karther Jarborn.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -100,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "items/Pendant of Shanar's Protection.md",
+                "file": "Locations/The Island Kingdom of Jar Celestia/People/Karther Jarborn.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "items/Pendant of Shanar's Protection.md",
+                "file": "Locations/The Island Kingdom of Jar Celestia/People/Karther Jarborn.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -152,7 +152,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "items/Pendant of Shanar's Protection.md"
+                "file": "Locations/The Island Kingdom of Jar Celestia/People/Karther Jarborn.md"
               }
             }
           },
@@ -202,8 +202,8 @@
   },
   "active": "0178341facdf5416",
   "lastOpenFiles": [
-    "items/Magic Items.md",
     "items/Pendant of Shanar's Protection.md",
+    "items/Magic Items.md",
     "Locations/Aescar Infinite/Cities~Towns/Sundown Citadel/Sundown Citadel.md",
     "Events/Arcs/Act 1.md",
     "Locations/Aescar Infinite/Cities~Towns/Duilogford/Duilogford.md",
